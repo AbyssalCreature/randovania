@@ -4,7 +4,7 @@
         "internal_number": 7
     },
     "areas": {
-        "Waterfall Passage Far Bottom": {
+        "Waterfalls Passage Rock Bottom": {
             "default_node": null,
             "extra": {
                 "map_name": "rm_a7a01",
@@ -74,7 +74,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Horizontal Dock to Waterfall Ravine South West": {
+                        "Horizontal Dock to Waterfalls Ravine Southwest": {
                             "type": "or",
                             "data": {
                                 "comment": null,
@@ -97,7 +97,7 @@
                         }
                     }
                 },
-                "Horizontal Dock to Waterfall Ravine South West": {
+                "Horizontal Dock to Waterfalls Ravine Southwest": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -114,8 +114,8 @@
                     "dock_type": "horizontal_dock",
                     "default_connection": {
                         "region": "Genetics Laboratory",
-                        "area": "Waterfall Ravine South West",
-                        "node": "Horizontal Dock to Waterfall Passage Far Bottom"
+                        "area": "Waterfalls Ravine Southwest",
+                        "node": "Horizontal Dock to Waterfalls Passage Rock Bottom"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
                     "exclude_from_dock_rando": false,
@@ -149,7 +149,7 @@
                 }
             }
         },
-        "Waterfall Ravine South West": {
+        "Waterfalls Ravine Southwest": {
             "default_node": null,
             "extra": {
                 "map_name": "rm_a7a02",
@@ -171,7 +171,7 @@
                 }
             },
             "nodes": {
-                "Horizontal Dock to Waterfall Passage Far Bottom": {
+                "Horizontal Dock to Waterfalls Passage Rock Bottom": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -188,8 +188,8 @@
                     "dock_type": "horizontal_dock",
                     "default_connection": {
                         "region": "Genetics Laboratory",
-                        "area": "Waterfall Passage Far Bottom",
-                        "node": "Horizontal Dock to Waterfall Ravine South West"
+                        "area": "Waterfalls Passage Rock Bottom",
+                        "node": "Horizontal Dock to Waterfalls Ravine Southwest"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
                     "exclude_from_dock_rando": false,
@@ -198,7 +198,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Horizontal Dock to Waterfall Passage Bottom": {
+                        "Horizontal Dock to Waterfalls Passage Bottom": {
                             "type": "or",
                             "data": {
                                 "comment": null,
@@ -212,7 +212,7 @@
                         }
                     }
                 },
-                "Horizontal Dock to Waterfall Passage Bottom": {
+                "Horizontal Dock to Waterfalls Passage Bottom": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -229,8 +229,8 @@
                     "dock_type": "horizontal_dock",
                     "default_connection": {
                         "region": "Genetics Laboratory",
-                        "area": "Waterfall Passage Bottom",
-                        "node": "Horizontal Dock to Waterfall Ravine South West"
+                        "area": "Waterfalls Passage Bottom",
+                        "node": "Horizontal Dock to Waterfalls Ravine Southwest"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
                     "exclude_from_dock_rando": false,
@@ -239,7 +239,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Horizontal Dock to Waterfall Passage Far Bottom": {
+                        "Horizontal Dock to Waterfalls Passage Rock Bottom": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -250,7 +250,7 @@
                 }
             }
         },
-        "Waterfall Passage Bottom": {
+        "Waterfalls Passage Bottom": {
             "default_node": null,
             "extra": {
                 "map_name": "rm_a7a03",
@@ -284,7 +284,7 @@
                 }
             },
             "nodes": {
-                "Horizontal Dock to Waterfall Ravine South West": {
+                "Horizontal Dock to Waterfalls Ravine Southwest": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -301,8 +301,8 @@
                     "dock_type": "horizontal_dock",
                     "default_connection": {
                         "region": "Genetics Laboratory",
-                        "area": "Waterfall Ravine South West",
-                        "node": "Horizontal Dock to Waterfall Passage Bottom"
+                        "area": "Waterfalls Ravine Southwest",
+                        "node": "Horizontal Dock to Waterfalls Passage Bottom"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
                     "exclude_from_dock_rando": false,
@@ -311,7 +311,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Horizontal Dock to Waterfall Ravine South East": {
+                        "Horizontal Dock to Waterfalls Ravine Southeast": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -320,7 +320,7 @@
                         }
                     }
                 },
-                "Horizontal Dock to Waterfall Ravine South East": {
+                "Horizontal Dock to Waterfalls Ravine Southeast": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -337,8 +337,8 @@
                     "dock_type": "horizontal_dock",
                     "default_connection": {
                         "region": "Genetics Laboratory",
-                        "area": "Waterfall Ravine South East",
-                        "node": "Horizontal Dock to Waterfall Passage Bottom"
+                        "area": "Waterfalls Ravine Southeast",
+                        "node": "Horizontal Dock to Waterfalls Passage Bottom"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
                     "exclude_from_dock_rando": false,
@@ -347,7 +347,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Horizontal Dock to Waterfall Ravine South West": {
+                        "Horizontal Dock to Waterfalls Ravine Southwest": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -358,7 +358,7 @@
                 }
             }
         },
-        "Waterfall Ravine South East": {
+        "Waterfalls Ravine Southeast": {
             "default_node": null,
             "extra": {
                 "map_name": "rm_a7a04",
@@ -380,7 +380,7 @@
                 }
             },
             "nodes": {
-                "Horizontal Dock to Waterfall Passage Bottom": {
+                "Horizontal Dock to Waterfalls Passage Bottom": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -397,8 +397,8 @@
                     "dock_type": "horizontal_dock",
                     "default_connection": {
                         "region": "Genetics Laboratory",
-                        "area": "Waterfall Passage Bottom",
-                        "node": "Horizontal Dock to Waterfall Ravine South East"
+                        "area": "Waterfalls Passage Bottom",
+                        "node": "Horizontal Dock to Waterfalls Ravine Southeast"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
                     "exclude_from_dock_rando": false,
@@ -407,7 +407,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Horizontal Dock to Waterfall Passage Middle": {
+                        "Horizontal Dock to Waterfalls Passage Core": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -425,7 +425,7 @@
                         }
                     }
                 },
-                "Horizontal Dock to Waterfall Passage Middle": {
+                "Horizontal Dock to Waterfalls Passage Core": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -442,8 +442,8 @@
                     "dock_type": "horizontal_dock",
                     "default_connection": {
                         "region": "Genetics Laboratory",
-                        "area": "Waterfall Passage Middle",
-                        "node": "Horizontal Dock to Waterfall Ravine South East"
+                        "area": "Waterfalls Passage Core",
+                        "node": "Horizontal Dock to Waterfalls Ravine Southeast"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
                     "exclude_from_dock_rando": false,
@@ -452,7 +452,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Horizontal Dock to Waterfall Passage Bottom": {
+                        "Horizontal Dock to Waterfalls Passage Bottom": {
                             "type": "or",
                             "data": {
                                 "comment": null,
@@ -473,7 +473,7 @@
                 }
             }
         },
-        "Waterfall Passage Middle": {
+        "Waterfalls Passage Core": {
             "default_node": null,
             "extra": {
                 "map_name": "rm_a7a05",
@@ -503,7 +503,7 @@
                 }
             },
             "nodes": {
-                "Horizontal Dock to Waterfall Ravine South East": {
+                "Horizontal Dock to Waterfalls Ravine Southeast": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -520,8 +520,8 @@
                     "dock_type": "horizontal_dock",
                     "default_connection": {
                         "region": "Genetics Laboratory",
-                        "area": "Waterfall Ravine South East",
-                        "node": "Horizontal Dock to Waterfall Passage Middle"
+                        "area": "Waterfalls Ravine Southeast",
+                        "node": "Horizontal Dock to Waterfalls Passage Core"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
                     "exclude_from_dock_rando": false,
@@ -530,7 +530,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Horizontal Dock to Waterfall Ravine North West": {
+                        "Horizontal Dock to Waterfalls Ravine Northwest": {
                             "type": "or",
                             "data": {
                                 "comment": null,
@@ -553,7 +553,7 @@
                         }
                     }
                 },
-                "Horizontal Dock to Waterfall Ravine North West": {
+                "Horizontal Dock to Waterfalls Ravine Northwest": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -570,8 +570,8 @@
                     "dock_type": "horizontal_dock",
                     "default_connection": {
                         "region": "Genetics Laboratory",
-                        "area": "Waterfall Ravine North West",
-                        "node": "Horizontal Dock to Waterfall Passage Middle"
+                        "area": "Waterfalls Ravine Northwest",
+                        "node": "Horizontal Dock to Waterfalls Passage Core"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
                     "exclude_from_dock_rando": false,
@@ -580,7 +580,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Horizontal Dock to Waterfall Ravine South East": {
+                        "Horizontal Dock to Waterfalls Ravine Southeast": {
                             "type": "or",
                             "data": {
                                 "comment": null,
@@ -596,7 +596,7 @@
                 }
             }
         },
-        "Waterfall Ravine North West": {
+        "Waterfalls Ravine Northwest": {
             "default_node": null,
             "extra": {
                 "map_name": "rm_a7a06",
@@ -618,7 +618,7 @@
                 }
             },
             "nodes": {
-                "Horizontal Dock to Waterfall Passage Middle": {
+                "Horizontal Dock to Waterfalls Passage Core": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -635,8 +635,8 @@
                     "dock_type": "horizontal_dock",
                     "default_connection": {
                         "region": "Genetics Laboratory",
-                        "area": "Waterfall Passage Middle",
-                        "node": "Horizontal Dock to Waterfall Ravine North West"
+                        "area": "Waterfalls Passage Core",
+                        "node": "Horizontal Dock to Waterfalls Ravine Northwest"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
                     "exclude_from_dock_rando": false,
@@ -645,7 +645,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Door to Waterfall Passage Top": {
+                        "Door to Waterfalls Passage Top": {
                             "type": "or",
                             "data": {
                                 "comment": null,
@@ -659,7 +659,7 @@
                         }
                     }
                 },
-                "Door to Waterfall Passage Top": {
+                "Door to Waterfalls Passage Top": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -681,8 +681,8 @@
                     "dock_type": "door",
                     "default_connection": {
                         "region": "Genetics Laboratory",
-                        "area": "Waterfall Passage Top",
-                        "node": "Door to Waterfall Ravine North West"
+                        "area": "Waterfalls Passage Top",
+                        "node": "Door to Waterfalls Ravine Northwest"
                     },
                     "default_dock_weakness": "Open Transition",
                     "exclude_from_dock_rando": false,
@@ -691,7 +691,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Horizontal Dock to Waterfall Passage Middle": {
+                        "Horizontal Dock to Waterfalls Passage Core": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -702,7 +702,7 @@
                 }
             }
         },
-        "Waterfall Passage Top": {
+        "Waterfalls Passage Top": {
             "default_node": null,
             "extra": {
                 "map_name": "rm_a7a07",
@@ -732,7 +732,7 @@
                 }
             },
             "nodes": {
-                "Door to Waterfall Ravine North West": {
+                "Door to Waterfalls Ravine Northwest": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -754,8 +754,8 @@
                     "dock_type": "door",
                     "default_connection": {
                         "region": "Genetics Laboratory",
-                        "area": "Waterfall Ravine North West",
-                        "node": "Door to Waterfall Passage Top"
+                        "area": "Waterfalls Ravine Northwest",
+                        "node": "Door to Waterfalls Passage Top"
                     },
                     "default_dock_weakness": "Open Transition",
                     "exclude_from_dock_rando": false,
@@ -764,7 +764,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Door to Waterfall Ravine North East": {
+                        "Door to Waterfalls Ravine Northeast": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -773,7 +773,7 @@
                         }
                     }
                 },
-                "Door to Waterfall Ravine North East": {
+                "Door to Waterfalls Ravine Northeast": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -795,8 +795,8 @@
                     "dock_type": "door",
                     "default_connection": {
                         "region": "Genetics Laboratory",
-                        "area": "Waterfall Ravine North East",
-                        "node": "Door to Waterfall Passage Top"
+                        "area": "Waterfalls Ravine Northeast",
+                        "node": "Door to Waterfalls Passage Top"
                     },
                     "default_dock_weakness": "Open Transition",
                     "exclude_from_dock_rando": false,
@@ -805,7 +805,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Door to Waterfall Ravine North West": {
+                        "Door to Waterfalls Ravine Northwest": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -849,7 +849,7 @@
                     "default_connection": {
                         "region": "Genetics Laboratory",
                         "area": "Waterfalls Exterior",
-                        "node": "Dock to Waterfall Passage Top"
+                        "node": "Dock to Waterfalls Passage Top"
                     },
                     "default_dock_weakness": "Back Only",
                     "exclude_from_dock_rando": false,
@@ -858,7 +858,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Door to Waterfall Ravine North East": {
+                        "Door to Waterfalls Ravine Northeast": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -888,7 +888,7 @@
                     "dock_type": "teleporter",
                     "default_connection": {
                         "region": "The Depths",
-                        "area": "Bubble Lair Omega Nest South West Access",
+                        "area": "The Nest Bubble Hallway Southwest Pipe",
                         "node": "Pipe to Genetics Laboratory"
                     },
                     "default_dock_weakness": "Teleporter",
@@ -898,7 +898,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": "Genetics Laboratory - Waterfall Pipe",
                     "connections": {
-                        "Door to Waterfall Ravine North East": {
+                        "Door to Waterfalls Ravine Northeast": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -919,7 +919,7 @@
                 }
             }
         },
-        "Waterfall Ravine North East": {
+        "Waterfalls Ravine Northeast": {
             "default_node": null,
             "extra": {
                 "map_name": "rm_a7a07a",
@@ -948,7 +948,7 @@
                 }
             },
             "nodes": {
-                "Door to Waterfall Passage Top": {
+                "Door to Waterfalls Passage Top": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -970,8 +970,8 @@
                     "dock_type": "door",
                     "default_connection": {
                         "region": "Genetics Laboratory",
-                        "area": "Waterfall Passage Top",
-                        "node": "Door to Waterfall Ravine North East"
+                        "area": "Waterfalls Passage Top",
+                        "node": "Door to Waterfalls Ravine Northeast"
                     },
                     "default_dock_weakness": "Open Transition",
                     "exclude_from_dock_rando": false,
@@ -1012,7 +1012,7 @@
                     "default_connection": {
                         "region": "Genetics Laboratory",
                         "area": "Waterfalls Exterior",
-                        "node": "Horizontal Dock to Waterfall Ravine North East"
+                        "node": "Horizontal Dock to Waterfalls Ravine Northeast"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
                     "exclude_from_dock_rando": false,
@@ -1021,7 +1021,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Door to Waterfall Passage Top": {
+                        "Door to Waterfalls Passage Top": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -1222,7 +1222,7 @@
                 }
             },
             "nodes": {
-                "Dock to Waterfall Passage Top": {
+                "Dock to Waterfalls Passage Top": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -1239,7 +1239,7 @@
                     "dock_type": "other",
                     "default_connection": {
                         "region": "Genetics Laboratory",
-                        "area": "Waterfall Passage Top",
+                        "area": "Waterfalls Passage Top",
                         "node": "Dock from Waterfalls Exterior"
                     },
                     "default_dock_weakness": "Open Passage",
@@ -1277,7 +1277,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Horizontal Dock to Waterfall Ravine North East": {
+                        "Horizontal Dock to Waterfalls Ravine Northeast": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -1286,7 +1286,7 @@
                         }
                     }
                 },
-                "Horizontal Dock to Waterfall Ravine North East": {
+                "Horizontal Dock to Waterfalls Ravine Northeast": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -1303,7 +1303,7 @@
                     "dock_type": "horizontal_dock",
                     "default_connection": {
                         "region": "Genetics Laboratory",
-                        "area": "Waterfall Ravine North East",
+                        "area": "Waterfalls Ravine Northeast",
                         "node": "Horizontal Dock to Waterfalls Exterior"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
@@ -1313,7 +1313,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Dock to Waterfall Passage Top": {
+                        "Dock to Waterfalls Passage Top": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -2138,7 +2138,7 @@
                     "dock_type": "teleporter",
                     "default_connection": {
                         "region": "Hydro Station",
-                        "area": "Water Turbine Station Pipe",
+                        "area": "Water Turbine Pipe",
                         "node": "Pipe to Genetics Laboratory"
                     },
                     "default_dock_weakness": "Teleporter",
@@ -4875,7 +4875,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Door to Queen Arena Access": {
+                        "Door to Laboratory Spike Corridor": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -4884,7 +4884,7 @@
                         }
                     }
                 },
-                "Door to Queen Arena Access": {
+                "Door to Laboratory Spike Corridor": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -4903,7 +4903,7 @@
                     "dock_type": "door",
                     "default_connection": {
                         "region": "Genetics Laboratory",
-                        "area": "Queen Arena Access",
+                        "area": "Laboratory Spike Corridor",
                         "node": "Door to Laboratory Small Shaft West"
                     },
                     "default_dock_weakness": "Normal Door",
@@ -4929,7 +4929,7 @@
                 }
             }
         },
-        "Queen Arena Access": {
+        "Laboratory Spike Corridor": {
             "default_node": null,
             "extra": {
                 "map_name": "rm_a7b10",
@@ -4979,7 +4979,7 @@
                     "default_connection": {
                         "region": "Genetics Laboratory",
                         "area": "Laboratory Small Shaft West",
-                        "node": "Door to Queen Arena Access"
+                        "node": "Door to Laboratory Spike Corridor"
                     },
                     "default_dock_weakness": "Normal Door",
                     "exclude_from_dock_rando": false,
@@ -5076,7 +5076,7 @@
                     "default_connection": {
                         "region": "Genetics Laboratory",
                         "area": "Queen Arena",
-                        "node": "Dock from Queen Arena Access"
+                        "node": "Dock from Laboratory Spike Corridor"
                     },
                     "default_dock_weakness": "Open Passage",
                     "exclude_from_dock_rando": false,
@@ -5234,7 +5234,7 @@
                         }
                     }
                 },
-                "Dock from Queen Arena Access": {
+                "Dock from Laboratory Spike Corridor": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -5251,7 +5251,7 @@
                     "dock_type": "other",
                     "default_connection": {
                         "region": "Genetics Laboratory",
-                        "area": "Queen Arena Access",
+                        "area": "Laboratory Spike Corridor",
                         "node": "Dock to Queen Arena"
                     },
                     "default_dock_weakness": "Back Only",

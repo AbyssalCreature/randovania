@@ -1,5 +1,5 @@
 ----------------
-Waterfall Passage Far Bottom
+Waterfalls Passage Rock Bottom
 Extra - map_name: rm_a7a01
 Extra - minimap_data: [{'x': 6, 'y': 37}, {'x': 7, 'y': 37}, {'x': 8, 'y': 37}, {'x': 9, 'y': 37}, {'x': 10, 'y': 37}, {'x': 11, 'y': 37}]
 Extra - light_level: 0
@@ -11,161 +11,161 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 184, 'should_move_horizo
   * Extra - facing: left
   * Extra - x: 1920
   * Extra - y: 144
-  > Horizontal Dock to Waterfall Ravine South West
+  > Horizontal Dock to Waterfalls Ravine Southwest
       Gravity Suit or Power Grip Wall
 
-> Horizontal Dock to Waterfall Ravine South West; Heals? False
+> Horizontal Dock to Waterfalls Ravine Southwest; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Waterfall Ravine South West/Horizontal Dock to Waterfall Passage Far Bottom
+  * 3-Tiles High Dock to Waterfalls Ravine Southwest/Horizontal Dock to Waterfalls Passage Rock Bottom
   > Door to The Depths
       Gravity Suit or Power Grip Wall
 
 ----------------
-Waterfall Ravine South West
+Waterfalls Ravine Southwest
 Extra - map_name: rm_a7a02
 Extra - minimap_data: [{'x': 5, 'y': 36}, {'x': 5, 'y': 37}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 424, 'should_move_horizontally': True}
-> Horizontal Dock to Waterfall Passage Far Bottom; Heals? False
+> Horizontal Dock to Waterfalls Passage Rock Bottom; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Waterfall Passage Far Bottom/Horizontal Dock to Waterfall Ravine South West
-  > Horizontal Dock to Waterfall Passage Bottom
+  * 3-Tiles High Dock to Waterfalls Passage Rock Bottom/Horizontal Dock to Waterfalls Ravine Southwest
+  > Horizontal Dock to Waterfalls Passage Bottom
       Hijump Wall
 
-> Horizontal Dock to Waterfall Passage Bottom; Heals? False
+> Horizontal Dock to Waterfalls Passage Bottom; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Waterfall Passage Bottom/Horizontal Dock to Waterfall Ravine South West
-  > Horizontal Dock to Waterfall Passage Far Bottom
+  * 3-Tiles High Dock to Waterfalls Passage Bottom/Horizontal Dock to Waterfalls Ravine Southwest
+  > Horizontal Dock to Waterfalls Passage Rock Bottom
       Trivial
 
 ----------------
-Waterfall Passage Bottom
+Waterfalls Passage Bottom
 Extra - map_name: rm_a7a03
 Extra - minimap_data: [{'x': 6, 'y': 36}, {'x': 7, 'y': 36}, {'x': 8, 'y': 36}, {'x': 9, 'y': 36}, {'x': 10, 'y': 36}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 184, 'should_move_horizontally': True}
-> Horizontal Dock to Waterfall Ravine South West; Heals? False
+> Horizontal Dock to Waterfalls Ravine Southwest; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Waterfall Ravine South West/Horizontal Dock to Waterfall Passage Bottom
-  > Horizontal Dock to Waterfall Ravine South East
+  * 3-Tiles High Dock to Waterfalls Ravine Southwest/Horizontal Dock to Waterfalls Passage Bottom
+  > Horizontal Dock to Waterfalls Ravine Southeast
       Trivial
 
-> Horizontal Dock to Waterfall Ravine South East; Heals? False
+> Horizontal Dock to Waterfalls Ravine Southeast; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Waterfall Ravine South East/Horizontal Dock to Waterfall Passage Bottom
-  > Horizontal Dock to Waterfall Ravine South West
+  * 3-Tiles High Dock to Waterfalls Ravine Southeast/Horizontal Dock to Waterfalls Passage Bottom
+  > Horizontal Dock to Waterfalls Ravine Southwest
       Trivial
 
 ----------------
-Waterfall Ravine South East
+Waterfalls Ravine Southeast
 Extra - map_name: rm_a7a04
 Extra - minimap_data: [{'x': 11, 'y': 35}, {'x': 11, 'y': 36}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 424, 'should_move_horizontally': True}
-> Horizontal Dock to Waterfall Passage Bottom; Heals? False
+> Horizontal Dock to Waterfalls Passage Bottom; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Waterfall Passage Bottom/Horizontal Dock to Waterfall Ravine South East
-  > Horizontal Dock to Waterfall Passage Middle
+  * 3-Tiles High Dock to Waterfalls Passage Bottom/Horizontal Dock to Waterfalls Ravine Southeast
+  > Horizontal Dock to Waterfalls Passage Core
       Power Grip Wall and Tunnel Climb
 
-> Horizontal Dock to Waterfall Passage Middle; Heals? False
+> Horizontal Dock to Waterfalls Passage Core; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Waterfall Passage Middle/Horizontal Dock to Waterfall Ravine South East
-  > Horizontal Dock to Waterfall Passage Bottom
+  * 3-Tiles High Dock to Waterfalls Passage Core/Horizontal Dock to Waterfalls Ravine Southeast
+  > Horizontal Dock to Waterfalls Passage Bottom
       Morph Ball
 
 ----------------
-Waterfall Passage Middle
+Waterfalls Passage Core
 Extra - map_name: rm_a7a05
 Extra - minimap_data: [{'x': 7, 'y': 35}, {'x': 8, 'y': 35}, {'x': 9, 'y': 35}, {'x': 10, 'y': 35}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 184, 'should_move_horizontally': True}
-> Horizontal Dock to Waterfall Ravine South East; Heals? False
+> Horizontal Dock to Waterfalls Ravine Southeast; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Waterfall Ravine South East/Horizontal Dock to Waterfall Passage Middle
-  > Horizontal Dock to Waterfall Ravine North West
+  * 3-Tiles High Dock to Waterfalls Ravine Southeast/Horizontal Dock to Waterfalls Passage Core
+  > Horizontal Dock to Waterfalls Ravine Northwest
       Gravity Suit or Power Grip Wall
 
-> Horizontal Dock to Waterfall Ravine North West; Heals? False
+> Horizontal Dock to Waterfalls Ravine Northwest; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Waterfall Ravine North West/Horizontal Dock to Waterfall Passage Middle
-  > Horizontal Dock to Waterfall Ravine South East
+  * 3-Tiles High Dock to Waterfalls Ravine Northwest/Horizontal Dock to Waterfalls Passage Core
+  > Horizontal Dock to Waterfalls Ravine Southeast
       Power Grip Wall
 
 ----------------
-Waterfall Ravine North West
+Waterfalls Ravine Northwest
 Extra - map_name: rm_a7a06
 Extra - minimap_data: [{'x': 6, 'y': 34}, {'x': 6, 'y': 35}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 428, 'should_move_horizontally': True}
-> Horizontal Dock to Waterfall Passage Middle; Heals? False
+> Horizontal Dock to Waterfalls Passage Core; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Waterfall Passage Middle/Horizontal Dock to Waterfall Ravine North West
-  > Door to Waterfall Passage Top
+  * 3-Tiles High Dock to Waterfalls Passage Core/Horizontal Dock to Waterfalls Ravine Northwest
+  > Door to Waterfalls Passage Top
       Hijump Wall
 
-> Door to Waterfall Passage Top; Heals? False
+> Door to Waterfalls Passage Top; Heals? False
   * Layers: default
-  * Open Transition to Waterfall Passage Top/Door to Waterfall Ravine North West
+  * Open Transition to Waterfalls Passage Top/Door to Waterfalls Ravine Northwest
   * Extra - instance_id: 145727
   * Extra - facing: left
   * Extra - x: 320
   * Extra - y: 144
-  > Horizontal Dock to Waterfall Passage Middle
+  > Horizontal Dock to Waterfalls Passage Core
       Trivial
 
 ----------------
-Waterfall Passage Top
+Waterfalls Passage Top
 Extra - map_name: rm_a7a07
 Extra - minimap_data: [{'x': 7, 'y': 34}, {'x': 8, 'y': 34}, {'x': 9, 'y': 34}, {'x': 10, 'y': 34}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 184, 'should_move_horizontally': True}
-> Door to Waterfall Ravine North West; Heals? False
+> Door to Waterfalls Ravine Northwest; Heals? False
   * Layers: default
-  * Open Transition to Waterfall Ravine North West/Door to Waterfall Passage Top
+  * Open Transition to Waterfalls Ravine Northwest/Door to Waterfalls Passage Top
   * Extra - instance_id: 145811
   * Extra - facing: right
   * Extra - x: 0
   * Extra - y: 144
-  > Door to Waterfall Ravine North East
+  > Door to Waterfalls Ravine Northeast
       Trivial
 
-> Door to Waterfall Ravine North East; Heals? False
+> Door to Waterfalls Ravine Northeast; Heals? False
   * Layers: default
-  * Open Transition to Waterfall Ravine North East/Door to Waterfall Passage Top
+  * Open Transition to Waterfalls Ravine Northeast/Door to Waterfalls Passage Top
   * Extra - instance_id: 145824
   * Extra - facing: left
   * Extra - x: 1280
   * Extra - y: 160
-  > Door to Waterfall Ravine North West
+  > Door to Waterfalls Ravine Northwest
       Trivial
   > Pipe to The Depths
       Morph Ball
 
 > Dock from Waterfalls Exterior; Heals? False
   * Layers: default
-  * Back Only to Waterfalls Exterior/Dock to Waterfall Passage Top
-  > Door to Waterfall Ravine North East
+  * Back Only to Waterfalls Exterior/Dock to Waterfalls Passage Top
+  > Door to Waterfalls Ravine Northeast
       Trivial
 
 > Pipe to The Depths; Heals? False
   * Layers: new-pipes
-  * Teleporter to Bubble Lair Omega Nest South West Access/Pipe to Genetics Laboratory; Custom name: Genetics Laboratory - Waterfall Pipe
+  * Teleporter to The Nest Bubble Hallway Southwest Pipe/Pipe to Genetics Laboratory; Custom name: Genetics Laboratory - Waterfall Pipe
   * Extra - instance_id: 400006
   * Extra - dest_x: 904
   * Extra - dest_y: 208
-  > Door to Waterfall Ravine North East
+  > Door to Waterfalls Ravine Northeast
       Morph Ball
 
 ----------------
-Waterfall Ravine North East
+Waterfalls Ravine Northeast
 Extra - map_name: rm_a7a07a
 Extra - minimap_data: [{'x': 11, 'y': 31}, {'x': 11, 'y': 32}, {'x': 11, 'y': 33}, {'x': 11, 'y': 34}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
-> Door to Waterfall Passage Top; Heals? False
+> Door to Waterfalls Passage Top; Heals? False
   * Layers: default
-  * Open Transition to Waterfall Passage Top/Door to Waterfall Ravine North East
+  * Open Transition to Waterfalls Passage Top/Door to Waterfalls Ravine Northeast
   * Extra - instance_id: 145832
   * Extra - facing: right
   * Extra - x: 0
@@ -175,8 +175,8 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 
 > Horizontal Dock to Waterfalls Exterior; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Waterfalls Exterior/Horizontal Dock to Waterfall Ravine North East
-  > Door to Waterfall Passage Top
+  * 3-Tiles High Dock to Waterfalls Exterior/Horizontal Dock to Waterfalls Ravine Northeast
+  > Door to Waterfalls Passage Top
       Trivial
 
 ----------------
@@ -185,20 +185,20 @@ Extra - map_name: rm_a7a08
 Extra - minimap_data: [{'x': 6, 'y': 24}, {'x': 6, 'y': 25}, {'x': 6, 'y': 26}, {'x': 6, 'y': 27}, {'x': 6, 'y': 28}, {'x': 6, 'y': 29}, {'x': 6, 'y': 30}, {'x': 6, 'y': 31}, {'x': 7, 'y': 24}, {'x': 7, 'y': 25}, {'x': 7, 'y': 26}, {'x': 7, 'y': 27}, {'x': 7, 'y': 28}, {'x': 7, 'y': 29}, {'x': 7, 'y': 30}, {'x': 7, 'y': 31}, {'x': 7, 'y': 32}, {'x': 8, 'y': 24}, {'x': 8, 'y': 25}, {'x': 8, 'y': 26}, {'x': 8, 'y': 27}, {'x': 8, 'y': 28}, {'x': 8, 'y': 29}, {'x': 8, 'y': 30}, {'x': 8, 'y': 31}, {'x': 8, 'y': 32}, {'x': 8, 'y': 33}, {'x': 9, 'y': 24}, {'x': 9, 'y': 25}, {'x': 9, 'y': 26}, {'x': 9, 'y': 27}, {'x': 9, 'y': 28}, {'x': 9, 'y': 29}, {'x': 9, 'y': 30}, {'x': 9, 'y': 31}, {'x': 9, 'y': 32}, {'x': 10, 'y': 24}, {'x': 10, 'y': 25}, {'x': 10, 'y': 26}, {'x': 10, 'y': 27}, {'x': 10, 'y': 28}, {'x': 10, 'y': 29}, {'x': 10, 'y': 30}, {'x': 10, 'y': 31}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 1904, 'should_move_horizontally': True}
-> Dock to Waterfall Passage Top; Heals? False
+> Dock to Waterfalls Passage Top; Heals? False
   * Layers: default
-  * Open Passage to Waterfall Passage Top/Dock from Waterfalls Exterior
+  * Open Passage to Waterfalls Passage Top/Dock from Waterfalls Exterior
 
 > Vertical Dock to Laboratory Save Station Access; Heals? False
   * Layers: default
   * 2-Tiles Wide Dock to Laboratory Save Station Access/Vertical Dock to Waterfalls Exterior
-  > Horizontal Dock to Waterfall Ravine North East
+  > Horizontal Dock to Waterfalls Ravine Northeast
       Trivial
 
-> Horizontal Dock to Waterfall Ravine North East; Heals? False
+> Horizontal Dock to Waterfalls Ravine Northeast; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Waterfall Ravine North East/Horizontal Dock to Waterfalls Exterior
-  > Dock to Waterfall Passage Top
+  * 3-Tiles High Dock to Waterfalls Ravine Northeast/Horizontal Dock to Waterfalls Exterior
+  > Dock to Waterfalls Passage Top
       Trivial
   > Vertical Dock to Laboratory Save Station Access
       Any of the following:
@@ -312,7 +312,7 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 
 > Pipe to Hydro Station; Heals? False
   * Layers: default
-  * Teleporter to Water Turbine Station Pipe/Pipe to Genetics Laboratory
+  * Teleporter to Water Turbine Pipe/Pipe to Genetics Laboratory
   * Extra - instance_id: 146564
   * Extra - dest_x: 488
   * Extra - dest_y: 128
@@ -709,18 +709,18 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
   * Layers: default
   * Normal Door to Laboratory Arena/Door to Laboratory Small Shaft West; Dock Lock Rando incompatible with: Hydro Station Water Turbine, Research Site Open Hatch
   * Extra - instance_id: 147404
-  > Door to Queen Arena Access
+  > Door to Laboratory Spike Corridor
       Trivial
 
-> Door to Queen Arena Access; Heals? False
+> Door to Laboratory Spike Corridor; Heals? False
   * Layers: default
-  * Normal Door to Queen Arena Access/Door to Laboratory Small Shaft West
+  * Normal Door to Laboratory Spike Corridor/Door to Laboratory Small Shaft West
   * Extra - instance_id: 147405
   > Door to Laboratory Arena
       Power Grip Wall
 
 ----------------
-Queen Arena Access
+Laboratory Spike Corridor
 Extra - map_name: rm_a7b10
 Extra - minimap_data: [{'x': 6, 'y': 19}, {'x': 7, 'y': 19}, {'x': 8, 'y': 19}, {'x': 9, 'y': 19}]
 Extra - force_blue_labs: True
@@ -728,7 +728,7 @@ Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 > Door to Laboratory Small Shaft West; Heals? False
   * Layers: default
-  * Normal Door to Laboratory Small Shaft West/Door to Queen Arena Access
+  * Normal Door to Laboratory Small Shaft West/Door to Laboratory Spike Corridor
   * Extra - instance_id: 147656
   > Dock to Queen Arena
       Any of the following:
@@ -739,7 +739,7 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 
 > Dock to Queen Arena; Heals? False
   * Layers: default
-  * Open Passage to Queen Arena/Dock from Queen Arena Access
+  * Open Passage to Queen Arena/Dock from Laboratory Spike Corridor
   > Door to Laboratory Small Shaft West
       Any of the following:
           Space Jump
@@ -764,9 +764,9 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
   > Event - Queen
       After Boss - Queen Defeated
 
-> Dock from Queen Arena Access; Heals? False
+> Dock from Laboratory Spike Corridor; Heals? False
   * Layers: default
-  * Back Only to Queen Arena Access/Dock to Queen Arena
+  * Back Only to Laboratory Spike Corridor/Dock to Queen Arena
   > Event - Queen
       All of the following:
           All of the following:
