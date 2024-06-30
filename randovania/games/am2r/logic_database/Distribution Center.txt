@@ -443,9 +443,9 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
   > Bottom
       Can Use Any Bombs
 
-> Door to Energy Distribution Zeta Nest; Heals? False
+> Door to Energy Distribution Zeta Den; Heals? False
   * Layers: default
-  * Distribution Center Energy Distribution Tower East EMP Door to Energy Distribution Zeta Nest/Door to Energy Distribution Tower East
+  * Distribution Center Energy Distribution Tower East EMP Door to Energy Distribution Zeta Den/Door to Energy Distribution Tower East
   * Extra - instance_id: 133911
   > Bottom
       Trivial
@@ -475,25 +475,25 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
                   Any of the following:
                       Hi-Jump Boots
                       Walljump (Intermediate) and Can Walljump
-  > Door to Energy Distribution Zeta Nest
+  > Door to Energy Distribution Zeta Den
       Trivial
 
 ----------------
-Energy Distribution Zeta Nest
+Energy Distribution Zeta Den
 Extra - map_name: rm_a5c12
 Extra - minimap_data: [{'x': 63, 'y': 47}, {'x': 64, 'y': 47}, {'x': 65, 'y': 47}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 > Door to Distribution Facility Tower West; Heals? False
   * Layers: default
-  * Normal Door to Distribution Facility Tower West/Door to Energy Distribution Zeta Nest
+  * Normal Door to Distribution Facility Tower West/Door to Energy Distribution Zeta Den
   * Extra - instance_id: 133982
   > Middle
       Can Use Any Bombs and Power Grip Wall
 
 > Door to Energy Distribution Tower East; Heals? False
   * Layers: default
-  * Distribution Center Energy Distribution Tower East EMP Door to Energy Distribution Tower East/Door to Energy Distribution Zeta Nest
+  * Distribution Center Energy Distribution Tower East EMP Door to Energy Distribution Tower East/Door to Energy Distribution Zeta Den
   * Extra - instance_id: 133981
   > Middle
       Can Use Any Bombs and Power Grip Wall
@@ -554,9 +554,9 @@ Extra - map_name: rm_a5c13
 Extra - minimap_data: [{'x': 66, 'y': 42}, {'x': 66, 'y': 43}, {'x': 66, 'y': 44}, {'x': 66, 'y': 45}, {'x': 66, 'y': 46}, {'x': 66, 'y': 47}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
-> Door to Energy Distribution Zeta Nest; Heals? False
+> Door to Energy Distribution Zeta Den; Heals? False
   * Layers: default
-  * Normal Door to Energy Distribution Zeta Nest/Door to Distribution Facility Tower West
+  * Normal Door to Energy Distribution Zeta Den/Door to Distribution Facility Tower West
   * Extra - instance_id: 134067
   > Pipe to Distribution Facility Tower East (Bottom)
       Morph Ball
@@ -593,12 +593,12 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
   * Extra - instance_id: 134066
   * Extra - dest_x: 200
   * Extra - dest_y: 1376
-  > Door to Energy Distribution Zeta Nest
+  > Door to Energy Distribution Zeta Den
       Morph Ball
 
 > Near Middle Pipe; Heals? False
   * Layers: default
-  > Door to Energy Distribution Zeta Nest
+  > Door to Energy Distribution Zeta Den
       Screw Attack
   > Pipe to Distribution Facility Tower East (Top)
       Morph Ball and Power Grip Wall
@@ -808,9 +808,9 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
   > Pipe to Meboid Blockade Interior
       Trivial
 
-> Door to Alpha Squad Nest; Heals? False
+> Door to Alpha Squadron Den; Heals? False
   * Layers: default
-  * Normal Door to Alpha Squad Nest/Door to Distribution Facility Tower East
+  * Normal Door to Alpha Squadron Den/Door to Distribution Facility Tower East
   * Extra - instance_id: 134563
   > Pipe to Distribution Facility Tower West (Middle)
       Screw Attack
@@ -840,7 +840,7 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
   * Extra - instance_id: 134571
   * Extra - dest_x: 104
   * Extra - dest_y: 816
-  > Door to Alpha Squad Nest
+  > Door to Alpha Squadron Den
       All of the following:
           Screw Attack
           Movement (Expert) or Hijump Wall
@@ -864,18 +864,18 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
                   Power Grip and Enabled Septogg Helpers
                   Walljump (Beginner) and Can Walljump
           Walljump (Beginner) and Enabled Septogg Helpers and Can Walljump
-  > Door to Alpha Squad Nest
+  > Door to Alpha Squadron Den
       Trivial
 
 ----------------
-Alpha Squad Nest
+Alpha Squadron Den
 Extra - map_name: rm_a5c18
 Extra - minimap_data: [{'x': 67, 'y': 45}, {'x': 67, 'y': 46}, {'x': 68, 'y': 45}, {'x': 68, 'y': 46}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 > Door to Distribution Facility Tower East; Heals? False
   * Layers: default
-  * Normal Door to Distribution Facility Tower East/Door to Alpha Squad Nest
+  * Normal Door to Distribution Facility Tower East/Door to Alpha Squadron Den
   * Extra - instance_id: 134613
   > Bottom
       Trivial
@@ -1030,9 +1030,9 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
   > Door to Distribution Center Exterior East Access
       Trivial
 
-> Door to Bullet Hell Room Access; Heals? False
+> Door to EMP Bullet Hell Room; Heals? False
   * Layers: default
-  * Normal Door to Bullet Hell Room Access/Door to Distribution Facility Intersection
+  * Normal Door to EMP Bullet Hell Room/Door to Distribution Facility Intersection
   * Extra - instance_id: 134662
   > Door to Distribution Center Exterior East Access
       Trivial
@@ -1043,18 +1043,18 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
   * Extra - instance_id: 134670
   > Door to Distribution Facility Save Station
       Space Jump Wall
-  > Door to Bullet Hell Room Access
+  > Door to EMP Bullet Hell Room
       Trivial
 
 ----------------
-Bullet Hell Room Access
+EMP Bullet Hell Room
 Extra - map_name: rm_a5c21
 Extra - minimap_data: [{'x': 70, 'y': 44}, {'x': 70, 'y': 45}, {'x': 70, 'y': 46}, {'x': 70, 'y': 47}, {'x': 71, 'y': 45}, {'x': 71, 'y': 46}, {'x': 71, 'y': 47}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 > Door to Distribution Facility Intersection; Heals? False
   * Layers: default
-  * Normal Door to Distribution Facility Intersection/Door to Bullet Hell Room Access
+  * Normal Door to Distribution Facility Intersection/Door to EMP Bullet Hell Room
   * Extra - instance_id: 134710
   > Door to Bullet Hell Room
       Trivial
@@ -1069,7 +1069,7 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 
 > Door to Bullet Hell Room; Heals? False
   * Layers: default
-  * Distribution Center Bullet Hell Room Access EMP Door to Bullet Hell Room/Door to Bullet Hell Room Access
+  * Distribution Center Bullet Hell Room Access EMP Door to Bullet Hell Room/Door to EMP Bullet Hell Room
   * Extra - instance_id: 134711
   > Center
       Any of the following:
@@ -1122,9 +1122,9 @@ Extra - map_name: rm_a5c22
 Extra - minimap_data: [{'x': 72, 'y': 45}, {'x': 72, 'y': 46}, {'x': 72, 'y': 47}, {'x': 73, 'y': 46}, {'x': 73, 'y': 47}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
-> Door to Bullet Hell Room Access; Heals? False
+> Door to EMP Bullet Hell Room; Heals? False
   * Layers: default
-  * Normal Door to Bullet Hell Room Access/Door to Bullet Hell Room
+  * Normal Door to EMP Bullet Hell Room/Door to Bullet Hell Room
   * Extra - instance_id: 134883
   > Door to Screw Attack Chamber Access
       Trivial
@@ -1133,7 +1133,7 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
   * Layers: default
   * Normal Door to Screw Attack Chamber Access/Door to Bullet Hell Room
   * Extra - instance_id: 134884
-  > Door to Bullet Hell Room Access
+  > Door to EMP Bullet Hell Room
       All of the following:
           Space Jump Wall
           # Get through screw blocks
@@ -1335,18 +1335,18 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 80, 'should_be_at_very_f
   * Layers: default
   * Normal Door to Facility Storage Save Station/Door to Facility Storage Intersection East; Dock Lock Rando incompatible with: Spider Ball Door, Screw Attack Door
   * Extra - instance_id: 135221
-  > Door to Dual Gamma Nest
+  > Door to Dual Gammas Den
       Trivial
 
 > Horizontal Dock to Facility Storage Clogged Pipe North; Heals? False
   * Layers: default
   * 3-Tiles High Dock to Facility Storage Clogged Pipe North/Horizontal Dock to Facility Storage Intersection East
-  > Door to Dual Gamma Nest
+  > Door to Dual Gammas Den
       Trivial
 
-> Door to Dual Gamma Nest; Heals? False
+> Door to Dual Gammas Den; Heals? False
   * Layers: default
-  * Normal Door to Dual Gamma Nest/Door to Facility Storage Intersection East; Dock Lock Rando incompatible with: Spider Ball Door, Screw Attack Door
+  * Normal Door to Dual Gammas Den/Door to Facility Storage Intersection East; Dock Lock Rando incompatible with: Spider Ball Door, Screw Attack Door
   * Extra - instance_id: 135232
   > Door to Facility Storage Save Station
       Underwater Power Grip Wall
@@ -1354,14 +1354,14 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 80, 'should_be_at_very_f
       Trivial
 
 ----------------
-Dual Gamma Nest
+Dual Gammas Den
 Extra - map_name: rm_a5c30
 Extra - minimap_data: [{'x': 70, 'y': 48}, {'x': 70, 'y': 49}, {'x': 71, 'y': 48}, {'x': 71, 'y': 49}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 80, 'should_be_at_very_front': True}
 > Door to Facility Storage Intersection East; Heals? False
   * Layers: default
-  * Normal Door to Facility Storage Intersection East/Door to Dual Gamma Nest; Dock Lock Rando incompatible with: Spider Ball Door, Screw Attack Door
+  * Normal Door to Facility Storage Intersection East/Door to Dual Gammas Den; Dock Lock Rando incompatible with: Spider Ball Door, Screw Attack Door
   * Extra - instance_id: 135253
   > Event - Left Gamma
       Defeat Dual Gammas
