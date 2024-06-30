@@ -1382,7 +1382,7 @@
                 }
             },
             "nodes": {
-                "Door to Surface Pond Access": {
+                "Door to Surface Tsumuri Shaft": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -1404,7 +1404,7 @@
                     "dock_type": "door",
                     "default_connection": {
                         "region": "Main Caves",
-                        "area": "Surface Pond Access",
+                        "area": "Surface Tsumuri Shaft",
                         "node": "Door to Rocky Stairs"
                     },
                     "default_dock_weakness": "Open Transition",
@@ -1455,7 +1455,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Door to Surface Pond Access": {
+                        "Door to Surface Tsumuri Shaft": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -1466,7 +1466,7 @@
                 }
             }
         },
-        "Surface Pond Access": {
+        "Surface Tsumuri Shaft": {
             "default_node": null,
             "extra": {
                 "map_name": "rm_a0h04",
@@ -1519,7 +1519,7 @@
                     "default_connection": {
                         "region": "Main Caves",
                         "area": "Surface Pond",
-                        "node": "Door to Surface Pond Access"
+                        "node": "Door to Surface Tsumuri Shaft"
                     },
                     "default_dock_weakness": "Open Transition",
                     "exclude_from_dock_rando": false,
@@ -1560,7 +1560,7 @@
                     "default_connection": {
                         "region": "Main Caves",
                         "area": "Rocky Stairs",
-                        "node": "Door to Surface Pond Access"
+                        "node": "Door to Surface Tsumuri Shaft"
                     },
                     "default_dock_weakness": "Open Transition",
                     "exclude_from_dock_rando": false,
@@ -1606,7 +1606,7 @@
                 }
             },
             "nodes": {
-                "Door to Surface Pond Access": {
+                "Door to Surface Tsumuri Shaft": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -1628,7 +1628,7 @@
                     "dock_type": "door",
                     "default_connection": {
                         "region": "Main Caves",
-                        "area": "Surface Pond Access",
+                        "area": "Surface Tsumuri Shaft",
                         "node": "Door to Surface Pond"
                     },
                     "default_dock_weakness": "Open Transition",
@@ -1676,7 +1676,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Door to Surface Pond Access": {
+                        "Door to Surface Tsumuri Shaft": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -1847,7 +1847,7 @@
                 }
             },
             "nodes": {
-                "Door to Surface Alpha Nest": {
+                "Door to Surface Alpha Den": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -1869,7 +1869,7 @@
                     "dock_type": "door",
                     "default_connection": {
                         "region": "Main Caves",
-                        "area": "Surface Alpha Nest",
+                        "area": "Surface Alpha Den",
                         "node": "Door to Surface Lava Pond"
                     },
                     "default_dock_weakness": "Open Transition",
@@ -1939,7 +1939,7 @@
                     "extra": {},
                     "valid_starting_location": false,
                     "connections": {
-                        "Door to Surface Alpha Nest": {
+                        "Door to Surface Alpha Den": {
                             "type": "or",
                             "data": {
                                 "comment": null,
@@ -1967,7 +1967,7 @@
                 }
             }
         },
-        "Surface Alpha Nest": {
+        "Surface Alpha Den": {
             "default_node": null,
             "extra": {
                 "map_name": "rm_a0h05",
@@ -2011,7 +2011,7 @@
                     "default_connection": {
                         "region": "Main Caves",
                         "area": "Surface Lava Pond",
-                        "node": "Door to Surface Alpha Nest"
+                        "node": "Door to Surface Alpha Den"
                     },
                     "default_dock_weakness": "Open Transition",
                     "exclude_from_dock_rando": false,
@@ -2499,7 +2499,7 @@
                     "dock_type": "door",
                     "default_connection": {
                         "region": "Hydro Station",
-                        "area": "Hydro Station Entrance",
+                        "area": "Station Entrance Alpha Den",
                         "node": "Door to Main Caves"
                     },
                     "default_dock_weakness": "Open Transition",
@@ -7054,7 +7054,7 @@
                 }
             },
             "nodes": {
-                "Door to Tower East Exterior Access": {
+                "Door to Tower Exterior Southeast Access": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -7076,7 +7076,7 @@
                     "dock_type": "door",
                     "default_connection": {
                         "region": "Main Caves",
-                        "area": "Tower East Exterior Access",
+                        "area": "Tower Exterior Southeast Access",
                         "node": "Door to Skreek Street"
                     },
                     "default_dock_weakness": "Open Transition",
@@ -7134,7 +7134,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Door to Tower East Exterior Access": {
+                        "Door to Tower Exterior Southeast Access": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -7250,7 +7250,7 @@
                     "extra": {},
                     "valid_starting_location": false,
                     "connections": {
-                        "Door to Tower East Exterior Access": {
+                        "Door to Tower Exterior Southeast Access": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -7320,7 +7320,7 @@
                 }
             }
         },
-        "Tower East Exterior Access": {
+        "Tower Exterior Southeast Access": {
             "default_node": null,
             "extra": {
                 "map_name": "rm_a0h30a",
@@ -7363,7 +7363,7 @@
                     "dock_type": "door",
                     "default_connection": {
                         "region": "The Tower",
-                        "area": "Tower Exterior South East",
+                        "area": "Tower Exterior Southeast",
                         "node": "Door to Main Caves"
                     },
                     "default_dock_weakness": "Open Transition",
@@ -7458,7 +7458,7 @@
                     "default_connection": {
                         "region": "Main Caves",
                         "area": "Skreek Street",
-                        "node": "Door to Tower East Exterior Access"
+                        "node": "Door to Tower Exterior Southeast Access"
                     },
                     "default_dock_weakness": "Open Transition",
                     "exclude_from_dock_rando": false,
@@ -10283,7 +10283,7 @@
                 }
             },
             "nodes": {
-                "Horizontal Dock to Drill Excavation Access": {
+                "Horizontal Dock to Mining Facility C-Shaped Intersection": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -10300,7 +10300,7 @@
                     "dock_type": "horizontal_dock",
                     "default_connection": {
                         "region": "Main Caves",
-                        "area": "Drill Excavation Access",
+                        "area": "Mining Facility C-Shaped Intersection",
                         "node": "Horizontal Dock to Moto Mania"
                     },
                     "default_dock_weakness": "5-Tiles High Dock",
@@ -10346,7 +10346,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Horizontal Dock to Drill Excavation Access": {
+                        "Horizontal Dock to Mining Facility C-Shaped Intersection": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -10357,7 +10357,7 @@
                 }
             }
         },
-        "Drill Excavation Access": {
+        "Mining Facility C-Shaped Intersection": {
             "default_node": null,
             "extra": {
                 "map_name": "rm_a0h17d",
@@ -10400,7 +10400,7 @@
                     "default_connection": {
                         "region": "Main Caves",
                         "area": "Moto Mania",
-                        "node": "Horizontal Dock to Drill Excavation Access"
+                        "node": "Horizontal Dock to Mining Facility C-Shaped Intersection"
                     },
                     "default_dock_weakness": "5-Tiles High Dock",
                     "exclude_from_dock_rando": false,
@@ -10441,7 +10441,7 @@
                     "default_connection": {
                         "region": "Main Caves",
                         "area": "Drill Excavation",
-                        "node": "Door to Drill Excavation Access"
+                        "node": "Door to Mining Facility C-Shaped Intersection"
                     },
                     "default_dock_weakness": "Open Transition",
                     "exclude_from_dock_rando": false,
@@ -10561,7 +10561,7 @@
                         }
                     }
                 },
-                "Door to Drill Excavation Access": {
+                "Door to Mining Facility C-Shaped Intersection": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -10583,7 +10583,7 @@
                     "dock_type": "door",
                     "default_connection": {
                         "region": "Main Caves",
-                        "area": "Drill Excavation Access",
+                        "area": "Mining Facility C-Shaped Intersection",
                         "node": "Door to Drill Excavation"
                     },
                     "default_dock_weakness": "Open Transition",
@@ -10724,7 +10724,7 @@
                                 ]
                             }
                         },
-                        "Door to Drill Excavation Access": {
+                        "Door to Mining Facility C-Shaped Intersection": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -10776,7 +10776,7 @@
                     "valid_starting_location": false,
                     "event_name": "A0DrillCrystal",
                     "connections": {
-                        "Door to Drill Excavation Access": {
+                        "Door to Mining Facility C-Shaped Intersection": {
                             "type": "or",
                             "data": {
                                 "comment": null,
@@ -10974,7 +10974,7 @@
                                 ]
                             }
                         },
-                        "Horizontal Dock to Mining Facility Alpha Nest Access": {
+                        "Horizontal Dock to Flitt Flip": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -10983,7 +10983,7 @@
                         }
                     }
                 },
-                "Horizontal Dock to Mining Facility Alpha Nest Access": {
+                "Horizontal Dock to Flitt Flip": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -11000,7 +11000,7 @@
                     "dock_type": "horizontal_dock",
                     "default_connection": {
                         "region": "Main Caves",
-                        "area": "Mining Facility Alpha Nest Access",
+                        "area": "Flitt Flip",
                         "node": "Horizontal Dock to Mining Facility Intersection"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
@@ -11048,7 +11048,7 @@
                                 ]
                             }
                         },
-                        "Horizontal Dock to Mining Facility Gamma Nest Access": {
+                        "Horizontal Dock to Flitt Flop": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -11057,7 +11057,7 @@
                         }
                     }
                 },
-                "Horizontal Dock to Mining Facility Gamma Nest Access": {
+                "Horizontal Dock to Flitt Flop": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -11074,7 +11074,7 @@
                     "dock_type": "horizontal_dock",
                     "default_connection": {
                         "region": "Main Caves",
-                        "area": "Mining Facility Gamma Nest Access",
+                        "area": "Flitt Flop",
                         "node": "Horizontal Dock to Mining Facility Intersection"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
@@ -11084,7 +11084,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Horizontal Dock to Mining Facility Alpha Nest Access": {
+                        "Horizontal Dock to Flitt Flip": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -11177,7 +11177,7 @@
                 }
             }
         },
-        "Mining Facility Alpha Nest Access": {
+        "Flitt Flip": {
             "default_node": null,
             "extra": {
                 "map_name": "rm_a0h20",
@@ -11220,7 +11220,7 @@
                     "default_connection": {
                         "region": "Main Caves",
                         "area": "Mining Facility Intersection",
-                        "node": "Horizontal Dock to Mining Facility Alpha Nest Access"
+                        "node": "Horizontal Dock to Flitt Flip"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
                     "exclude_from_dock_rando": false,
@@ -11229,7 +11229,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Horizontal Dock to Mining Facility Alpha Nest": {
+                        "Horizontal Dock to Mining Facility Alpha Den": {
                             "type": "or",
                             "data": {
                                 "comment": null,
@@ -11338,7 +11338,7 @@
                         }
                     }
                 },
-                "Horizontal Dock to Mining Facility Alpha Nest": {
+                "Horizontal Dock to Mining Facility Alpha Den": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -11355,8 +11355,8 @@
                     "dock_type": "horizontal_dock",
                     "default_connection": {
                         "region": "Main Caves",
-                        "area": "Mining Facility Alpha Nest",
-                        "node": "Horizontal Dock to Mining Facility Alpha Nest Access"
+                        "area": "Mining Facility Alpha Den",
+                        "node": "Horizontal Dock to Flitt Flip"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
                     "exclude_from_dock_rando": false,
@@ -11464,7 +11464,7 @@
                 }
             }
         },
-        "Mining Facility Alpha Nest": {
+        "Mining Facility Alpha Den": {
             "default_node": null,
             "extra": {
                 "map_name": "rm_a0h21",
@@ -11501,7 +11501,7 @@
                 }
             },
             "nodes": {
-                "Horizontal Dock to Mining Facility Alpha Nest Access": {
+                "Horizontal Dock to Flitt Flip": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -11518,8 +11518,8 @@
                     "dock_type": "horizontal_dock",
                     "default_connection": {
                         "region": "Main Caves",
-                        "area": "Mining Facility Alpha Nest Access",
-                        "node": "Horizontal Dock to Mining Facility Alpha Nest"
+                        "area": "Flitt Flip",
+                        "node": "Horizontal Dock to Mining Facility Alpha Den"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
                     "exclude_from_dock_rando": false,
@@ -11558,7 +11558,7 @@
                     "valid_starting_location": false,
                     "event_name": "Alpha17",
                     "connections": {
-                        "Horizontal Dock to Mining Facility Alpha Nest Access": {
+                        "Horizontal Dock to Flitt Flip": {
                             "type": "or",
                             "data": {
                                 "comment": null,
@@ -11711,7 +11711,7 @@
                 }
             }
         },
-        "Mining Facility Gamma Nest Access": {
+        "Flitt Flop": {
             "default_node": null,
             "extra": {
                 "map_name": "rm_a0h22",
@@ -11766,7 +11766,7 @@
                     "default_connection": {
                         "region": "Main Caves",
                         "area": "Mining Facility Intersection",
-                        "node": "Horizontal Dock to Mining Facility Gamma Nest Access"
+                        "node": "Horizontal Dock to Flitt Flop"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
                     "exclude_from_dock_rando": false,
@@ -11775,7 +11775,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Horizontal Dock to Mining Facility Gamma Nest": {
+                        "Horizontal Dock to Mining Facility Gamma Den": {
                             "type": "or",
                             "data": {
                                 "comment": null,
@@ -11872,7 +11872,7 @@
                         }
                     }
                 },
-                "Horizontal Dock to Mining Facility Gamma Nest": {
+                "Horizontal Dock to Mining Facility Gamma Den": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -11889,8 +11889,8 @@
                     "dock_type": "horizontal_dock",
                     "default_connection": {
                         "region": "Main Caves",
-                        "area": "Mining Facility Gamma Nest",
-                        "node": "Horizontal Dock to Mining Facility Gamma Nest Access"
+                        "area": "Mining Facility Gamma Den",
+                        "node": "Horizontal Dock to Flitt Flop"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
                     "exclude_from_dock_rando": false,
@@ -12007,7 +12007,7 @@
                 }
             }
         },
-        "Mining Facility Gamma Nest": {
+        "Mining Facility Gamma Den": {
             "default_node": null,
             "extra": {
                 "map_name": "rm_a0h23",
@@ -12040,7 +12040,7 @@
                 }
             },
             "nodes": {
-                "Horizontal Dock to Mining Facility Gamma Nest Access": {
+                "Horizontal Dock to Flitt Flop": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -12057,8 +12057,8 @@
                     "dock_type": "horizontal_dock",
                     "default_connection": {
                         "region": "Main Caves",
-                        "area": "Mining Facility Gamma Nest Access",
-                        "node": "Horizontal Dock to Mining Facility Gamma Nest"
+                        "area": "Flitt Flop",
+                        "node": "Horizontal Dock to Mining Facility Gamma Den"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
                     "exclude_from_dock_rando": false,
@@ -12097,7 +12097,7 @@
                     "valid_starting_location": false,
                     "event_name": "Gamma10",
                     "connections": {
-                        "Horizontal Dock to Mining Facility Gamma Nest Access": {
+                        "Horizontal Dock to Flitt Flop": {
                             "type": "or",
                             "data": {
                                 "comment": "TODO: Add shinespark with shortcharge using the flitts",

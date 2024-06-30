@@ -189,9 +189,9 @@ Extra - map_name: rm_a0h03b
 Extra - minimap_data: [{'x': 31, 'y': 12}, {'x': 32, 'y': 12}, {'x': 32, 'y': 13}, {'x': 33, 'y': 13}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
-> Door to Surface Pond Access; Heals? False
+> Door to Surface Tsumuri Shaft; Heals? False
   * Layers: default
-  * Open Transition to Surface Pond Access/Door to Rocky Stairs
+  * Open Transition to Surface Tsumuri Shaft/Door to Rocky Stairs
   * Extra - instance_id: 101402
   * Extra - facing: right
   * Extra - x: 0
@@ -206,18 +206,18 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
   * Extra - facing: left
   * Extra - x: 0
   * Extra - y: 96
-  > Door to Surface Pond Access
+  > Door to Surface Tsumuri Shaft
       Trivial
 
 ----------------
-Surface Pond Access
+Surface Tsumuri Shaft
 Extra - map_name: rm_a0h04
 Extra - minimap_data: [{'x': 30, 'y': 12}, {'x': 30, 'y': 13}, {'x': 30, 'y': 14}, {'x': 30, 'y': 15}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 896, 'should_move_horizontally': True}
 > Door to Surface Pond; Heals? False
   * Layers: default
-  * Open Transition to Surface Pond/Door to Surface Pond Access
+  * Open Transition to Surface Pond/Door to Surface Tsumuri Shaft
   * Extra - instance_id: 101422
   * Extra - facing: right
   * Extra - x: 0
@@ -227,7 +227,7 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 896, 'should_move_horizo
 
 > Door to Rocky Stairs; Heals? False
   * Layers: default
-  * Open Transition to Rocky Stairs/Door to Surface Pond Access
+  * Open Transition to Rocky Stairs/Door to Surface Tsumuri Shaft
   * Extra - instance_id: 101540
   * Extra - facing: left
   * Extra - x: 320
@@ -241,9 +241,9 @@ Extra - map_name: rm_a0h04b
 Extra - minimap_data: [{'x': 27, 'y': 15}, {'x': 28, 'y': 15}, {'x': 29, 'y': 15}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 200, 'should_move_horizontally': True}
-> Door to Surface Pond Access; Heals? False
+> Door to Surface Tsumuri Shaft; Heals? False
   * Layers: default
-  * Open Transition to Surface Pond Access/Door to Surface Pond
+  * Open Transition to Surface Tsumuri Shaft/Door to Surface Pond
   * Extra - instance_id: 101610
   * Extra - facing: left
   * Extra - x: 960
@@ -255,7 +255,7 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 200, 'should_move_horizo
   * Layers: default
   * Missile Door to Surface Pond Save Station/Door to Surface Pond
   * Extra - instance_id: 101612
-  > Door to Surface Pond Access
+  > Door to Surface Tsumuri Shaft
       Trivial
 
 ----------------
@@ -292,9 +292,9 @@ Extra - map_name: rm_a0h04d
 Extra - minimap_data: [{'x': 23, 'y': 15}, {'x': 23, 'y': 16}, {'x': 24, 'y': 16}, {'x': 25, 'y': 15}, {'x': 25, 'y': 16}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
-> Door to Surface Alpha Nest; Heals? False
+> Door to Surface Alpha Den; Heals? False
   * Layers: default
-  * Open Transition to Surface Alpha Nest/Door to Surface Lava Pond
+  * Open Transition to Surface Alpha Den/Door to Surface Lava Pond
   * Extra - instance_id: 101844
   * Extra - facing: right
   * Extra - x: 0
@@ -310,20 +310,20 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 
 > Bottom; Heals? False
   * Layers: default
-  > Door to Surface Alpha Nest
+  > Door to Surface Alpha Den
       Power Grip Wall
   > Horizontal Dock to Surface Pond Save Station
       Power Grip Wall
 
 ----------------
-Surface Alpha Nest
+Surface Alpha Den
 Extra - map_name: rm_a0h05
 Extra - minimap_data: [{'x': 21, 'y': 15}, {'x': 22, 'y': 15}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 > Door to Surface Lava Pond; Heals? False
   * Layers: default
-  * Open Transition to Surface Lava Pond/Door to Surface Alpha Nest
+  * Open Transition to Surface Lava Pond/Door to Surface Alpha Den
   * Extra - instance_id: 101956
   * Extra - facing: left
   * Extra - x: 640
@@ -400,7 +400,7 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 
 > Door to Hydro Station; Heals? False
   * Layers: default
-  * Open Transition to Hydro Station Entrance/Door to Main Caves
+  * Open Transition to Station Entrance Alpha Den/Door to Main Caves
   * Extra - instance_id: 102617
   * Extra - facing: right
   * Extra - x: 640
@@ -1057,9 +1057,9 @@ Extra - map_name: rm_a0h30
 Extra - minimap_data: [{'x': 40, 'y': 41}, {'x': 41, 'y': 41}, {'x': 41, 'y': 42}, {'x': 41, 'y': 43}, {'x': 41, 'y': 44}, {'x': 42, 'y': 41}, {'x': 42, 'y': 42}, {'x': 42, 'y': 43}, {'x': 42, 'y': 44}, {'x': 43, 'y': 41}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
-> Door to Tower East Exterior Access; Heals? False
+> Door to Tower Exterior Southeast Access; Heals? False
   * Layers: default
-  * Open Transition to Tower East Exterior Access/Door to Skreek Street
+  * Open Transition to Tower Exterior Southeast Access/Door to Skreek Street
   * Extra - instance_id: 105774
   * Extra - facing: right
   * Extra - x: 0
@@ -1072,7 +1072,7 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 > Horizontal Dock to Fat Crocomire Room; Heals? False
   * Layers: default
   * 3-Tiles High Dock to Fat Crocomire Room/Horizontal Dock to Skreek Street
-  > Door to Tower East Exterior Access
+  > Door to Tower Exterior Southeast Access
       Trivial
 
 > Door to The Descent; Heals? False
@@ -1090,7 +1090,7 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 
 > Near hidden wall; Heals? False
   * Layers: default
-  > Door to Tower East Exterior Access
+  > Door to Tower Exterior Southeast Access
       High Mid-Air Morph Tunnel Climb and Tunnel Climb
   > Door to The Descent
       Any of the following:
@@ -1099,14 +1099,14 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
           Super Missiles ≥ 2 and Knowledge (Advanced) and Low Mid-Air Morph Tunnel Climb
 
 ----------------
-Tower East Exterior Access
+Tower Exterior Southeast Access
 Extra - map_name: rm_a0h30a
 Extra - minimap_data: [{'x': 38, 'y': 41}, {'x': 39, 'y': 41}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 > Door to The Tower; Heals? False
   * Layers: default
-  * Open Transition to Tower Exterior South East/Door to Main Caves
+  * Open Transition to Tower Exterior Southeast/Door to Main Caves
   * Extra - instance_id: 106332
   * Extra - facing: right
   * Extra - x: 0
@@ -1118,7 +1118,7 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 
 > Door to Skreek Street; Heals? False
   * Layers: default
-  * Open Transition to Skreek Street/Door to Tower East Exterior Access
+  * Open Transition to Skreek Street/Door to Tower Exterior Southeast Access
   * Extra - instance_id: 106333
   * Extra - facing: left
   * Extra - x: 640
@@ -1598,33 +1598,33 @@ Extra - map_name: rm_a0h17c
 Extra - minimap_data: [{'x': 48, 'y': 34}, {'x': 49, 'y': 33}, {'x': 49, 'y': 34}, {'x': 50, 'y': 33}, {'x': 51, 'y': 33}, {'x': 52, 'y': 33}, {'x': 53, 'y': 33}, {'x': 54, 'y': 33}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
-> Horizontal Dock to Drill Excavation Access; Heals? False
+> Horizontal Dock to Mining Facility C-Shaped Intersection; Heals? False
   * Layers: default
-  * 5-Tiles High Dock to Drill Excavation Access/Horizontal Dock to Moto Mania
+  * 5-Tiles High Dock to Mining Facility C-Shaped Intersection/Horizontal Dock to Moto Mania
   > Horizontal Dock to Destroyed Drill Cavern
       Trivial
 
 > Horizontal Dock to Destroyed Drill Cavern; Heals? False
   * Layers: default
   * 5-Tiles High Dock to Destroyed Drill Cavern/Horizontal Dock to Moto Mania
-  > Horizontal Dock to Drill Excavation Access
+  > Horizontal Dock to Mining Facility C-Shaped Intersection
       Trivial
 
 ----------------
-Drill Excavation Access
+Mining Facility C-Shaped Intersection
 Extra - map_name: rm_a0h17d
 Extra - minimap_data: [{'x': 47, 'y': 34}, {'x': 47, 'y': 35}, {'x': 48, 'y': 35}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 > Horizontal Dock to Moto Mania; Heals? False
   * Layers: default
-  * 5-Tiles High Dock to Moto Mania/Horizontal Dock to Drill Excavation Access
+  * 5-Tiles High Dock to Moto Mania/Horizontal Dock to Mining Facility C-Shaped Intersection
   > Door to Drill Excavation
       Trivial
 
 > Door to Drill Excavation; Heals? False
   * Layers: default
-  * Open Transition to Drill Excavation/Door to Drill Excavation Access
+  * Open Transition to Drill Excavation/Door to Mining Facility C-Shaped Intersection
   * Extra - instance_id: 123858
   * Extra - facing: left
   * Extra - x: 640
@@ -1651,9 +1651,9 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
   > After Drill Sequence
       Trivial
 
-> Door to Drill Excavation Access; Heals? False
+> Door to Mining Facility C-Shaped Intersection; Heals? False
   * Layers: default
-  * Open Transition to Drill Excavation Access/Door to Drill Excavation
+  * Open Transition to Mining Facility C-Shaped Intersection/Door to Drill Excavation
   * Extra - instance_id: 123933
   * Extra - facing: right
   * Extra - x: 0
@@ -1674,7 +1674,7 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
           Space Jump Wall
           # Shinespark
           Speed Booster and After Surface - Mines Drill Crystal Destroyed and Shinesparking Tricks (Beginner)
-  > Door to Drill Excavation Access
+  > Door to Mining Facility C-Shaped Intersection
       After Surface - Mines Drill Crystal Destroyed
   > Event - Drill Crystal from Right
       Super Missiles
@@ -1682,7 +1682,7 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 > Event - Drill Crystal from Left; Heals? False
   * Layers: default
   * Event Surface - Mines Drill Crystal Destroyed
-  > Door to Drill Excavation Access
+  > Door to Mining Facility C-Shaped Intersection
       Any of the following:
           Enabled Skip cutscenes
           Can Use Any Bombs and Tunnel Climb
@@ -1714,24 +1714,24 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
   * 3-Tiles High Dock to Mining Facility Save Station/Horizontal Dock to Mining Facility Intersection
   > Door to Drill Excavation
       Movement (Beginner) or Hijump Wall
-  > Horizontal Dock to Mining Facility Alpha Nest Access
+  > Horizontal Dock to Flitt Flip
       Trivial
 
-> Horizontal Dock to Mining Facility Alpha Nest Access; Heals? False
+> Horizontal Dock to Flitt Flip; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Mining Facility Alpha Nest Access/Horizontal Dock to Mining Facility Intersection
+  * 3-Tiles High Dock to Flitt Flip/Horizontal Dock to Mining Facility Intersection
   > Horizontal Dock to Mining Facility Save Station
       Any of the following:
           Hijump With Power Grip Wall
           # Shinespark
           Speed Booster and Shinesparking Tricks (Beginner)
-  > Horizontal Dock to Mining Facility Gamma Nest Access
+  > Horizontal Dock to Flitt Flop
       Trivial
 
-> Horizontal Dock to Mining Facility Gamma Nest Access; Heals? False
+> Horizontal Dock to Flitt Flop; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Mining Facility Gamma Nest Access/Horizontal Dock to Mining Facility Intersection
-  > Horizontal Dock to Mining Facility Alpha Nest Access
+  * 3-Tiles High Dock to Flitt Flop/Horizontal Dock to Mining Facility Intersection
+  > Horizontal Dock to Flitt Flip
       Trivial
 
 ----------------
@@ -1754,15 +1754,15 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
       Trivial
 
 ----------------
-Mining Facility Alpha Nest Access
+Flitt Flip
 Extra - map_name: rm_a0h20
 Extra - minimap_data: [{'x': 50, 'y': 36}, {'x': 51, 'y': 36}, {'x': 52, 'y': 36}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 1, 'liquid_level': 176}
 > Horizontal Dock to Mining Facility Intersection; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Mining Facility Intersection/Horizontal Dock to Mining Facility Alpha Nest Access
-  > Horizontal Dock to Mining Facility Alpha Nest
+  * 3-Tiles High Dock to Mining Facility Intersection/Horizontal Dock to Flitt Flip
+  > Horizontal Dock to Mining Facility Alpha Den
       Any of the following:
           Space Jump
           All of the following:
@@ -1774,9 +1774,9 @@ Extra - liquid_info: {'liquid_type': 1, 'liquid_level': 176}
           # Shinespark
           Speed Booster and Shinesparking Tricks (Beginner) and Disabled Entrance Rando
 
-> Horizontal Dock to Mining Facility Alpha Nest; Heals? False
+> Horizontal Dock to Mining Facility Alpha Den; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Mining Facility Alpha Nest/Horizontal Dock to Mining Facility Alpha Nest Access
+  * 3-Tiles High Dock to Mining Facility Alpha Den/Horizontal Dock to Flitt Flip
   > Horizontal Dock to Mining Facility Intersection
       Any of the following:
           Space Jump
@@ -1788,21 +1788,21 @@ Extra - liquid_info: {'liquid_type': 1, 'liquid_level': 176}
           Speed Booster and Shinesparking Tricks (Beginner) and Disabled Entrance Rando
 
 ----------------
-Mining Facility Alpha Nest
+Mining Facility Alpha Den
 Extra - map_name: rm_a0h21
 Extra - minimap_data: [{'x': 48, 'y': 36}, {'x': 48, 'y': 37}, {'x': 48, 'y': 38}, {'x': 49, 'y': 36}, {'x': 49, 'y': 37}, {'x': 49, 'y': 38}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 1, 'liquid_level': 656}
-> Horizontal Dock to Mining Facility Alpha Nest Access; Heals? False
+> Horizontal Dock to Flitt Flip; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Mining Facility Alpha Nest Access/Horizontal Dock to Mining Facility Alpha Nest
+  * 3-Tiles High Dock to Flitt Flip/Horizontal Dock to Mining Facility Alpha Den
   > Event - Alpha
       Defeat dodging Alpha
 
 > Event - Alpha; Heals? False
   * Layers: default
   * Event Metroids Surface - Mines Alpha
-  > Horizontal Dock to Mining Facility Alpha Nest Access
+  > Horizontal Dock to Flitt Flip
       Any of the following:
           Space Jump
           # Shinespark
@@ -1824,15 +1824,15 @@ Extra - liquid_info: {'liquid_type': 1, 'liquid_level': 656}
       Trivial
 
 ----------------
-Mining Facility Gamma Nest Access
+Flitt Flop
 Extra - map_name: rm_a0h22
 Extra - minimap_data: [{'x': 55, 'y': 37}, {'x': 55, 'y': 38}, {'x': 56, 'y': 37}, {'x': 56, 'y': 38}, {'x': 57, 'y': 37}, {'x': 57, 'y': 38}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 1, 'liquid_level': 184}
 > Horizontal Dock to Mining Facility Intersection; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Mining Facility Intersection/Horizontal Dock to Mining Facility Gamma Nest Access
-  > Horizontal Dock to Mining Facility Gamma Nest
+  * 3-Tiles High Dock to Mining Facility Intersection/Horizontal Dock to Flitt Flop
+  > Horizontal Dock to Mining Facility Gamma Den
       Any of the following:
           Space Jump
           Any of the following:
@@ -1842,9 +1842,9 @@ Extra - liquid_info: {'liquid_type': 1, 'liquid_level': 184}
           # Shinespark
           Speed Booster and Shinesparking Tricks (Beginner) and Disabled Entrance Rando
 
-> Horizontal Dock to Mining Facility Gamma Nest; Heals? False
+> Horizontal Dock to Mining Facility Gamma Den; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Mining Facility Gamma Nest/Horizontal Dock to Mining Facility Gamma Nest Access
+  * 3-Tiles High Dock to Mining Facility Gamma Den/Horizontal Dock to Flitt Flop
   > Horizontal Dock to Mining Facility Intersection
       Any of the following:
           Space Jump
@@ -1856,21 +1856,21 @@ Extra - liquid_info: {'liquid_type': 1, 'liquid_level': 184}
           Speed Booster and Shinesparking Tricks (Beginner) and Short Charge (Intermediate) and Disabled Entrance Rando
 
 ----------------
-Mining Facility Gamma Nest
+Mining Facility Gamma Den
 Extra - map_name: rm_a0h23
 Extra - minimap_data: [{'x': 58, 'y': 37}, {'x': 58, 'y': 38}, {'x': 58, 'y': 39}, {'x': 59, 'y': 38}, {'x': 59, 'y': 39}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 1, 'liquid_level': 672}
-> Horizontal Dock to Mining Facility Gamma Nest Access; Heals? False
+> Horizontal Dock to Flitt Flop; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Mining Facility Gamma Nest Access/Horizontal Dock to Mining Facility Gamma Nest
+  * 3-Tiles High Dock to Flitt Flop/Horizontal Dock to Mining Facility Gamma Den
   > Event - Gamma
       Defeat dodging Gamma
 
 > Event - Gamma; Heals? False
   * Layers: default
   * Event Metroids Surface - Mines Gamma
-  > Horizontal Dock to Mining Facility Gamma Nest Access
+  > Horizontal Dock to Flitt Flop
       Any of the following:
           # TODO: Add shinespark with shortcharge using the flitts
           Space Jump
