@@ -781,7 +781,7 @@
                         }
                     }
                 },
-                "Door to Hideout Hub Access East": {
+                "Door to Hideout Lava Pond Pipe": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -803,7 +803,7 @@
                     "dock_type": "door",
                     "default_connection": {
                         "region": "The Depths",
-                        "area": "Hideout Hub Access East",
+                        "area": "Hideout Lava Pond Pipe",
                         "node": "Door to Hideout Hub"
                     },
                     "default_dock_weakness": "Open Transition",
@@ -820,7 +820,7 @@
                                 "items": []
                             }
                         },
-                        "Horizontal Dock to Hideout Hub Access West": {
+                        "Horizontal Dock to Hideout Rocky Speedway": {
                             "type": "or",
                             "data": {
                                 "comment": null,
@@ -868,7 +868,7 @@
                                 "items": []
                             }
                         },
-                        "Door to Hideout Hub Access East": {
+                        "Door to Hideout Lava Pond Pipe": {
                             "type": "or",
                             "data": {
                                 "comment": null,
@@ -978,7 +978,7 @@
                         }
                     }
                 },
-                "Horizontal Dock to Hideout Hub Access West": {
+                "Horizontal Dock to Hideout Rocky Speedway": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -995,7 +995,7 @@
                     "dock_type": "horizontal_dock",
                     "default_connection": {
                         "region": "The Depths",
-                        "area": "Hideout Hub Access West",
+                        "area": "Hideout Rocky Speedway",
                         "node": "Horizontal Dock to Hideout Hub"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
@@ -1005,7 +1005,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Door to Hideout Hub Access East": {
+                        "Door to Hideout Lava Pond Pipe": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -1016,7 +1016,7 @@
                 }
             }
         },
-        "Hideout Hub Access West": {
+        "Hideout Rocky Speedway": {
             "default_node": null,
             "extra": {
                 "map_name": "rm_a6a07",
@@ -1059,7 +1059,7 @@
                     "default_connection": {
                         "region": "The Depths",
                         "area": "Hideout Hub",
-                        "node": "Horizontal Dock to Hideout Hub Access West"
+                        "node": "Horizontal Dock to Hideout Rocky Speedway"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
                     "exclude_from_dock_rando": false,
@@ -1068,7 +1068,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Door to Hideout Alpha Nest Access West": {
+                        "Door to Hideout Boulder Shaft West": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -1077,7 +1077,7 @@
                         }
                     }
                 },
-                "Door to Hideout Alpha Nest Access West": {
+                "Door to Hideout Boulder Shaft West": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -1099,8 +1099,8 @@
                     "dock_type": "door",
                     "default_connection": {
                         "region": "The Depths",
-                        "area": "Hideout Alpha Nest Access West",
-                        "node": "Door to Hideout Hub Access West"
+                        "area": "Hideout Boulder Shaft West",
+                        "node": "Door to Hideout Rocky Speedway"
                     },
                     "default_dock_weakness": "Open Transition",
                     "exclude_from_dock_rando": false,
@@ -1120,7 +1120,7 @@
                 }
             }
         },
-        "Hideout Alpha Nest Access West": {
+        "Hideout Boulder Shaft West": {
             "default_node": null,
             "extra": {
                 "map_name": "rm_a6a08",
@@ -1145,7 +1145,7 @@
                 }
             },
             "nodes": {
-                "Door to Hideout Hub Access West": {
+                "Door to Hideout Rocky Speedway": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -1167,8 +1167,8 @@
                     "dock_type": "door",
                     "default_connection": {
                         "region": "The Depths",
-                        "area": "Hideout Hub Access West",
-                        "node": "Door to Hideout Alpha Nest Access West"
+                        "area": "Hideout Rocky Speedway",
+                        "node": "Door to Hideout Boulder Shaft West"
                     },
                     "default_dock_weakness": "Open Transition",
                     "exclude_from_dock_rando": false,
@@ -1177,7 +1177,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Horizontal Dock to Hideout Alpha Nest": {
+                        "Horizontal Dock to Hideout Alpha Den": {
                             "type": "or",
                             "data": {
                                 "comment": null,
@@ -1191,7 +1191,7 @@
                         }
                     }
                 },
-                "Horizontal Dock to Hideout Alpha Nest": {
+                "Horizontal Dock to Hideout Alpha Den": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -1208,8 +1208,8 @@
                     "dock_type": "horizontal_dock",
                     "default_connection": {
                         "region": "The Depths",
-                        "area": "Hideout Alpha Nest",
-                        "node": "Horizontal Dock to Hideout Alpha Nest Access West"
+                        "area": "Hideout Alpha Den",
+                        "node": "Horizontal Dock to Hideout Boulder Shaft West"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
                     "exclude_from_dock_rando": false,
@@ -1218,7 +1218,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Door to Hideout Hub Access West": {
+                        "Door to Hideout Rocky Speedway": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -1229,7 +1229,7 @@
                 }
             }
         },
-        "Hideout Alpha Nest": {
+        "Hideout Alpha Den": {
             "default_node": null,
             "extra": {
                 "map_name": "rm_a6a09",
@@ -1274,7 +1274,7 @@
                 }
             },
             "nodes": {
-                "Horizontal Dock to Hideout Alpha Nest Access West": {
+                "Horizontal Dock to Hideout Boulder Shaft West": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -1291,8 +1291,8 @@
                     "dock_type": "horizontal_dock",
                     "default_connection": {
                         "region": "The Depths",
-                        "area": "Hideout Alpha Nest Access West",
-                        "node": "Horizontal Dock to Hideout Alpha Nest"
+                        "area": "Hideout Boulder Shaft West",
+                        "node": "Horizontal Dock to Hideout Alpha Den"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
                     "exclude_from_dock_rando": false,
@@ -1301,14 +1301,14 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Door to Hideout Alpha Nest Access East": {
+                        "Door to Hideout Boulder Shaft East": {
                             "type": "and",
                             "data": {
                                 "comment": null,
                                 "items": []
                             }
                         },
-                        "Door to Hideout Omega Nest Access": {
+                        "Door to Hideout Rubble Staircase": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -1334,7 +1334,7 @@
                         }
                     }
                 },
-                "Door to Hideout Alpha Nest Access East": {
+                "Door to Hideout Boulder Shaft East": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -1356,8 +1356,8 @@
                     "dock_type": "door",
                     "default_connection": {
                         "region": "The Depths",
-                        "area": "Hideout Alpha Nest Access East",
-                        "node": "Door to Hideout Alpha Nest"
+                        "area": "Hideout Boulder Shaft East",
+                        "node": "Door to Hideout Alpha Den"
                     },
                     "default_dock_weakness": "Open Transition",
                     "exclude_from_dock_rando": false,
@@ -1366,7 +1366,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Horizontal Dock to Hideout Alpha Nest Access West": {
+                        "Horizontal Dock to Hideout Boulder Shaft West": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -1375,7 +1375,7 @@
                         }
                     }
                 },
-                "Door to Hideout Omega Nest Access": {
+                "Door to Hideout Rubble Staircase": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -1397,8 +1397,8 @@
                     "dock_type": "door",
                     "default_connection": {
                         "region": "The Depths",
-                        "area": "Hideout Omega Nest Access",
-                        "node": "Door to Hideout Alpha Nest"
+                        "area": "Hideout Rubble Staircase",
+                        "node": "Door to Hideout Alpha Den"
                     },
                     "default_dock_weakness": "Open Transition",
                     "exclude_from_dock_rando": false,
@@ -1407,7 +1407,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Horizontal Dock to Hideout Alpha Nest Access West": {
+                        "Horizontal Dock to Hideout Boulder Shaft West": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -1432,7 +1432,7 @@
                     "valid_starting_location": false,
                     "event_name": "Alpha23",
                     "connections": {
-                        "Horizontal Dock to Hideout Alpha Nest Access West": {
+                        "Horizontal Dock to Hideout Boulder Shaft West": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -1478,7 +1478,7 @@
                 }
             }
         },
-        "Hideout Omega Nest Access": {
+        "Hideout Rubble Staircase": {
             "default_node": null,
             "extra": {
                 "map_name": "rm_a6a09A",
@@ -1515,7 +1515,7 @@
                 }
             },
             "nodes": {
-                "Horizontal Dock to Hideout Omega Nest": {
+                "Horizontal Dock to Hideout Omega Den": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -1532,8 +1532,8 @@
                     "dock_type": "horizontal_dock",
                     "default_connection": {
                         "region": "The Depths",
-                        "area": "Hideout Omega Nest",
-                        "node": "Horizontal Dock to Hideout Omega Nest Access"
+                        "area": "Hideout Omega Den",
+                        "node": "Horizontal Dock to Hideout Rubble Staircase"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
                     "exclude_from_dock_rando": false,
@@ -1542,7 +1542,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Door to Hideout Alpha Nest": {
+                        "Door to Hideout Alpha Den": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -1551,7 +1551,7 @@
                         }
                     }
                 },
-                "Door to Hideout Alpha Nest": {
+                "Door to Hideout Alpha Den": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -1573,8 +1573,8 @@
                     "dock_type": "door",
                     "default_connection": {
                         "region": "The Depths",
-                        "area": "Hideout Alpha Nest",
-                        "node": "Door to Hideout Omega Nest Access"
+                        "area": "Hideout Alpha Den",
+                        "node": "Door to Hideout Rubble Staircase"
                     },
                     "default_dock_weakness": "Open Transition",
                     "exclude_from_dock_rando": false,
@@ -1583,7 +1583,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Horizontal Dock to Hideout Omega Nest": {
+                        "Horizontal Dock to Hideout Omega Den": {
                             "type": "or",
                             "data": {
                                 "comment": null,
@@ -1599,7 +1599,7 @@
                 }
             }
         },
-        "Hideout Omega Nest": {
+        "Hideout Omega Den": {
             "default_node": null,
             "extra": {
                 "map_name": "rm_a6a09B",
@@ -1642,7 +1642,7 @@
                     "default_connection": {
                         "region": "The Depths",
                         "area": "Hideout Storage",
-                        "node": "Horizontal Dock to Hideout Omega Nest"
+                        "node": "Horizontal Dock to Hideout Omega Den"
                     },
                     "default_dock_weakness": "2-Tiles High Dock",
                     "exclude_from_dock_rando": false,
@@ -1651,7 +1651,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Horizontal Dock to Hideout Omega Nest Access": {
+                        "Horizontal Dock to Hideout Rubble Staircase": {
                             "type": "or",
                             "data": {
                                 "comment": null,
@@ -1801,7 +1801,7 @@
                         }
                     }
                 },
-                "Horizontal Dock to Hideout Omega Nest Access": {
+                "Horizontal Dock to Hideout Rubble Staircase": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -1818,8 +1818,8 @@
                     "dock_type": "horizontal_dock",
                     "default_connection": {
                         "region": "The Depths",
-                        "area": "Hideout Omega Nest Access",
-                        "node": "Horizontal Dock to Hideout Omega Nest"
+                        "area": "Hideout Rubble Staircase",
+                        "node": "Horizontal Dock to Hideout Omega Den"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
                     "exclude_from_dock_rando": false,
@@ -2056,7 +2056,7 @@
                     "valid_starting_location": false,
                     "event_name": "Omega1",
                     "connections": {
-                        "Horizontal Dock to Hideout Omega Nest Access": {
+                        "Horizontal Dock to Hideout Rubble Staircase": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -2123,7 +2123,7 @@
                 }
             },
             "nodes": {
-                "Horizontal Dock to Hideout Omega Nest": {
+                "Horizontal Dock to Hideout Omega Den": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -2140,7 +2140,7 @@
                     "dock_type": "horizontal_dock",
                     "default_connection": {
                         "region": "The Depths",
-                        "area": "Hideout Omega Nest",
+                        "area": "Hideout Omega Den",
                         "node": "Horizontal Dock to Hideout Storage"
                     },
                     "default_dock_weakness": "2-Tiles High Dock",
@@ -2178,7 +2178,7 @@
                     "pickup_index": 51,
                     "location_category": "minor",
                     "connections": {
-                        "Horizontal Dock to Hideout Omega Nest": {
+                        "Horizontal Dock to Hideout Omega Den": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -2189,7 +2189,7 @@
                 }
             }
         },
-        "Hideout Alpha Nest Access East": {
+        "Hideout Boulder Shaft East": {
             "default_node": null,
             "extra": {
                 "map_name": "rm_a6a10",
@@ -2222,7 +2222,7 @@
                 }
             },
             "nodes": {
-                "Door to Hideout Alpha Nest": {
+                "Door to Hideout Alpha Den": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -2244,8 +2244,8 @@
                     "dock_type": "door",
                     "default_connection": {
                         "region": "The Depths",
-                        "area": "Hideout Alpha Nest",
-                        "node": "Door to Hideout Alpha Nest Access East"
+                        "area": "Hideout Alpha Den",
+                        "node": "Door to Hideout Boulder Shaft East"
                     },
                     "default_dock_weakness": "Open Transition",
                     "exclude_from_dock_rando": false,
@@ -2263,7 +2263,7 @@
                         }
                     }
                 },
-                "Horizontal Dock to Hideout Hub Access East": {
+                "Horizontal Dock to Hideout Lava Pond Pipe": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -2280,8 +2280,8 @@
                     "dock_type": "horizontal_dock",
                     "default_connection": {
                         "region": "The Depths",
-                        "area": "Hideout Hub Access East",
-                        "node": "Horizontal Dock to Hideout Alpha Nest Access East"
+                        "area": "Hideout Lava Pond Pipe",
+                        "node": "Horizontal Dock to Hideout Boulder Shaft East"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
                     "exclude_from_dock_rando": false,
@@ -2317,7 +2317,7 @@
                     "default_connection": {
                         "region": "The Depths",
                         "area": "Hideout Save Station",
-                        "node": "Horizontal Dock to Hideout Alpha Nest Access East"
+                        "node": "Horizontal Dock to Hideout Boulder Shaft East"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
                     "exclude_from_dock_rando": false,
@@ -2326,7 +2326,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Door to Hideout Alpha Nest": {
+                        "Door to Hideout Alpha Den": {
                             "type": "or",
                             "data": {
                                 "comment": null,
@@ -2338,7 +2338,7 @@
                                 ]
                             }
                         },
-                        "Horizontal Dock to Hideout Hub Access East": {
+                        "Horizontal Dock to Hideout Lava Pond Pipe": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -2349,7 +2349,7 @@
                 }
             }
         },
-        "Hideout Hub Access East": {
+        "Hideout Lava Pond Pipe": {
             "default_node": null,
             "extra": {
                 "map_name": "rm_a6a11",
@@ -2370,7 +2370,7 @@
                 }
             },
             "nodes": {
-                "Horizontal Dock to Hideout Alpha Nest Access East": {
+                "Horizontal Dock to Hideout Boulder Shaft East": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -2387,8 +2387,8 @@
                     "dock_type": "horizontal_dock",
                     "default_connection": {
                         "region": "The Depths",
-                        "area": "Hideout Alpha Nest Access East",
-                        "node": "Horizontal Dock to Hideout Hub Access East"
+                        "area": "Hideout Boulder Shaft East",
+                        "node": "Horizontal Dock to Hideout Lava Pond Pipe"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
                     "exclude_from_dock_rando": false,
@@ -2404,7 +2404,7 @@
                                 "items": []
                             }
                         },
-                        "Pipe to Bubble Lair Shinespark Cave East": {
+                        "Pipe to The Nest Bubbly Cavern Pipe": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -2446,7 +2446,7 @@
                     "default_connection": {
                         "region": "The Depths",
                         "area": "Hideout Hub",
-                        "node": "Door to Hideout Hub Access East"
+                        "node": "Door to Hideout Lava Pond Pipe"
                     },
                     "default_dock_weakness": "Open Transition",
                     "exclude_from_dock_rando": false,
@@ -2455,7 +2455,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Horizontal Dock to Hideout Alpha Nest Access East": {
+                        "Horizontal Dock to Hideout Boulder Shaft East": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -2464,7 +2464,7 @@
                         }
                     }
                 },
-                "Pipe to Bubble Lair Shinespark Cave East": {
+                "Pipe to The Nest Bubbly Cavern Pipe": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -2485,8 +2485,8 @@
                     "dock_type": "teleporter",
                     "default_connection": {
                         "region": "The Depths",
-                        "area": "Bubble Lair Shinespark Cave East",
-                        "node": "Pipe to Hideout Hub Access East"
+                        "area": "The Nest Bubbly Cavern Pipe",
+                        "node": "Pipe to Hideout Lava Pond Pipe"
                     },
                     "default_dock_weakness": "Teleporter",
                     "exclude_from_dock_rando": false,
@@ -2495,7 +2495,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": "The Depths - Hideout Pipe",
                     "connections": {
-                        "Horizontal Dock to Hideout Alpha Nest Access East": {
+                        "Horizontal Dock to Hideout Boulder Shaft East": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -3663,7 +3663,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Horizontal Dock to Bubble Lair Shinespark Cave Access": {
+                        "Horizontal Dock to The Nest Bubbly Speedway": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -3715,7 +3715,7 @@
                         }
                     }
                 },
-                "Horizontal Dock to Bubble Lair Shinespark Cave Access": {
+                "Horizontal Dock to The Nest Bubbly Speedway": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -3736,7 +3736,7 @@
                     "dock_type": "horizontal_dock",
                     "default_connection": {
                         "region": "The Depths",
-                        "area": "Bubble Lair Shinespark Cave Access",
+                        "area": "The Nest Bubbly Speedway",
                         "node": "Horizontal Dock to Glowfly Maze"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
@@ -3800,7 +3800,7 @@
                 }
             }
         },
-        "Bubble Lair Shinespark Cave Access": {
+        "The Nest Bubbly Speedway": {
             "default_node": null,
             "extra": {
                 "map_name": "rm_a6b01",
@@ -3847,7 +3847,7 @@
                     "default_connection": {
                         "region": "The Depths",
                         "area": "Glowfly Maze",
-                        "node": "Horizontal Dock to Bubble Lair Shinespark Cave Access"
+                        "node": "Horizontal Dock to The Nest Bubbly Speedway"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
                     "exclude_from_dock_rando": false,
@@ -3856,7 +3856,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Door to Bubble Lair Shinespark Cave": {
+                        "Door to The Nest Shinespark Cave": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -3865,7 +3865,7 @@
                         }
                     }
                 },
-                "Door to Bubble Lair Shinespark Cave": {
+                "Door to The Nest Shinespark Cave": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -3887,8 +3887,8 @@
                     "dock_type": "door",
                     "default_connection": {
                         "region": "The Depths",
-                        "area": "Bubble Lair Shinespark Cave",
-                        "node": "Door to Bubble Lair Shinespark Cave Access"
+                        "area": "The Nest Shinespark Cave",
+                        "node": "Door to The Nest Bubbly Speedway"
                     },
                     "default_dock_weakness": "Open Transition",
                     "exclude_from_dock_rando": false,
@@ -3908,7 +3908,7 @@
                 }
             }
         },
-        "Bubble Lair Shinespark Cave": {
+        "The Nest Shinespark Cave": {
             "default_node": null,
             "extra": {
                 "map_name": "rm_a6b02",
@@ -3949,7 +3949,7 @@
                 }
             },
             "nodes": {
-                "Door to Bubble Lair Shinespark Cave Access": {
+                "Door to The Nest Bubbly Speedway": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -3971,8 +3971,8 @@
                     "dock_type": "door",
                     "default_connection": {
                         "region": "The Depths",
-                        "area": "Bubble Lair Shinespark Cave Access",
-                        "node": "Door to Bubble Lair Shinespark Cave"
+                        "area": "The Nest Bubbly Speedway",
+                        "node": "Door to The Nest Shinespark Cave"
                     },
                     "default_dock_weakness": "Open Transition",
                     "exclude_from_dock_rando": false,
@@ -3981,14 +3981,14 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Horizontal Dock to Bubble Lair Shinespark Cave East (Bottom)": {
+                        "Horizontal Dock to The Nest Bubbly Cavern Pipe (Bottom)": {
                             "type": "and",
                             "data": {
                                 "comment": null,
                                 "items": []
                             }
                         },
-                        "Horizontal Dock to Bubble Lair Hub": {
+                        "Horizontal Dock to The Nest Hub": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -4072,7 +4072,7 @@
                         }
                     }
                 },
-                "Horizontal Dock to Bubble Lair Shinespark Cave East (Bottom)": {
+                "Horizontal Dock to The Nest Bubbly Cavern Pipe (Bottom)": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -4089,8 +4089,8 @@
                     "dock_type": "horizontal_dock",
                     "default_connection": {
                         "region": "The Depths",
-                        "area": "Bubble Lair Shinespark Cave East",
-                        "node": "Horizontal Dock to Bubble Lair Shinespark Cave (Bottom Right)"
+                        "area": "The Nest Bubbly Cavern Pipe",
+                        "node": "Horizontal Dock to The Nest Shinespark Cave (Bottom Right)"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
                     "exclude_from_dock_rando": false,
@@ -4099,7 +4099,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Door to Bubble Lair Shinespark Cave Access": {
+                        "Door to The Nest Bubbly Speedway": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -4108,7 +4108,7 @@
                         }
                     }
                 },
-                "Horizontal Dock to Bubble Lair Shinespark Cave East (Top)": {
+                "Horizontal Dock to The Nest Bubbly Cavern Pipe (Top)": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -4125,8 +4125,8 @@
                     "dock_type": "horizontal_dock",
                     "default_connection": {
                         "region": "The Depths",
-                        "area": "Bubble Lair Shinespark Cave East",
-                        "node": "Horizontal Dock to Bubble Lair Shinespark Cave (Middle Right)"
+                        "area": "The Nest Bubbly Cavern Pipe",
+                        "node": "Horizontal Dock to The Nest Shinespark Cave (Middle Right)"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
                     "exclude_from_dock_rando": false,
@@ -4135,7 +4135,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Door to Bubble Lair Shinespark Cave West": {
+                        "Door to The Nest Bubbly Shaft": {
                             "type": "or",
                             "data": {
                                 "comment": null,
@@ -4149,7 +4149,7 @@
                         }
                     }
                 },
-                "Door to Bubble Lair Shinespark Cave West": {
+                "Door to The Nest Bubbly Shaft": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -4171,8 +4171,8 @@
                     "dock_type": "door",
                     "default_connection": {
                         "region": "The Depths",
-                        "area": "Bubble Lair Shinespark Cave West",
-                        "node": "Door to Bubble Lair Shinespark Cave"
+                        "area": "The Nest Bubbly Shaft",
+                        "node": "Door to The Nest Shinespark Cave"
                     },
                     "default_dock_weakness": "Open Transition",
                     "exclude_from_dock_rando": false,
@@ -4181,7 +4181,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Horizontal Dock to Bubble Lair Shinespark Cave East (Top)": {
+                        "Horizontal Dock to The Nest Bubbly Cavern Pipe (Top)": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -4190,7 +4190,7 @@
                         }
                     }
                 },
-                "Horizontal Dock to Bubble Lair Shinespark Cave West": {
+                "Horizontal Dock to The Nest Bubbly Shaft": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -4207,8 +4207,8 @@
                     "dock_type": "horizontal_dock",
                     "default_connection": {
                         "region": "The Depths",
-                        "area": "Bubble Lair Shinespark Cave West",
-                        "node": "Horizontal Dock to Bubble Lair Shinespark Cave"
+                        "area": "The Nest Bubbly Shaft",
+                        "node": "Horizontal Dock to The Nest Shinespark Cave"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
                     "exclude_from_dock_rando": false,
@@ -4217,7 +4217,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Horizontal Dock to Bubble Lair Hub": {
+                        "Horizontal Dock to The Nest Hub": {
                             "type": "or",
                             "data": {
                                 "comment": null,
@@ -4341,7 +4341,7 @@
                         }
                     }
                 },
-                "Horizontal Dock to Bubble Lair Hub": {
+                "Horizontal Dock to The Nest Hub": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -4358,8 +4358,8 @@
                     "dock_type": "horizontal_dock",
                     "default_connection": {
                         "region": "The Depths",
-                        "area": "Bubble Lair Hub",
-                        "node": "Horizontal Dock to Bubble Lair Shinespark Cave"
+                        "area": "The Nest Hub",
+                        "node": "Horizontal Dock to The Nest Shinespark Cave"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
                     "exclude_from_dock_rando": false,
@@ -4368,7 +4368,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Horizontal Dock to Bubble Lair Shinespark Cave West": {
+                        "Horizontal Dock to The Nest Bubbly Shaft": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -4379,7 +4379,7 @@
                 }
             }
         },
-        "Bubble Lair Shinespark Cave East": {
+        "The Nest Bubbly Cavern Pipe": {
             "default_node": null,
             "extra": {
                 "map_name": "rm_a6b03",
@@ -4400,7 +4400,7 @@
                 }
             },
             "nodes": {
-                "Horizontal Dock to Bubble Lair Shinespark Cave (Bottom Right)": {
+                "Horizontal Dock to The Nest Shinespark Cave (Bottom Right)": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -4417,8 +4417,8 @@
                     "dock_type": "horizontal_dock",
                     "default_connection": {
                         "region": "The Depths",
-                        "area": "Bubble Lair Shinespark Cave",
-                        "node": "Horizontal Dock to Bubble Lair Shinespark Cave East (Bottom)"
+                        "area": "The Nest Shinespark Cave",
+                        "node": "Horizontal Dock to The Nest Bubbly Cavern Pipe (Bottom)"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
                     "exclude_from_dock_rando": false,
@@ -4427,7 +4427,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Horizontal Dock to Bubble Lair Shinespark Cave (Middle Right)": {
+                        "Horizontal Dock to The Nest Shinespark Cave (Middle Right)": {
                             "type": "or",
                             "data": {
                                 "comment": null,
@@ -4439,7 +4439,7 @@
                                 ]
                             }
                         },
-                        "Pipe to Hideout Hub Access East": {
+                        "Pipe to Hideout Lava Pond Pipe": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -4458,7 +4458,7 @@
                         }
                     }
                 },
-                "Horizontal Dock to Bubble Lair Shinespark Cave (Middle Right)": {
+                "Horizontal Dock to The Nest Shinespark Cave (Middle Right)": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -4475,8 +4475,8 @@
                     "dock_type": "horizontal_dock",
                     "default_connection": {
                         "region": "The Depths",
-                        "area": "Bubble Lair Shinespark Cave",
-                        "node": "Horizontal Dock to Bubble Lair Shinespark Cave East (Top)"
+                        "area": "The Nest Shinespark Cave",
+                        "node": "Horizontal Dock to The Nest Bubbly Cavern Pipe (Top)"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
                     "exclude_from_dock_rando": false,
@@ -4485,7 +4485,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Horizontal Dock to Bubble Lair Shinespark Cave (Bottom Right)": {
+                        "Horizontal Dock to The Nest Shinespark Cave (Bottom Right)": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -4494,7 +4494,7 @@
                         }
                     }
                 },
-                "Pipe to Hideout Hub Access East": {
+                "Pipe to Hideout Lava Pond Pipe": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -4515,8 +4515,8 @@
                     "dock_type": "teleporter",
                     "default_connection": {
                         "region": "The Depths",
-                        "area": "Hideout Hub Access East",
-                        "node": "Pipe to Bubble Lair Shinespark Cave East"
+                        "area": "Hideout Lava Pond Pipe",
+                        "node": "Pipe to The Nest Bubbly Cavern Pipe"
                     },
                     "default_dock_weakness": "Teleporter",
                     "exclude_from_dock_rando": false,
@@ -4525,7 +4525,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": "The Depths - Shinespark Cave Pipe",
                     "connections": {
-                        "Horizontal Dock to Bubble Lair Shinespark Cave (Bottom Right)": {
+                        "Horizontal Dock to The Nest Shinespark Cave (Bottom Right)": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -4546,7 +4546,7 @@
                 }
             }
         },
-        "Bubble Lair Shinespark Cave West": {
+        "The Nest Bubbly Shaft": {
             "default_node": null,
             "extra": {
                 "map_name": "rm_a6b04",
@@ -4571,7 +4571,7 @@
                 }
             },
             "nodes": {
-                "Door to Bubble Lair Shinespark Cave": {
+                "Door to The Nest Shinespark Cave": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -4593,8 +4593,8 @@
                     "dock_type": "door",
                     "default_connection": {
                         "region": "The Depths",
-                        "area": "Bubble Lair Shinespark Cave",
-                        "node": "Door to Bubble Lair Shinespark Cave West"
+                        "area": "The Nest Shinespark Cave",
+                        "node": "Door to The Nest Bubbly Shaft"
                     },
                     "default_dock_weakness": "Open Transition",
                     "exclude_from_dock_rando": false,
@@ -4603,7 +4603,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Horizontal Dock to Bubble Lair Shinespark Cave": {
+                        "Horizontal Dock to The Nest Shinespark Cave": {
                             "type": "or",
                             "data": {
                                 "comment": null,
@@ -4617,7 +4617,7 @@
                         }
                     }
                 },
-                "Horizontal Dock to Bubble Lair Shinespark Cave": {
+                "Horizontal Dock to The Nest Shinespark Cave": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -4634,8 +4634,8 @@
                     "dock_type": "horizontal_dock",
                     "default_connection": {
                         "region": "The Depths",
-                        "area": "Bubble Lair Shinespark Cave",
-                        "node": "Horizontal Dock to Bubble Lair Shinespark Cave West"
+                        "area": "The Nest Shinespark Cave",
+                        "node": "Horizontal Dock to The Nest Bubbly Shaft"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
                     "exclude_from_dock_rando": false,
@@ -4644,7 +4644,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Door to Bubble Lair Shinespark Cave": {
+                        "Door to The Nest Shinespark Cave": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -4655,7 +4655,7 @@
                 }
             }
         },
-        "Bubble Lair Hub": {
+        "The Nest Hub": {
             "default_node": null,
             "extra": {
                 "map_name": "rm_a6b05",
@@ -4712,7 +4712,7 @@
                 }
             },
             "nodes": {
-                "Horizontal Dock to Bubble Lair Shinespark Cave": {
+                "Horizontal Dock to The Nest Shinespark Cave": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -4729,8 +4729,8 @@
                     "dock_type": "horizontal_dock",
                     "default_connection": {
                         "region": "The Depths",
-                        "area": "Bubble Lair Shinespark Cave",
-                        "node": "Horizontal Dock to Bubble Lair Hub"
+                        "area": "The Nest Shinespark Cave",
+                        "node": "Horizontal Dock to The Nest Hub"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
                     "exclude_from_dock_rando": false,
@@ -4739,7 +4739,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Horizontal Dock to Bubble Lair Save Station": {
+                        "Horizontal Dock to The Nest Save Station": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -4748,7 +4748,7 @@
                         }
                     }
                 },
-                "Horizontal Dock to Bubble Lair Save Station": {
+                "Horizontal Dock to The Nest Save Station": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -4765,8 +4765,8 @@
                     "dock_type": "horizontal_dock",
                     "default_connection": {
                         "region": "The Depths",
-                        "area": "Bubble Lair Save Station",
-                        "node": "Horizontal Dock to Bubble Lair Hub"
+                        "area": "The Nest Save Station",
+                        "node": "Horizontal Dock to The Nest Hub"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
                     "exclude_from_dock_rando": false,
@@ -4775,7 +4775,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Horizontal Dock to Bubble Lair Shinespark Cave": {
+                        "Horizontal Dock to The Nest Shinespark Cave": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -4787,7 +4787,7 @@
                                 ]
                             }
                         },
-                        "Horizontal Dock to Bubble Lair Omega Nest South West Access": {
+                        "Horizontal Dock to The Nest Bubble Hallway Southwest Pipe": {
                             "type": "or",
                             "data": {
                                 "comment": null,
@@ -4801,7 +4801,7 @@
                         }
                     }
                 },
-                "Horizontal Dock to Bubble Lair Omega Nest South West Access": {
+                "Horizontal Dock to The Nest Bubble Hallway Southwest Pipe": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -4818,8 +4818,8 @@
                     "dock_type": "horizontal_dock",
                     "default_connection": {
                         "region": "The Depths",
-                        "area": "Bubble Lair Omega Nest South West Access",
-                        "node": "Horizontal Dock to Bubble Lair Hub"
+                        "area": "The Nest Bubble Hallway Southwest Pipe",
+                        "node": "Horizontal Dock to The Nest Hub"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
                     "exclude_from_dock_rando": false,
@@ -4828,14 +4828,14 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Horizontal Dock to Bubble Lair Save Station": {
+                        "Horizontal Dock to The Nest Save Station": {
                             "type": "and",
                             "data": {
                                 "comment": null,
                                 "items": []
                             }
                         },
-                        "Horizontal Dock to Bubble Lair Omega Nest East Access": {
+                        "Horizontal Dock to The Nest Bubble Hallway East": {
                             "type": "or",
                             "data": {
                                 "comment": null,
@@ -4849,7 +4849,7 @@
                         }
                     }
                 },
-                "Horizontal Dock to Bubble Lair Omega Nest East Access": {
+                "Horizontal Dock to The Nest Bubble Hallway East": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -4866,8 +4866,8 @@
                     "dock_type": "horizontal_dock",
                     "default_connection": {
                         "region": "The Depths",
-                        "area": "Bubble Lair Omega Nest East Access",
-                        "node": "Horizontal Dock to Bubble Lair Hub"
+                        "area": "The Nest Bubble Hallway East",
+                        "node": "Horizontal Dock to The Nest Hub"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
                     "exclude_from_dock_rando": false,
@@ -4876,14 +4876,14 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Horizontal Dock to Bubble Lair Omega Nest South West Access": {
+                        "Horizontal Dock to The Nest Bubble Hallway Southwest Pipe": {
                             "type": "and",
                             "data": {
                                 "comment": null,
                                 "items": []
                             }
                         },
-                        "Horizontal Dock to Bubble Lair Omega Nest North West Access": {
+                        "Horizontal Dock to The Nest Bubble Hallway Northwest": {
                             "type": "or",
                             "data": {
                                 "comment": null,
@@ -4897,7 +4897,7 @@
                         }
                     }
                 },
-                "Horizontal Dock to Bubble Lair Omega Nest North West Access": {
+                "Horizontal Dock to The Nest Bubble Hallway Northwest": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -4914,8 +4914,8 @@
                     "dock_type": "horizontal_dock",
                     "default_connection": {
                         "region": "The Depths",
-                        "area": "Bubble Lair Omega Nest North West Access",
-                        "node": "Horizontal Dock to Bubble Lair Hub"
+                        "area": "The Nest Bubble Hallway Northwest",
+                        "node": "Horizontal Dock to The Nest Hub"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
                     "exclude_from_dock_rando": false,
@@ -4924,7 +4924,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Horizontal Dock to Bubble Lair Omega Nest East Access": {
+                        "Horizontal Dock to The Nest Bubble Hallway East": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -4935,7 +4935,7 @@
                 }
             }
         },
-        "Bubble Lair Save Station": {
+        "The Nest Save Station": {
             "default_node": "Save Station",
             "extra": {
                 "map_name": "rm_a6b06",
@@ -4970,7 +4970,7 @@
                     },
                     "valid_starting_location": true,
                     "connections": {
-                        "Horizontal Dock to Bubble Lair Hub": {
+                        "Horizontal Dock to The Nest Hub": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -4979,7 +4979,7 @@
                         }
                     }
                 },
-                "Horizontal Dock to Bubble Lair Hub": {
+                "Horizontal Dock to The Nest Hub": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -4996,8 +4996,8 @@
                     "dock_type": "horizontal_dock",
                     "default_connection": {
                         "region": "The Depths",
-                        "area": "Bubble Lair Hub",
-                        "node": "Horizontal Dock to Bubble Lair Save Station"
+                        "area": "The Nest Hub",
+                        "node": "Horizontal Dock to The Nest Save Station"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
                     "exclude_from_dock_rando": false,
@@ -5017,7 +5017,7 @@
                 }
             }
         },
-        "Bubble Lair Omega Nest North West Access": {
+        "The Nest Bubble Hallway Northwest": {
             "default_node": null,
             "extra": {
                 "map_name": "rm_a6b07",
@@ -5062,7 +5062,7 @@
                 }
             },
             "nodes": {
-                "Horizontal Dock to Bubble Lair Hub": {
+                "Horizontal Dock to The Nest Hub": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -5079,8 +5079,8 @@
                     "dock_type": "horizontal_dock",
                     "default_connection": {
                         "region": "The Depths",
-                        "area": "Bubble Lair Hub",
-                        "node": "Horizontal Dock to Bubble Lair Omega Nest North West Access"
+                        "area": "The Nest Hub",
+                        "node": "Horizontal Dock to The Nest Bubble Hallway Northwest"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
                     "exclude_from_dock_rando": false,
@@ -5089,7 +5089,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Tunnel to Bubble Lair Omega Nest North West": {
+                        "Tunnel to The Nest Omega Den Northwest": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -5158,7 +5158,7 @@
                         }
                     }
                 },
-                "Tunnel to Bubble Lair Omega Nest North West": {
+                "Tunnel to The Nest Omega Den Northwest": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -5175,8 +5175,8 @@
                     "dock_type": "tunnel",
                     "default_connection": {
                         "region": "The Depths",
-                        "area": "Bubble Lair Omega Nest North West",
-                        "node": "Tunnel to Bubble Lair Omega Nest North West Access"
+                        "area": "The Nest Omega Den Northwest",
+                        "node": "Tunnel to The Nest Bubble Hallway Northwest"
                     },
                     "default_dock_weakness": "Morph Ball Tunnel",
                     "exclude_from_dock_rando": false,
@@ -5185,7 +5185,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Horizontal Dock to Bubble Lair Hub": {
+                        "Horizontal Dock to The Nest Hub": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -5227,7 +5227,7 @@
                 }
             }
         },
-        "Bubble Lair Omega Nest North West": {
+        "The Nest Omega Den Northwest": {
             "default_node": null,
             "extra": {
                 "map_name": "rm_a6b08",
@@ -5248,7 +5248,7 @@
                 }
             },
             "nodes": {
-                "Tunnel to Bubble Lair Omega Nest North West Access": {
+                "Tunnel to The Nest Bubble Hallway Northwest": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -5265,8 +5265,8 @@
                     "dock_type": "tunnel",
                     "default_connection": {
                         "region": "The Depths",
-                        "area": "Bubble Lair Omega Nest North West Access",
-                        "node": "Tunnel to Bubble Lair Omega Nest North West"
+                        "area": "The Nest Bubble Hallway Northwest",
+                        "node": "Tunnel to The Nest Omega Den Northwest"
                     },
                     "default_dock_weakness": "Morph Ball Tunnel",
                     "exclude_from_dock_rando": false,
@@ -5314,7 +5314,7 @@
                     "valid_starting_location": false,
                     "event_name": "Omega3",
                     "connections": {
-                        "Tunnel to Bubble Lair Omega Nest North West Access": {
+                        "Tunnel to The Nest Bubble Hallway Northwest": {
                             "type": "or",
                             "data": {
                                 "comment": null,
@@ -5365,7 +5365,7 @@
                 }
             }
         },
-        "Bubble Lair Omega Nest East Access": {
+        "The Nest Bubble Hallway East": {
             "default_node": null,
             "extra": {
                 "map_name": "rm_a6b09",
@@ -5394,7 +5394,7 @@
                 }
             },
             "nodes": {
-                "Horizontal Dock to Bubble Lair Hub": {
+                "Horizontal Dock to The Nest Hub": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -5411,8 +5411,8 @@
                     "dock_type": "horizontal_dock",
                     "default_connection": {
                         "region": "The Depths",
-                        "area": "Bubble Lair Hub",
-                        "node": "Horizontal Dock to Bubble Lair Omega Nest East Access"
+                        "area": "The Nest Hub",
+                        "node": "Horizontal Dock to The Nest Bubble Hallway East"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
                     "exclude_from_dock_rando": false,
@@ -5421,7 +5421,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Tunnel to Bubble Lair Omega Nest East": {
+                        "Tunnel to The Nest Omega Den East": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -5473,7 +5473,7 @@
                         }
                     }
                 },
-                "Tunnel to Bubble Lair Omega Nest East": {
+                "Tunnel to The Nest Omega Den East": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -5490,8 +5490,8 @@
                     "dock_type": "tunnel",
                     "default_connection": {
                         "region": "The Depths",
-                        "area": "Bubble Lair Omega Nest East",
-                        "node": "Tunnel to Bubble Lair Omega Nest East Access"
+                        "area": "The Nest Omega Den East",
+                        "node": "Tunnel to The Nest Bubble Hallway East"
                     },
                     "default_dock_weakness": "Morph Ball Tunnel",
                     "exclude_from_dock_rando": false,
@@ -5500,7 +5500,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Horizontal Dock to Bubble Lair Hub": {
+                        "Horizontal Dock to The Nest Hub": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -5525,7 +5525,7 @@
                 }
             }
         },
-        "Bubble Lair Omega Nest East": {
+        "The Nest Omega Den East": {
             "default_node": null,
             "extra": {
                 "map_name": "rm_a6b10",
@@ -5546,7 +5546,7 @@
                 }
             },
             "nodes": {
-                "Tunnel to Bubble Lair Omega Nest East Access": {
+                "Tunnel to The Nest Bubble Hallway East": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -5563,8 +5563,8 @@
                     "dock_type": "tunnel",
                     "default_connection": {
                         "region": "The Depths",
-                        "area": "Bubble Lair Omega Nest East Access",
-                        "node": "Tunnel to Bubble Lair Omega Nest East"
+                        "area": "The Nest Bubble Hallway East",
+                        "node": "Tunnel to The Nest Omega Den East"
                     },
                     "default_dock_weakness": "Morph Ball Tunnel",
                     "exclude_from_dock_rando": false,
@@ -5612,7 +5612,7 @@
                     "valid_starting_location": false,
                     "event_name": "Omega4",
                     "connections": {
-                        "Tunnel to Bubble Lair Omega Nest East Access": {
+                        "Tunnel to The Nest Bubble Hallway East": {
                             "type": "or",
                             "data": {
                                 "comment": null,
@@ -5663,7 +5663,7 @@
                 }
             }
         },
-        "Bubble Lair Omega Nest South West Access": {
+        "The Nest Bubble Hallway Southwest Pipe": {
             "default_node": null,
             "extra": {
                 "map_name": "rm_a6b11",
@@ -5696,7 +5696,7 @@
                 }
             },
             "nodes": {
-                "Horizontal Dock to Bubble Lair Hub": {
+                "Horizontal Dock to The Nest Hub": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -5713,8 +5713,8 @@
                     "dock_type": "horizontal_dock",
                     "default_connection": {
                         "region": "The Depths",
-                        "area": "Bubble Lair Hub",
-                        "node": "Horizontal Dock to Bubble Lair Omega Nest South West Access"
+                        "area": "The Nest Hub",
+                        "node": "Horizontal Dock to The Nest Bubble Hallway Southwest Pipe"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
                     "exclude_from_dock_rando": false,
@@ -5750,7 +5750,7 @@
                         }
                     }
                 },
-                "Tunnel to Bubble Lair Omega Nest South West": {
+                "Tunnel to The Nest Omega Den Southwest": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -5767,8 +5767,8 @@
                     "dock_type": "tunnel",
                     "default_connection": {
                         "region": "The Depths",
-                        "area": "Bubble Lair Omega Nest South West",
-                        "node": "Tunnel to Bubble Lair Omega Nest South West Access"
+                        "area": "The Nest Omega Den Southwest",
+                        "node": "Tunnel to The Nest Bubble Hallway Southwest Pipe"
                     },
                     "default_dock_weakness": "Morph Ball Tunnel",
                     "exclude_from_dock_rando": false,
@@ -5824,7 +5824,7 @@
                         }
                     }
                 },
-                "Vertical Dock to Bubble Lair Curved Bubble Pillar": {
+                "Vertical Dock to The Nest Curved Bubble Pillar": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -5841,8 +5841,8 @@
                     "dock_type": "vertical_dock",
                     "default_connection": {
                         "region": "The Depths",
-                        "area": "Bubble Lair Curved Bubble Pillar",
-                        "node": "Vertical Dock to Bubble Lair Omega Nest South West Access"
+                        "area": "The Nest Curved Bubble Pillar",
+                        "node": "Vertical Dock to The Nest Bubble Hallway Southwest Pipe"
                     },
                     "default_dock_weakness": "4-Tiles Wide Dock",
                     "exclude_from_dock_rando": false,
@@ -5875,7 +5875,7 @@
                     "extra": {},
                     "valid_starting_location": false,
                     "connections": {
-                        "Horizontal Dock to Bubble Lair Hub": {
+                        "Horizontal Dock to The Nest Hub": {
                             "type": "or",
                             "data": {
                                 "comment": null,
@@ -5905,7 +5905,7 @@
                                 ]
                             }
                         },
-                        "Vertical Dock to Bubble Lair Curved Bubble Pillar": {
+                        "Vertical Dock to The Nest Curved Bubble Pillar": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -5950,7 +5950,7 @@
                     "extra": {},
                     "valid_starting_location": false,
                     "connections": {
-                        "Tunnel to Bubble Lair Omega Nest South West": {
+                        "Tunnel to The Nest Omega Den Southwest": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -6018,7 +6018,7 @@
                     "dock_type": "teleporter",
                     "default_connection": {
                         "region": "Genetics Laboratory",
-                        "area": "Waterfall Passage Top",
+                        "area": "Waterfalls Passage Top",
                         "node": "Pipe to The Depths"
                     },
                     "default_dock_weakness": "Teleporter",
@@ -6028,7 +6028,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": "The Depths - Bubble Lair Pipe",
                     "connections": {
-                        "Tunnel to Bubble Lair Omega Nest South West": {
+                        "Tunnel to The Nest Omega Den Southwest": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -6039,7 +6039,7 @@
                 }
             }
         },
-        "Bubble Lair Omega Nest South West": {
+        "The Nest Omega Den Southwest": {
             "default_node": null,
             "extra": {
                 "map_name": "rm_a6b12",
@@ -6060,7 +6060,7 @@
                 }
             },
             "nodes": {
-                "Tunnel to Bubble Lair Omega Nest South West Access": {
+                "Tunnel to The Nest Bubble Hallway Southwest Pipe": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -6077,8 +6077,8 @@
                     "dock_type": "tunnel",
                     "default_connection": {
                         "region": "The Depths",
-                        "area": "Bubble Lair Omega Nest South West Access",
-                        "node": "Tunnel to Bubble Lair Omega Nest South West"
+                        "area": "The Nest Bubble Hallway Southwest Pipe",
+                        "node": "Tunnel to The Nest Omega Den Southwest"
                     },
                     "default_dock_weakness": "Morph Ball Tunnel",
                     "exclude_from_dock_rando": false,
@@ -6126,7 +6126,7 @@
                     "valid_starting_location": false,
                     "event_name": "Omega2",
                     "connections": {
-                        "Tunnel to Bubble Lair Omega Nest South West Access": {
+                        "Tunnel to The Nest Bubble Hallway Southwest Pipe": {
                             "type": "or",
                             "data": {
                                 "comment": null,
@@ -6177,7 +6177,7 @@
                 }
             }
         },
-        "Bubble Lair Curved Bubble Pillar": {
+        "The Nest Curved Bubble Pillar": {
             "default_node": null,
             "extra": {
                 "map_name": "rm_a6b13",
@@ -6226,7 +6226,7 @@
                 }
             },
             "nodes": {
-                "Vertical Dock to Bubble Lair Omega Nest South West Access": {
+                "Vertical Dock to The Nest Bubble Hallway Southwest Pipe": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -6243,8 +6243,8 @@
                     "dock_type": "vertical_dock",
                     "default_connection": {
                         "region": "The Depths",
-                        "area": "Bubble Lair Omega Nest South West Access",
-                        "node": "Vertical Dock to Bubble Lair Curved Bubble Pillar"
+                        "area": "The Nest Bubble Hallway Southwest Pipe",
+                        "node": "Vertical Dock to The Nest Curved Bubble Pillar"
                     },
                     "default_dock_weakness": "4-Tiles Wide Dock",
                     "exclude_from_dock_rando": false,
@@ -6262,7 +6262,7 @@
                         }
                     }
                 },
-                "Horizontal Dock to Bubble Lair Halzyn Housing": {
+                "Horizontal Dock to The Nest Halzyn Housing": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -6279,8 +6279,8 @@
                     "dock_type": "horizontal_dock",
                     "default_connection": {
                         "region": "The Depths",
-                        "area": "Bubble Lair Halzyn Housing",
-                        "node": "Horizontal Dock to Bubble Lair Curved Bubble Pillar"
+                        "area": "The Nest Halzyn Housing",
+                        "node": "Horizontal Dock to The Nest Curved Bubble Pillar"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
                     "exclude_from_dock_rando": false,
@@ -6396,7 +6396,7 @@
                     "extra": {},
                     "valid_starting_location": false,
                     "connections": {
-                        "Vertical Dock to Bubble Lair Omega Nest South West Access": {
+                        "Vertical Dock to The Nest Bubble Hallway Southwest Pipe": {
                             "type": "or",
                             "data": {
                                 "comment": null,
@@ -6498,7 +6498,7 @@
                     "extra": {},
                     "valid_starting_location": false,
                     "connections": {
-                        "Horizontal Dock to Bubble Lair Halzyn Housing": {
+                        "Horizontal Dock to The Nest Halzyn Housing": {
                             "type": "or",
                             "data": {
                                 "comment": null,
@@ -6623,7 +6623,7 @@
                 }
             }
         },
-        "Bubble Lair Halzyn Housing": {
+        "The Nest Halzyn Housing": {
             "default_node": null,
             "extra": {
                 "map_name": "rm_a6b14",
@@ -6684,7 +6684,7 @@
                 }
             },
             "nodes": {
-                "Horizontal Dock to Bubble Lair Curved Bubble Pillar": {
+                "Horizontal Dock to The Nest Curved Bubble Pillar": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -6701,8 +6701,8 @@
                     "dock_type": "horizontal_dock",
                     "default_connection": {
                         "region": "The Depths",
-                        "area": "Bubble Lair Curved Bubble Pillar",
-                        "node": "Horizontal Dock to Bubble Lair Halzyn Housing"
+                        "area": "The Nest Curved Bubble Pillar",
+                        "node": "Horizontal Dock to The Nest Halzyn Housing"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
                     "exclude_from_dock_rando": false,
@@ -6751,7 +6751,7 @@
                         }
                     }
                 },
-                "Horizontal Dock to Bubble Lair Skorp Snag": {
+                "Horizontal Dock to The Nest Skorp Snag": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -6768,8 +6768,8 @@
                     "dock_type": "horizontal_dock",
                     "default_connection": {
                         "region": "The Depths",
-                        "area": "Bubble Lair Skorp Snag",
-                        "node": "Horizontal Dock to Bubble Lair Halzyn Housing"
+                        "area": "The Nest Skorp Snag",
+                        "node": "Horizontal Dock to The Nest Halzyn Housing"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
                     "exclude_from_dock_rando": false,
@@ -6802,7 +6802,7 @@
                     "extra": {},
                     "valid_starting_location": false,
                     "connections": {
-                        "Horizontal Dock to Bubble Lair Curved Bubble Pillar": {
+                        "Horizontal Dock to The Nest Curved Bubble Pillar": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -6833,7 +6833,7 @@
                     "extra": {},
                     "valid_starting_location": false,
                     "connections": {
-                        "Horizontal Dock to Bubble Lair Skorp Snag": {
+                        "Horizontal Dock to The Nest Skorp Snag": {
                             "type": "or",
                             "data": {
                                 "comment": null,
@@ -6913,7 +6913,7 @@
                 }
             }
         },
-        "Bubble Lair Skorp Snag": {
+        "The Nest Skorp Snag": {
             "default_node": null,
             "extra": {
                 "map_name": "rm_a6b15",
@@ -6942,7 +6942,7 @@
                 }
             },
             "nodes": {
-                "Horizontal Dock to Bubble Lair Halzyn Housing": {
+                "Horizontal Dock to The Nest Halzyn Housing": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -6959,8 +6959,8 @@
                     "dock_type": "horizontal_dock",
                     "default_connection": {
                         "region": "The Depths",
-                        "area": "Bubble Lair Halzyn Housing",
-                        "node": "Horizontal Dock to Bubble Lair Skorp Snag"
+                        "area": "The Nest Halzyn Housing",
+                        "node": "Horizontal Dock to The Nest Skorp Snag"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
                     "exclude_from_dock_rando": false,
@@ -6969,7 +6969,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Horizontal Dock to Bubble Lair Exit Save Station": {
+                        "Horizontal Dock to The Nest Exit Save Station": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -6978,7 +6978,7 @@
                         }
                     }
                 },
-                "Horizontal Dock to Bubble Lair Exit Save Station": {
+                "Horizontal Dock to The Nest Exit Save Station": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -6995,8 +6995,8 @@
                     "dock_type": "horizontal_dock",
                     "default_connection": {
                         "region": "The Depths",
-                        "area": "Bubble Lair Exit Save Station",
-                        "node": "Horizontal Dock to Bubble Lair Skorp Snag"
+                        "area": "The Nest Exit Save Station",
+                        "node": "Horizontal Dock to The Nest Skorp Snag"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
                     "exclude_from_dock_rando": false,
@@ -7005,7 +7005,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Horizontal Dock to Bubble Lair Halzyn Housing": {
+                        "Horizontal Dock to The Nest Halzyn Housing": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -7084,7 +7084,7 @@
                     "default_connection": {
                         "region": "The Depths",
                         "area": "Waterfalls Entryway",
-                        "node": "Door to Bubble Lair Skorp Snag"
+                        "node": "Door to The Nest Skorp Snag"
                     },
                     "default_dock_weakness": "Open Transition",
                     "exclude_from_dock_rando": false,
@@ -7093,7 +7093,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Horizontal Dock to Bubble Lair Exit Save Station": {
+                        "Horizontal Dock to The Nest Exit Save Station": {
                             "type": "or",
                             "data": {
                                 "comment": "Damage reqs",
@@ -7132,7 +7132,7 @@
                 }
             }
         },
-        "Bubble Lair Exit Save Station": {
+        "The Nest Exit Save Station": {
             "default_node": "Save Station",
             "extra": {
                 "map_name": "rm_a6b16",
@@ -7150,7 +7150,7 @@
                 }
             },
             "nodes": {
-                "Horizontal Dock to Bubble Lair Skorp Snag": {
+                "Horizontal Dock to The Nest Skorp Snag": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -7167,8 +7167,8 @@
                     "dock_type": "horizontal_dock",
                     "default_connection": {
                         "region": "The Depths",
-                        "area": "Bubble Lair Skorp Snag",
-                        "node": "Horizontal Dock to Bubble Lair Exit Save Station"
+                        "area": "The Nest Skorp Snag",
+                        "node": "Horizontal Dock to The Nest Exit Save Station"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
                     "exclude_from_dock_rando": false,
@@ -7203,7 +7203,7 @@
                     },
                     "valid_starting_location": true,
                     "connections": {
-                        "Horizontal Dock to Bubble Lair Skorp Snag": {
+                        "Horizontal Dock to The Nest Skorp Snag": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -7247,7 +7247,7 @@
                 }
             },
             "nodes": {
-                "Door to Bubble Lair Skorp Snag": {
+                "Door to The Nest Skorp Snag": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -7269,7 +7269,7 @@
                     "dock_type": "door",
                     "default_connection": {
                         "region": "The Depths",
-                        "area": "Bubble Lair Skorp Snag",
+                        "area": "The Nest Skorp Snag",
                         "node": "Door to Waterfalls Entryway"
                     },
                     "default_dock_weakness": "Open Transition",
@@ -7341,7 +7341,7 @@
                     "dock_type": "door",
                     "default_connection": {
                         "region": "Genetics Laboratory",
-                        "area": "Waterfall Passage Far Bottom",
+                        "area": "Waterfalls Passage Rock Bottom",
                         "node": "Door to The Depths"
                     },
                     "default_dock_weakness": "Open Transition",
@@ -7351,7 +7351,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Door to Bubble Lair Skorp Snag": {
+                        "Door to The Nest Skorp Snag": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -7397,7 +7397,7 @@
                     },
                     "valid_starting_location": false,
                     "connections": {
-                        "Horizontal Dock to Hideout Alpha Nest Access East": {
+                        "Horizontal Dock to Hideout Boulder Shaft East": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -7406,7 +7406,7 @@
                         }
                     }
                 },
-                "Horizontal Dock to Hideout Alpha Nest Access East": {
+                "Horizontal Dock to Hideout Boulder Shaft East": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -7423,7 +7423,7 @@
                     "dock_type": "horizontal_dock",
                     "default_connection": {
                         "region": "The Depths",
-                        "area": "Hideout Alpha Nest Access East",
+                        "area": "Hideout Boulder Shaft East",
                         "node": "Horizontal Dock to Hideout Save Station"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",

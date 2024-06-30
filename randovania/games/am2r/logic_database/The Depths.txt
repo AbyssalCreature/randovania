@@ -135,16 +135,16 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
   > Horizontal Dock to Ridley Room
       Trivial
 
-> Door to Hideout Hub Access East; Heals? False
+> Door to Hideout Lava Pond Pipe; Heals? False
   * Layers: default
-  * Open Transition to Hideout Hub Access East/Door to Hideout Hub
+  * Open Transition to Hideout Lava Pond Pipe/Door to Hideout Hub
   * Extra - instance_id: 138131
   * Extra - facing: left
   * Extra - x: 640
   * Extra - y: 112
   > Horizontal Dock to Ridley Room
       Trivial
-  > Horizontal Dock to Hideout Hub Access West
+  > Horizontal Dock to Hideout Rocky Speedway
       Power Grip Wall
 
 > Horizontal Dock to Ridley Room; Heals? False
@@ -152,7 +152,7 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
   * 3-Tiles High Dock to Ridley Room/Horizontal Dock to Hideout Hub
   > Horizontal Dock to Skreek and Skorp Space
       Trivial
-  > Door to Hideout Hub Access East
+  > Door to Hideout Lava Pond Pipe
       All of the following:
           # After killing omega
           Any of the following:
@@ -162,27 +162,27 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
               # IBJ
               Infinite Bomb Jumping (Intermediate) and Can IBJ and Can Use Bombs
 
-> Horizontal Dock to Hideout Hub Access West; Heals? False
+> Horizontal Dock to Hideout Rocky Speedway; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Hideout Hub Access West/Horizontal Dock to Hideout Hub
-  > Door to Hideout Hub Access East
+  * 3-Tiles High Dock to Hideout Rocky Speedway/Horizontal Dock to Hideout Hub
+  > Door to Hideout Lava Pond Pipe
       Trivial
 
 ----------------
-Hideout Hub Access West
+Hideout Rocky Speedway
 Extra - map_name: rm_a6a07
 Extra - minimap_data: [{'x': 16, 'y': 52}, {'x': 17, 'y': 52}, {'x': 17, 'y': 53}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 > Horizontal Dock to Hideout Hub; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Hideout Hub/Horizontal Dock to Hideout Hub Access West
-  > Door to Hideout Alpha Nest Access West
+  * 3-Tiles High Dock to Hideout Hub/Horizontal Dock to Hideout Rocky Speedway
+  > Door to Hideout Boulder Shaft West
       Trivial
 
-> Door to Hideout Alpha Nest Access West; Heals? False
+> Door to Hideout Boulder Shaft West; Heals? False
   * Layers: default
-  * Open Transition to Hideout Alpha Nest Access West/Door to Hideout Hub Access West
+  * Open Transition to Hideout Boulder Shaft West/Door to Hideout Rocky Speedway
   * Extra - instance_id: 138266
   * Extra - facing: right
   * Extra - x: 0
@@ -191,67 +191,67 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
       Trivial
 
 ----------------
-Hideout Alpha Nest Access West
+Hideout Boulder Shaft West
 Extra - map_name: rm_a6a08
 Extra - minimap_data: [{'x': 15, 'y': 50}, {'x': 15, 'y': 51}, {'x': 15, 'y': 52}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
-> Door to Hideout Hub Access West; Heals? False
+> Door to Hideout Rocky Speedway; Heals? False
   * Layers: default
-  * Open Transition to Hideout Hub Access West/Door to Hideout Alpha Nest Access West
+  * Open Transition to Hideout Rocky Speedway/Door to Hideout Boulder Shaft West
   * Extra - instance_id: 138439
   * Extra - facing: left
   * Extra - x: 320
   * Extra - y: 640
-  > Horizontal Dock to Hideout Alpha Nest
+  > Horizontal Dock to Hideout Alpha Den
       Hijump Wall
 
-> Horizontal Dock to Hideout Alpha Nest; Heals? False
+> Horizontal Dock to Hideout Alpha Den; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Hideout Alpha Nest/Horizontal Dock to Hideout Alpha Nest Access West
-  > Door to Hideout Hub Access West
+  * 3-Tiles High Dock to Hideout Alpha Den/Horizontal Dock to Hideout Boulder Shaft West
+  > Door to Hideout Rocky Speedway
       Trivial
 
 ----------------
-Hideout Alpha Nest
+Hideout Alpha Den
 Extra - map_name: rm_a6a09
 Extra - minimap_data: [{'x': 16, 'y': 50}, {'x': 17, 'y': 50}, {'x': 18, 'y': 49}, {'x': 18, 'y': 50}, {'x': 19, 'y': 49}, {'x': 19, 'y': 50}, {'x': 20, 'y': 49}, {'x': 20, 'y': 50}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
-> Horizontal Dock to Hideout Alpha Nest Access West; Heals? False
+> Horizontal Dock to Hideout Boulder Shaft West; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Hideout Alpha Nest Access West/Horizontal Dock to Hideout Alpha Nest
-  > Door to Hideout Alpha Nest Access East
+  * 3-Tiles High Dock to Hideout Boulder Shaft West/Horizontal Dock to Hideout Alpha Den
+  > Door to Hideout Boulder Shaft East
       Trivial
-  > Door to Hideout Omega Nest Access
+  > Door to Hideout Rubble Staircase
       Hijump With Power Grip Wall
   > Event - Alpha
       Defeat dodging Alpha
 
-> Door to Hideout Alpha Nest Access East; Heals? False
+> Door to Hideout Boulder Shaft East; Heals? False
   * Layers: default
-  * Open Transition to Hideout Alpha Nest Access East/Door to Hideout Alpha Nest
+  * Open Transition to Hideout Boulder Shaft East/Door to Hideout Alpha Den
   * Extra - instance_id: 138471
   * Extra - facing: left
   * Extra - x: 1600
   * Extra - y: 384
-  > Horizontal Dock to Hideout Alpha Nest Access West
+  > Horizontal Dock to Hideout Boulder Shaft West
       Trivial
 
-> Door to Hideout Omega Nest Access; Heals? False
+> Door to Hideout Rubble Staircase; Heals? False
   * Layers: default
-  * Open Transition to Hideout Omega Nest Access/Door to Hideout Alpha Nest
+  * Open Transition to Hideout Rubble Staircase/Door to Hideout Alpha Den
   * Extra - instance_id: 138494
   * Extra - facing: left
   * Extra - x: 1280
   * Extra - y: 176
-  > Horizontal Dock to Hideout Alpha Nest Access West
+  > Horizontal Dock to Hideout Boulder Shaft West
       Trivial
 
 > Event - Alpha; Heals? False
   * Layers: default
   * Event Metroids Area 6 - Last Alpha
-  > Horizontal Dock to Hideout Alpha Nest Access West
+  > Horizontal Dock to Hideout Boulder Shaft West
       Trivial
   > Pickup (Alpha)
       Trivial
@@ -264,37 +264,37 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
       Trivial
 
 ----------------
-Hideout Omega Nest Access
+Hideout Rubble Staircase
 Extra - map_name: rm_a6a09A
 Extra - minimap_data: [{'x': 20, 'y': 49}, {'x': 21, 'y': 48}, {'x': 21, 'y': 49}, {'x': 22, 'y': 47}, {'x': 22, 'y': 48}, {'x': 23, 'y': 47}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
-> Horizontal Dock to Hideout Omega Nest; Heals? False
+> Horizontal Dock to Hideout Omega Den; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Hideout Omega Nest/Horizontal Dock to Hideout Omega Nest Access
-  > Door to Hideout Alpha Nest
+  * 3-Tiles High Dock to Hideout Omega Den/Horizontal Dock to Hideout Rubble Staircase
+  > Door to Hideout Alpha Den
       Trivial
 
-> Door to Hideout Alpha Nest; Heals? False
+> Door to Hideout Alpha Den; Heals? False
   * Layers: default
-  * Open Transition to Hideout Alpha Nest/Door to Hideout Omega Nest Access
+  * Open Transition to Hideout Alpha Den/Door to Hideout Rubble Staircase
   * Extra - instance_id: 138544
   * Extra - facing: right
   * Extra - x: 0
   * Extra - y: 656
-  > Horizontal Dock to Hideout Omega Nest
+  > Horizontal Dock to Hideout Omega Den
       Power Grip Wall
 
 ----------------
-Hideout Omega Nest
+Hideout Omega Den
 Extra - map_name: rm_a6a09B
 Extra - minimap_data: [{'x': 24, 'y': 47}, {'x': 25, 'y': 47}, {'x': 26, 'y': 47}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 > Horizontal Dock to Hideout Storage; Heals? False
   * Layers: default
-  * 2-Tiles High Dock to Hideout Storage/Horizontal Dock to Hideout Omega Nest
-  > Horizontal Dock to Hideout Omega Nest Access
+  * 2-Tiles High Dock to Hideout Storage/Horizontal Dock to Hideout Omega Den
+  > Horizontal Dock to Hideout Rubble Staircase
       Any of the following:
           After Metroids Area 6 - First Omega
           All of the following:
@@ -307,9 +307,9 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
                   # Heavy RNG until Omega hops over you in a desired way
                   Morph Ball and Movement (Hypermode)
 
-> Horizontal Dock to Hideout Omega Nest Access; Heals? False
+> Horizontal Dock to Hideout Rubble Staircase; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Hideout Omega Nest Access/Horizontal Dock to Hideout Omega Nest
+  * 3-Tiles High Dock to Hideout Rubble Staircase/Horizontal Dock to Hideout Omega Den
   > Horizontal Dock to Hideout Storage
       Any of the following:
           All of the following:
@@ -333,7 +333,7 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 > Event - Omega; Heals? False
   * Layers: default
   * Event Metroids Area 6 - First Omega
-  > Horizontal Dock to Hideout Omega Nest Access
+  > Horizontal Dock to Hideout Rubble Staircase
       Trivial
   > Pickup (Omega)
       Trivial
@@ -351,9 +351,9 @@ Extra - map_name: rm_a6a09C
 Extra - minimap_data: [{'x': 27, 'y': 47}, {'x': 28, 'y': 47}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
-> Horizontal Dock to Hideout Omega Nest; Heals? False
+> Horizontal Dock to Hideout Omega Den; Heals? False
   * Layers: default
-  * 2-Tiles High Dock to Hideout Omega Nest/Horizontal Dock to Hideout Storage
+  * 2-Tiles High Dock to Hideout Omega Den/Horizontal Dock to Hideout Storage
   > Pickup (Super Missile Tank)
       Trivial
 
@@ -361,18 +361,18 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
   * Layers: default
   * Pickup 51; Category? Minor
   * Extra - object_name: oItemSM_51
-  > Horizontal Dock to Hideout Omega Nest
+  > Horizontal Dock to Hideout Omega Den
       Trivial
 
 ----------------
-Hideout Alpha Nest Access East
+Hideout Boulder Shaft East
 Extra - map_name: rm_a6a10
 Extra - minimap_data: [{'x': 21, 'y': 50}, {'x': 21, 'y': 51}, {'x': 21, 'y': 52}, {'x': 22, 'y': 52}, {'x': 22, 'y': 53}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
-> Door to Hideout Alpha Nest; Heals? False
+> Door to Hideout Alpha Den; Heals? False
   * Layers: default
-  * Open Transition to Hideout Alpha Nest/Door to Hideout Alpha Nest Access East
+  * Open Transition to Hideout Alpha Den/Door to Hideout Boulder Shaft East
   * Extra - instance_id: 138799
   * Extra - facing: right
   * Extra - x: 0
@@ -380,51 +380,51 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
   > Horizontal Dock to Hideout Save Station
       Trivial
 
-> Horizontal Dock to Hideout Hub Access East; Heals? False
+> Horizontal Dock to Hideout Lava Pond Pipe; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Hideout Hub Access East/Horizontal Dock to Hideout Alpha Nest Access East
+  * 3-Tiles High Dock to Hideout Lava Pond Pipe/Horizontal Dock to Hideout Boulder Shaft East
   > Horizontal Dock to Hideout Save Station
       Trivial
 
 > Horizontal Dock to Hideout Save Station; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Hideout Save Station/Horizontal Dock to Hideout Alpha Nest Access East
-  > Door to Hideout Alpha Nest
+  * 3-Tiles High Dock to Hideout Save Station/Horizontal Dock to Hideout Boulder Shaft East
+  > Door to Hideout Alpha Den
       Hijump With Power Grip Wall
-  > Horizontal Dock to Hideout Hub Access East
+  > Horizontal Dock to Hideout Lava Pond Pipe
       Trivial
 
 ----------------
-Hideout Hub Access East
+Hideout Lava Pond Pipe
 Extra - map_name: rm_a6a11
 Extra - minimap_data: [{'x': 20, 'y': 53}, {'x': 21, 'y': 53}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
-> Horizontal Dock to Hideout Alpha Nest Access East; Heals? False
+> Horizontal Dock to Hideout Boulder Shaft East; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Hideout Alpha Nest Access East/Horizontal Dock to Hideout Hub Access East
+  * 3-Tiles High Dock to Hideout Boulder Shaft East/Horizontal Dock to Hideout Lava Pond Pipe
   > Door to Hideout Hub
       Trivial
-  > Pipe to Bubble Lair Shinespark Cave East
+  > Pipe to The Nest Bubbly Cavern Pipe
       Morph Ball
 
 > Door to Hideout Hub; Heals? False
   * Layers: default
-  * Open Transition to Hideout Hub/Door to Hideout Hub Access East
+  * Open Transition to Hideout Hub/Door to Hideout Lava Pond Pipe
   * Extra - instance_id: 138849
   * Extra - facing: right
   * Extra - x: 0
   * Extra - y: 112
-  > Horizontal Dock to Hideout Alpha Nest Access East
+  > Horizontal Dock to Hideout Boulder Shaft East
       Trivial
 
-> Pipe to Bubble Lair Shinespark Cave East; Heals? False
+> Pipe to The Nest Bubbly Cavern Pipe; Heals? False
   * Layers: default
-  * Teleporter to Bubble Lair Shinespark Cave East/Pipe to Hideout Hub Access East; Custom name: The Depths - Hideout Pipe
+  * Teleporter to The Nest Bubbly Cavern Pipe/Pipe to Hideout Lava Pond Pipe; Custom name: The Depths - Hideout Pipe
   * Extra - instance_id: 400003
   * Extra - dest_x: 376
   * Extra - dest_y: 208
-  > Horizontal Dock to Hideout Alpha Nest Access East
+  > Horizontal Dock to Hideout Boulder Shaft East
       Morph Ball
 
 ----------------
@@ -597,16 +597,16 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 > Horizontal Dock to Glowfly Maze Access; Heals? False
   * Layers: default
   * 5-Tiles High Dock to Glowfly Maze Access/Horizontal Dock to Glowfly Maze
-  > Horizontal Dock to Bubble Lair Shinespark Cave Access
+  > Horizontal Dock to The Nest Bubbly Speedway
       All of the following:
           Can Use Any Bombs
           Any of the following:
               Tunnel Climb
               Morph Ball and Mid-Air Morph (Intermediate)
 
-> Horizontal Dock to Bubble Lair Shinespark Cave Access; Heals? False
+> Horizontal Dock to The Nest Bubbly Speedway; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Bubble Lair Shinespark Cave Access/Horizontal Dock to Glowfly Maze
+  * 3-Tiles High Dock to The Nest Bubbly Speedway/Horizontal Dock to Glowfly Maze
   * Extra - instance_id: 140697
   * Extra - source_x: 1600
   * Extra - source_y: 144
@@ -618,23 +618,23 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
               Morph Ball and Mid-Air Morph (Intermediate)
 
 ----------------
-Bubble Lair Shinespark Cave Access
+The Nest Bubbly Speedway
 Extra - map_name: rm_a6b01
 Extra - minimap_data: [{'x': 18, 'y': 45}, {'x': 18, 'y': 46}, {'x': 19, 'y': 45}]
 Extra - light_level: 2
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 > Horizontal Dock to Glowfly Maze; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Glowfly Maze/Horizontal Dock to Bubble Lair Shinespark Cave Access
+  * 3-Tiles High Dock to Glowfly Maze/Horizontal Dock to The Nest Bubbly Speedway
   * Extra - instance_id: 140802
   * Extra - source_x: 0
   * Extra - source_y: 384
-  > Door to Bubble Lair Shinespark Cave
+  > Door to The Nest Shinespark Cave
       Trivial
 
-> Door to Bubble Lair Shinespark Cave; Heals? False
+> Door to The Nest Shinespark Cave; Heals? False
   * Layers: default
-  * Open Transition to Bubble Lair Shinespark Cave/Door to Bubble Lair Shinespark Cave Access
+  * Open Transition to The Nest Shinespark Cave/Door to The Nest Bubbly Speedway
   * Extra - instance_id: 140803
   * Extra - facing: left
   * Extra - x: 640
@@ -643,53 +643,53 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
       Trivial
 
 ----------------
-Bubble Lair Shinespark Cave
+The Nest Shinespark Cave
 Extra - map_name: rm_a6b02
 Extra - minimap_data: [{'x': 20, 'y': 39}, {'x': 20, 'y': 40}, {'x': 20, 'y': 41}, {'x': 20, 'y': 42}, {'x': 20, 'y': 43}, {'x': 20, 'y': 44}, {'x': 20, 'y': 45}]
 Extra - light_level: 3
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
-> Door to Bubble Lair Shinespark Cave Access; Heals? False
+> Door to The Nest Bubbly Speedway; Heals? False
   * Layers: default
-  * Open Transition to Bubble Lair Shinespark Cave Access/Door to Bubble Lair Shinespark Cave
+  * Open Transition to The Nest Bubbly Speedway/Door to The Nest Shinespark Cave
   * Extra - instance_id: 141243
   * Extra - facing: right
   * Extra - x: 0
   * Extra - y: 1584
-  > Horizontal Dock to Bubble Lair Shinespark Cave East (Bottom)
+  > Horizontal Dock to The Nest Bubbly Cavern Pipe (Bottom)
       Trivial
-  > Horizontal Dock to Bubble Lair Hub
+  > Horizontal Dock to The Nest Hub
       All of the following:
           Speed Booster and Shinesparking Tricks (Beginner) and Disabled Entrance Rando and Disabled Shuffled Open Transitions
           Any of the following:
               Power Grip Wall
               Morph Ball and Morph Glide (Beginner)
 
-> Horizontal Dock to Bubble Lair Shinespark Cave East (Bottom); Heals? False
+> Horizontal Dock to The Nest Bubbly Cavern Pipe (Bottom); Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Bubble Lair Shinespark Cave East/Horizontal Dock to Bubble Lair Shinespark Cave (Bottom Right)
-  > Door to Bubble Lair Shinespark Cave Access
+  * 3-Tiles High Dock to The Nest Bubbly Cavern Pipe/Horizontal Dock to The Nest Shinespark Cave (Bottom Right)
+  > Door to The Nest Bubbly Speedway
       Trivial
 
-> Horizontal Dock to Bubble Lair Shinespark Cave East (Top); Heals? False
+> Horizontal Dock to The Nest Bubbly Cavern Pipe (Top); Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Bubble Lair Shinespark Cave East/Horizontal Dock to Bubble Lair Shinespark Cave (Middle Right)
-  > Door to Bubble Lair Shinespark Cave West
+  * 3-Tiles High Dock to The Nest Bubbly Cavern Pipe/Horizontal Dock to The Nest Shinespark Cave (Middle Right)
+  > Door to The Nest Bubbly Shaft
       Power Grip Wall
 
-> Door to Bubble Lair Shinespark Cave West; Heals? False
+> Door to The Nest Bubbly Shaft; Heals? False
   * Layers: default
-  * Open Transition to Bubble Lair Shinespark Cave West/Door to Bubble Lair Shinespark Cave
+  * Open Transition to The Nest Bubbly Shaft/Door to The Nest Shinespark Cave
   * Extra - instance_id: 141246
   * Extra - facing: right
   * Extra - x: 0
   * Extra - y: 880
-  > Horizontal Dock to Bubble Lair Shinespark Cave East (Top)
+  > Horizontal Dock to The Nest Bubbly Cavern Pipe (Top)
       Trivial
 
-> Horizontal Dock to Bubble Lair Shinespark Cave West; Heals? False
+> Horizontal Dock to The Nest Bubbly Shaft; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Bubble Lair Shinespark Cave West/Horizontal Dock to Bubble Lair Shinespark Cave
-  > Horizontal Dock to Bubble Lair Hub
+  * 3-Tiles High Dock to The Nest Bubbly Shaft/Horizontal Dock to The Nest Shinespark Cave
+  > Horizontal Dock to The Nest Hub
       Any of the following:
           Space Jump or Can Use Spider Ball
           Hi-Jump Boots and Walljump (Beginner) and Can Walljump
@@ -698,107 +698,107 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
           # Climb the right side and glide to the left: https://youtu.be/Gq5wq0yHvCY
           Morph Glide (Intermediate) and Walljump (Expert) and Can Walljump
 
-> Horizontal Dock to Bubble Lair Hub; Heals? False
+> Horizontal Dock to The Nest Hub; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Bubble Lair Hub/Horizontal Dock to Bubble Lair Shinespark Cave
-  > Horizontal Dock to Bubble Lair Shinespark Cave West
+  * 3-Tiles High Dock to The Nest Hub/Horizontal Dock to The Nest Shinespark Cave
+  > Horizontal Dock to The Nest Bubbly Shaft
       Trivial
 
 ----------------
-Bubble Lair Shinespark Cave East
+The Nest Bubbly Cavern Pipe
 Extra - map_name: rm_a6b03
 Extra - minimap_data: [{'x': 21, 'y': 44}, {'x': 21, 'y': 45}]
 Extra - light_level: 3
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
-> Horizontal Dock to Bubble Lair Shinespark Cave (Bottom Right); Heals? False
+> Horizontal Dock to The Nest Shinespark Cave (Bottom Right); Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Bubble Lair Shinespark Cave/Horizontal Dock to Bubble Lair Shinespark Cave East (Bottom)
-  > Horizontal Dock to Bubble Lair Shinespark Cave (Middle Right)
+  * 3-Tiles High Dock to The Nest Shinespark Cave/Horizontal Dock to The Nest Bubbly Cavern Pipe (Bottom)
+  > Horizontal Dock to The Nest Shinespark Cave (Middle Right)
       Power Grip Wall
-  > Pipe to Hideout Hub Access East
+  > Pipe to Hideout Lava Pond Pipe
       Morph Ball
 
-> Horizontal Dock to Bubble Lair Shinespark Cave (Middle Right); Heals? False
+> Horizontal Dock to The Nest Shinespark Cave (Middle Right); Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Bubble Lair Shinespark Cave/Horizontal Dock to Bubble Lair Shinespark Cave East (Top)
-  > Horizontal Dock to Bubble Lair Shinespark Cave (Bottom Right)
+  * 3-Tiles High Dock to The Nest Shinespark Cave/Horizontal Dock to The Nest Bubbly Cavern Pipe (Top)
+  > Horizontal Dock to The Nest Shinespark Cave (Bottom Right)
       Trivial
 
-> Pipe to Hideout Hub Access East; Heals? False
+> Pipe to Hideout Lava Pond Pipe; Heals? False
   * Layers: default
-  * Teleporter to Hideout Hub Access East/Pipe to Bubble Lair Shinespark Cave East; Custom name: The Depths - Shinespark Cave Pipe
+  * Teleporter to Hideout Lava Pond Pipe/Pipe to The Nest Bubbly Cavern Pipe; Custom name: The Depths - Shinespark Cave Pipe
   * Extra - instance_id: 400004
   * Extra - dest_x: 216
   * Extra - dest_y: 400
-  > Horizontal Dock to Bubble Lair Shinespark Cave (Bottom Right)
+  > Horizontal Dock to The Nest Shinespark Cave (Bottom Right)
       Morph Ball
 
 ----------------
-Bubble Lair Shinespark Cave West
+The Nest Bubbly Shaft
 Extra - map_name: rm_a6b04
 Extra - minimap_data: [{'x': 19, 'y': 40}, {'x': 19, 'y': 41}, {'x': 19, 'y': 42}]
 Extra - light_level: 3
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
-> Door to Bubble Lair Shinespark Cave; Heals? False
+> Door to The Nest Shinespark Cave; Heals? False
   * Layers: default
-  * Open Transition to Bubble Lair Shinespark Cave/Door to Bubble Lair Shinespark Cave West
+  * Open Transition to The Nest Shinespark Cave/Door to The Nest Bubbly Shaft
   * Extra - instance_id: 141569
   * Extra - facing: left
   * Extra - x: 320
   * Extra - y: 640
-  > Horizontal Dock to Bubble Lair Shinespark Cave
+  > Horizontal Dock to The Nest Shinespark Cave
       Power Grip Wall
 
-> Horizontal Dock to Bubble Lair Shinespark Cave; Heals? False
+> Horizontal Dock to The Nest Shinespark Cave; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Bubble Lair Shinespark Cave/Horizontal Dock to Bubble Lair Shinespark Cave West
-  > Door to Bubble Lair Shinespark Cave
+  * 3-Tiles High Dock to The Nest Shinespark Cave/Horizontal Dock to The Nest Bubbly Shaft
+  > Door to The Nest Shinespark Cave
       Trivial
 
 ----------------
-Bubble Lair Hub
+The Nest Hub
 Extra - map_name: rm_a6b05
 Extra - minimap_data: [{'x': 21, 'y': 29}, {'x': 21, 'y': 30}, {'x': 21, 'y': 31}, {'x': 21, 'y': 32}, {'x': 21, 'y': 33}, {'x': 21, 'y': 34}, {'x': 21, 'y': 35}, {'x': 21, 'y': 36}, {'x': 21, 'y': 37}, {'x': 21, 'y': 38}, {'x': 21, 'y': 39}]
 Extra - light_level: 4
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
-> Horizontal Dock to Bubble Lair Shinespark Cave; Heals? False
+> Horizontal Dock to The Nest Shinespark Cave; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Bubble Lair Shinespark Cave/Horizontal Dock to Bubble Lair Hub
-  > Horizontal Dock to Bubble Lair Save Station
+  * 3-Tiles High Dock to The Nest Shinespark Cave/Horizontal Dock to The Nest Hub
+  > Horizontal Dock to The Nest Save Station
       Trivial
 
-> Horizontal Dock to Bubble Lair Save Station; Heals? False
+> Horizontal Dock to The Nest Save Station; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Bubble Lair Save Station/Horizontal Dock to Bubble Lair Hub
-  > Horizontal Dock to Bubble Lair Shinespark Cave
+  * 3-Tiles High Dock to The Nest Save Station/Horizontal Dock to The Nest Hub
+  > Horizontal Dock to The Nest Shinespark Cave
       Power Grip Wall
-  > Horizontal Dock to Bubble Lair Omega Nest South West Access
+  > Horizontal Dock to The Nest Bubble Hallway Southwest Pipe
       Space Jump Wall
 
-> Horizontal Dock to Bubble Lair Omega Nest South West Access; Heals? False
+> Horizontal Dock to The Nest Bubble Hallway Southwest Pipe; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Bubble Lair Omega Nest South West Access/Horizontal Dock to Bubble Lair Hub
-  > Horizontal Dock to Bubble Lair Save Station
+  * 3-Tiles High Dock to The Nest Bubble Hallway Southwest Pipe/Horizontal Dock to The Nest Hub
+  > Horizontal Dock to The Nest Save Station
       Trivial
-  > Horizontal Dock to Bubble Lair Omega Nest East Access
+  > Horizontal Dock to The Nest Bubble Hallway East
       Space Jump Wall
 
-> Horizontal Dock to Bubble Lair Omega Nest East Access; Heals? False
+> Horizontal Dock to The Nest Bubble Hallway East; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Bubble Lair Omega Nest East Access/Horizontal Dock to Bubble Lair Hub
-  > Horizontal Dock to Bubble Lair Omega Nest South West Access
+  * 3-Tiles High Dock to The Nest Bubble Hallway East/Horizontal Dock to The Nest Hub
+  > Horizontal Dock to The Nest Bubble Hallway Southwest Pipe
       Trivial
-  > Horizontal Dock to Bubble Lair Omega Nest North West Access
+  > Horizontal Dock to The Nest Bubble Hallway Northwest
       Space Jump Wall
 
-> Horizontal Dock to Bubble Lair Omega Nest North West Access; Heals? False
+> Horizontal Dock to The Nest Bubble Hallway Northwest; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Bubble Lair Omega Nest North West Access/Horizontal Dock to Bubble Lair Hub
-  > Horizontal Dock to Bubble Lair Omega Nest East Access
+  * 3-Tiles High Dock to The Nest Bubble Hallway Northwest/Horizontal Dock to The Nest Hub
+  > Horizontal Dock to The Nest Bubble Hallway East
       Trivial
 
 ----------------
-Bubble Lair Save Station
+The Nest Save Station
 Extra - map_name: rm_a6b06
 Extra - minimap_data: [{'x': 22, 'y': 39}]
 Extra - unlocked_save_station: True
@@ -807,25 +807,25 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 > Save Station; Heals? True; Spawn Point; Default Node
   * Layers: default
   * Extra - save_room: 22
-  > Horizontal Dock to Bubble Lair Hub
+  > Horizontal Dock to The Nest Hub
       Trivial
 
-> Horizontal Dock to Bubble Lair Hub; Heals? False
+> Horizontal Dock to The Nest Hub; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Bubble Lair Hub/Horizontal Dock to Bubble Lair Save Station
+  * 3-Tiles High Dock to The Nest Hub/Horizontal Dock to The Nest Save Station
   > Save Station
       Trivial
 
 ----------------
-Bubble Lair Omega Nest North West Access
+The Nest Bubble Hallway Northwest
 Extra - map_name: rm_a6b07
 Extra - minimap_data: [{'x': 17, 'y': 29}, {'x': 17, 'y': 30}, {'x': 18, 'y': 29}, {'x': 18, 'y': 30}, {'x': 19, 'y': 29}, {'x': 19, 'y': 30}, {'x': 20, 'y': 29}, {'x': 20, 'y': 30}]
 Extra - light_level: 3
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
-> Horizontal Dock to Bubble Lair Hub; Heals? False
+> Horizontal Dock to The Nest Hub; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Bubble Lair Hub/Horizontal Dock to Bubble Lair Omega Nest North West Access
-  > Tunnel to Bubble Lair Omega Nest North West
+  * 3-Tiles High Dock to The Nest Hub/Horizontal Dock to The Nest Bubble Hallway Northwest
+  > Tunnel to The Nest Omega Den Northwest
       All of the following:
           # Reach platform
           Movement (Advanced) or Space Jump Wall
@@ -834,30 +834,30 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
               Tunnel Climb
               Morph Ball and Mid-Air Morph (Intermediate)
 
-> Tunnel to Bubble Lair Omega Nest North West; Heals? False
+> Tunnel to The Nest Omega Den Northwest; Heals? False
   * Layers: default
-  * Morph Ball Tunnel to Bubble Lair Omega Nest North West/Tunnel to Bubble Lair Omega Nest North West Access
-  > Horizontal Dock to Bubble Lair Hub
+  * Morph Ball Tunnel to The Nest Omega Den Northwest/Tunnel to The Nest Bubble Hallway Northwest
+  > Horizontal Dock to The Nest Hub
       All of the following:
           Morph Ball
           Movement (Advanced) or Space Jump Wall
 
 ----------------
-Bubble Lair Omega Nest North West
+The Nest Omega Den Northwest
 Extra - map_name: rm_a6b08
 Extra - minimap_data: [{'x': 15, 'y': 29}, {'x': 16, 'y': 29}]
 Extra - light_level: 2
 Extra - liquid_info: {'liquid_type': 1, 'liquid_level': 230}
-> Tunnel to Bubble Lair Omega Nest North West Access; Heals? False
+> Tunnel to The Nest Bubble Hallway Northwest; Heals? False
   * Layers: default
-  * Morph Ball Tunnel to Bubble Lair Omega Nest North West Access/Tunnel to Bubble Lair Omega Nest North West
+  * Morph Ball Tunnel to The Nest Bubble Hallway Northwest/Tunnel to The Nest Omega Den Northwest
   > Event - Omega
       Morph Ball and Defeat Omega
 
 > Event - Omega; Heals? False
   * Layers: default
   * Event Metroids Area 6 - Nest Left Top Omega
-  > Tunnel to Bubble Lair Omega Nest North West Access
+  > Tunnel to The Nest Bubble Hallway Northwest
       Power Grip Climb
   > Pickup (Omega)
       Trivial
@@ -870,43 +870,43 @@ Extra - liquid_info: {'liquid_type': 1, 'liquid_level': 230}
       Trivial
 
 ----------------
-Bubble Lair Omega Nest East Access
+The Nest Bubble Hallway East
 Extra - map_name: rm_a6b09
 Extra - minimap_data: [{'x': 22, 'y': 31}, {'x': 23, 'y': 31}, {'x': 24, 'y': 31}, {'x': 25, 'y': 31}]
 Extra - light_level: 3
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
-> Horizontal Dock to Bubble Lair Hub; Heals? False
+> Horizontal Dock to The Nest Hub; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Bubble Lair Hub/Horizontal Dock to Bubble Lair Omega Nest East Access
-  > Tunnel to Bubble Lair Omega Nest East
+  * 3-Tiles High Dock to The Nest Hub/Horizontal Dock to The Nest Bubble Hallway East
+  > Tunnel to The Nest Omega Den East
       All of the following:
           Power Grip Wall
           Any of the following:
               Tunnel Climb
               Morph Ball and Mid-Air Morph (Intermediate)
 
-> Tunnel to Bubble Lair Omega Nest East; Heals? False
+> Tunnel to The Nest Omega Den East; Heals? False
   * Layers: default
-  * Morph Ball Tunnel to Bubble Lair Omega Nest East/Tunnel to Bubble Lair Omega Nest East Access
-  > Horizontal Dock to Bubble Lair Hub
+  * Morph Ball Tunnel to The Nest Omega Den East/Tunnel to The Nest Bubble Hallway East
+  > Horizontal Dock to The Nest Hub
       Morph Ball and Power Grip Wall
 
 ----------------
-Bubble Lair Omega Nest East
+The Nest Omega Den East
 Extra - map_name: rm_a6b10
 Extra - minimap_data: [{'x': 26, 'y': 31}, {'x': 27, 'y': 31}]
 Extra - light_level: 2
 Extra - liquid_info: {'liquid_type': 1, 'liquid_level': 230}
-> Tunnel to Bubble Lair Omega Nest East Access; Heals? False
+> Tunnel to The Nest Bubble Hallway East; Heals? False
   * Layers: default
-  * Morph Ball Tunnel to Bubble Lair Omega Nest East Access/Tunnel to Bubble Lair Omega Nest East
+  * Morph Ball Tunnel to The Nest Bubble Hallway East/Tunnel to The Nest Omega Den East
   > Event - Omega
       Morph Ball and Defeat Omega
 
 > Event - Omega; Heals? False
   * Layers: default
   * Event Metroids Area 6 - Nest Right Omega
-  > Tunnel to Bubble Lair Omega Nest East Access
+  > Tunnel to The Nest Bubble Hallway East
       Hijump Tunnel Climb
   > Pickup (Omega)
       Trivial
@@ -919,20 +919,20 @@ Extra - liquid_info: {'liquid_type': 1, 'liquid_level': 230}
       Trivial
 
 ----------------
-Bubble Lair Omega Nest South West Access
+The Nest Bubble Hallway Southwest Pipe
 Extra - map_name: rm_a6b11
 Extra - minimap_data: [{'x': 16, 'y': 34}, {'x': 17, 'y': 34}, {'x': 18, 'y': 34}, {'x': 19, 'y': 34}, {'x': 20, 'y': 34}]
 Extra - light_level: 3
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
-> Horizontal Dock to Bubble Lair Hub; Heals? False
+> Horizontal Dock to The Nest Hub; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Bubble Lair Hub/Horizontal Dock to Bubble Lair Omega Nest South West Access
+  * 3-Tiles High Dock to The Nest Hub/Horizontal Dock to The Nest Bubble Hallway Southwest Pipe
   > Middle Right
       Movement (Intermediate) or Power Grip Wall or Tunnel Climb
 
-> Tunnel to Bubble Lair Omega Nest South West; Heals? False
+> Tunnel to The Nest Omega Den Southwest; Heals? False
   * Layers: default
-  * Morph Ball Tunnel to Bubble Lair Omega Nest South West/Tunnel to Bubble Lair Omega Nest South West Access
+  * Morph Ball Tunnel to The Nest Omega Den Southwest/Tunnel to The Nest Bubble Hallway Southwest Pipe
   > Middle Left
       All of the following:
           Morph Ball
@@ -940,24 +940,24 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
   > Pipe to Genetics Laboratory
       Trivial
 
-> Vertical Dock to Bubble Lair Curved Bubble Pillar; Heals? False
+> Vertical Dock to The Nest Curved Bubble Pillar; Heals? False
   * Layers: default
-  * 4-Tiles Wide Dock to Bubble Lair Curved Bubble Pillar/Vertical Dock to Bubble Lair Omega Nest South West Access
+  * 4-Tiles Wide Dock to The Nest Curved Bubble Pillar/Vertical Dock to The Nest Bubble Hallway Southwest Pipe
   > Middle Right
       Trivial
 
 > Middle Right; Heals? False
   * Layers: default
-  > Horizontal Dock to Bubble Lair Hub
+  > Horizontal Dock to The Nest Hub
       Morph Ball or Movement (Beginner) or Power Grip Wall
-  > Vertical Dock to Bubble Lair Curved Bubble Pillar
+  > Vertical Dock to The Nest Curved Bubble Pillar
       Trivial
   > Middle Left
       Movement (Beginner) or Power Grip Wall
 
 > Middle Left; Heals? False
   * Layers: default
-  > Tunnel to Bubble Lair Omega Nest South West
+  > Tunnel to The Nest Omega Den Southwest
       All of the following:
           Morph Ball
           Movement (Intermediate) or Power Grip Wall
@@ -966,29 +966,29 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 
 > Pipe to Genetics Laboratory; Heals? False
   * Layers: new-pipes
-  * Teleporter to Waterfall Passage Top/Pipe to The Depths; Custom name: The Depths - Bubble Lair Pipe
+  * Teleporter to Waterfalls Passage Top/Pipe to The Depths; Custom name: The Depths - Bubble Lair Pipe
   * Extra - instance_id: 400005
   * Extra - dest_x: 104
   * Extra - dest_y: 192
-  > Tunnel to Bubble Lair Omega Nest South West
+  > Tunnel to The Nest Omega Den Southwest
       Trivial
 
 ----------------
-Bubble Lair Omega Nest South West
+The Nest Omega Den Southwest
 Extra - map_name: rm_a6b12
 Extra - minimap_data: [{'x': 14, 'y': 34}, {'x': 15, 'y': 34}]
 Extra - light_level: 2
 Extra - liquid_info: {'liquid_type': 1, 'liquid_level': 230}
-> Tunnel to Bubble Lair Omega Nest South West Access; Heals? False
+> Tunnel to The Nest Bubble Hallway Southwest Pipe; Heals? False
   * Layers: default
-  * Morph Ball Tunnel to Bubble Lair Omega Nest South West Access/Tunnel to Bubble Lair Omega Nest South West
+  * Morph Ball Tunnel to The Nest Bubble Hallway Southwest Pipe/Tunnel to The Nest Omega Den Southwest
   > Event - Omega
       Morph Ball and Defeat Omega
 
 > Event - Omega; Heals? False
   * Layers: default
   * Event Metroids Area 6 - Nest Left Bottom Omega
-  > Tunnel to Bubble Lair Omega Nest South West Access
+  > Tunnel to The Nest Bubble Hallway Southwest Pipe
       Hijump Tunnel Climb
   > Pickup (Omega)
       Trivial
@@ -1001,20 +1001,20 @@ Extra - liquid_info: {'liquid_type': 1, 'liquid_level': 230}
       Trivial
 
 ----------------
-Bubble Lair Curved Bubble Pillar
+The Nest Curved Bubble Pillar
 Extra - map_name: rm_a6b13
 Extra - minimap_data: [{'x': 17, 'y': 37}, {'x': 17, 'y': 38}, {'x': 17, 'y': 39}, {'x': 17, 'y': 40}, {'x': 17, 'y': 41}, {'x': 17, 'y': 42}, {'x': 18, 'y': 35}, {'x': 18, 'y': 36}, {'x': 18, 'y': 37}]
 Extra - light_level: 2
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
-> Vertical Dock to Bubble Lair Omega Nest South West Access; Heals? False
+> Vertical Dock to The Nest Bubble Hallway Southwest Pipe; Heals? False
   * Layers: default
-  * 4-Tiles Wide Dock to Bubble Lair Omega Nest South West Access/Vertical Dock to Bubble Lair Curved Bubble Pillar
+  * 4-Tiles Wide Dock to The Nest Bubble Hallway Southwest Pipe/Vertical Dock to The Nest Curved Bubble Pillar
   > Top Pillar
       Trivial
 
-> Horizontal Dock to Bubble Lair Halzyn Housing; Heals? False
+> Horizontal Dock to The Nest Halzyn Housing; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Bubble Lair Halzyn Housing/Horizontal Dock to Bubble Lair Curved Bubble Pillar
+  * 3-Tiles High Dock to The Nest Halzyn Housing/Horizontal Dock to The Nest Curved Bubble Pillar
   > Above Bomb Blocks
       All of the following:
           Space Jump Wall
@@ -1028,7 +1028,7 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 
 > Top Pillar; Heals? False
   * Layers: default
-  > Vertical Dock to Bubble Lair Omega Nest South West Access
+  > Vertical Dock to The Nest Bubble Hallway Southwest Pipe
       Any of the following:
           Space Jump or Can Use Spider Ball
           Hi-Jump Boots and Power Grip
@@ -1038,7 +1038,7 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 
 > Above Bomb Blocks; Heals? False
   * Layers: default
-  > Horizontal Dock to Bubble Lair Halzyn Housing
+  > Horizontal Dock to The Nest Halzyn Housing
       Can Use Any Bombs
   > Top Pillar
       All of the following:
@@ -1050,35 +1050,35 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
               Infinite Bomb Jumping (Advanced) and Can IBJ and Can Use Bombs
 
 ----------------
-Bubble Lair Halzyn Housing
+The Nest Halzyn Housing
 Extra - map_name: rm_a6b14
 Extra - minimap_data: [{'x': 11, 'y': 42}, {'x': 12, 'y': 42}, {'x': 12, 'y': 43}, {'x': 13, 'y': 41}, {'x': 13, 'y': 42}, {'x': 13, 'y': 43}, {'x': 14, 'y': 41}, {'x': 14, 'y': 42}, {'x': 14, 'y': 43}, {'x': 15, 'y': 41}, {'x': 15, 'y': 42}, {'x': 16, 'y': 42}]
 Extra - light_level: 1
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
-> Horizontal Dock to Bubble Lair Curved Bubble Pillar; Heals? False
+> Horizontal Dock to The Nest Curved Bubble Pillar; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Bubble Lair Curved Bubble Pillar/Horizontal Dock to Bubble Lair Halzyn Housing
+  * 3-Tiles High Dock to The Nest Curved Bubble Pillar/Horizontal Dock to The Nest Halzyn Housing
   > Top
       Any of the following:
           Space Jump Wall
           Speed Booster and Shinesparking Tricks (Beginner)
 
-> Horizontal Dock to Bubble Lair Skorp Snag; Heals? False
+> Horizontal Dock to The Nest Skorp Snag; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Bubble Lair Skorp Snag/Horizontal Dock to Bubble Lair Halzyn Housing
+  * 3-Tiles High Dock to The Nest Skorp Snag/Horizontal Dock to The Nest Halzyn Housing
   > Bottom
       Trivial
 
 > Top; Heals? False
   * Layers: default
-  > Horizontal Dock to Bubble Lair Curved Bubble Pillar
+  > Horizontal Dock to The Nest Curved Bubble Pillar
       Trivial
   > Bottom
       Trivial
 
 > Bottom; Heals? False
   * Layers: default
-  > Horizontal Dock to Bubble Lair Skorp Snag
+  > Horizontal Dock to The Nest Skorp Snag
       Any of the following:
           Space Jump Wall
           Speed Booster and Shinesparking Tricks (Beginner)
@@ -1088,21 +1088,21 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
           Speed Booster and Shinesparking Tricks (Beginner)
 
 ----------------
-Bubble Lair Skorp Snag
+The Nest Skorp Snag
 Extra - map_name: rm_a6b15
 Extra - minimap_data: [{'x': 10, 'y': 39}, {'x': 10, 'y': 40}, {'x': 10, 'y': 41}, {'x': 10, 'y': 42}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
-> Horizontal Dock to Bubble Lair Halzyn Housing; Heals? False
+> Horizontal Dock to The Nest Halzyn Housing; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Bubble Lair Halzyn Housing/Horizontal Dock to Bubble Lair Skorp Snag
-  > Horizontal Dock to Bubble Lair Exit Save Station
+  * 3-Tiles High Dock to The Nest Halzyn Housing/Horizontal Dock to The Nest Skorp Snag
+  > Horizontal Dock to The Nest Exit Save Station
       Trivial
 
-> Horizontal Dock to Bubble Lair Exit Save Station; Heals? False
+> Horizontal Dock to The Nest Exit Save Station; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Bubble Lair Exit Save Station/Horizontal Dock to Bubble Lair Skorp Snag
-  > Horizontal Dock to Bubble Lair Halzyn Housing
+  * 3-Tiles High Dock to The Nest Exit Save Station/Horizontal Dock to The Nest Skorp Snag
+  > Horizontal Dock to The Nest Halzyn Housing
       Trivial
   > Door to Waterfalls Entryway
       All of the following:
@@ -1112,32 +1112,32 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 
 > Door to Waterfalls Entryway; Heals? False
   * Layers: default
-  * Open Transition to Waterfalls Entryway/Door to Bubble Lair Skorp Snag
+  * Open Transition to Waterfalls Entryway/Door to The Nest Skorp Snag
   * Extra - instance_id: 144370
   * Extra - facing: left
   * Extra - x: 320
   * Extra - y: 112
-  > Horizontal Dock to Bubble Lair Exit Save Station
+  > Horizontal Dock to The Nest Exit Save Station
       # Damage reqs
       Screw Attack or Combat (Intermediate) or Normal Damage ≥ 120
 
 ----------------
-Bubble Lair Exit Save Station
+The Nest Exit Save Station
 Extra - map_name: rm_a6b16
 Extra - minimap_data: [{'x': 9, 'y': 42}]
 Extra - unlocked_save_station: True
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
-> Horizontal Dock to Bubble Lair Skorp Snag; Heals? False
+> Horizontal Dock to The Nest Skorp Snag; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Bubble Lair Skorp Snag/Horizontal Dock to Bubble Lair Exit Save Station
+  * 3-Tiles High Dock to The Nest Skorp Snag/Horizontal Dock to The Nest Exit Save Station
   > Save Station
       Trivial
 
 > Save Station; Heals? True; Spawn Point; Default Node
   * Layers: default
   * Extra - save_room: 23
-  > Horizontal Dock to Bubble Lair Skorp Snag
+  > Horizontal Dock to The Nest Skorp Snag
       Trivial
 
 ----------------
@@ -1146,9 +1146,9 @@ Extra - map_name: rm_a6b17
 Extra - minimap_data: [{'x': 11, 'y': 37}, {'x': 11, 'y': 39}, {'x': 12, 'y': 37}, {'x': 12, 'y': 38}, {'x': 12, 'y': 39}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
-> Door to Bubble Lair Skorp Snag; Heals? False
+> Door to The Nest Skorp Snag; Heals? False
   * Layers: default
-  * Open Transition to Bubble Lair Skorp Snag/Door to Waterfalls Entryway
+  * Open Transition to The Nest Skorp Snag/Door to Waterfalls Entryway
   * Extra - instance_id: 144651
   * Extra - facing: right
   * Extra - x: 0
@@ -1160,12 +1160,12 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 
 > Door to Genetics Laboratory; Heals? False
   * Layers: default
-  * Open Transition to Waterfall Passage Far Bottom/Door to The Depths
+  * Open Transition to Waterfalls Passage Rock Bottom/Door to The Depths
   * Extra - instance_id: 144652
   * Extra - facing: right
   * Extra - x: 320
   * Extra - y: 144
-  > Door to Bubble Lair Skorp Snag
+  > Door to The Nest Skorp Snag
       Trivial
 
 ----------------
@@ -1178,12 +1178,12 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 > Save Station; Heals? True
   * Layers: default
   * Extra - save_room: 26
-  > Horizontal Dock to Hideout Alpha Nest Access East
+  > Horizontal Dock to Hideout Boulder Shaft East
       Trivial
 
-> Horizontal Dock to Hideout Alpha Nest Access East; Heals? False
+> Horizontal Dock to Hideout Boulder Shaft East; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Hideout Alpha Nest Access East/Horizontal Dock to Hideout Save Station
+  * 3-Tiles High Dock to Hideout Boulder Shaft East/Horizontal Dock to Hideout Save Station
   > Save Station
       Trivial
 
