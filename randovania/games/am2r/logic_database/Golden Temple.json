@@ -1267,7 +1267,7 @@
                                 "items": []
                             }
                         },
-                        "Horizontal Dock to Exterior Alpha Nest": {
+                        "Horizontal Dock to Temple Exterior Alpha Den": {
                             "type": "or",
                             "data": {
                                 "comment": null,
@@ -2154,7 +2154,7 @@
                         }
                     }
                 },
-                "Horizontal Dock to Exterior Alpha Nest": {
+                "Horizontal Dock to Temple Exterior Alpha Den": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -2171,7 +2171,7 @@
                     "dock_type": "horizontal_dock",
                     "default_connection": {
                         "region": "Golden Temple",
-                        "area": "Exterior Alpha Nest",
+                        "area": "Temple Exterior Alpha Den",
                         "node": "Horizontal Dock to Golden Temple Exterior"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
@@ -2623,7 +2623,7 @@
                                 "items": []
                             }
                         },
-                        "Horizontal Dock to Exterior Alpha Nest": {
+                        "Horizontal Dock to Temple Exterior Alpha Den": {
                             "type": "or",
                             "data": {
                                 "comment": null,
@@ -2974,7 +2974,7 @@
                 }
             }
         },
-        "Exterior Alpha Nest": {
+        "Temple Exterior Alpha Den": {
             "default_node": null,
             "extra": {
                 "map_name": "rm_a1h06",
@@ -3013,7 +3013,7 @@
                     "default_connection": {
                         "region": "Golden Temple",
                         "area": "Golden Temple Exterior",
-                        "node": "Horizontal Dock to Exterior Alpha Nest"
+                        "node": "Horizontal Dock to Temple Exterior Alpha Den"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
                     "exclude_from_dock_rando": false,
@@ -4565,7 +4565,7 @@
                         }
                     }
                 },
-                "Door to Bomb Chamber Access": {
+                "Door to Bombs Chamber Access": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -4587,7 +4587,7 @@
                     "dock_type": "door",
                     "default_connection": {
                         "region": "Golden Temple",
-                        "area": "Bomb Chamber Access",
+                        "area": "Bombs Chamber Access",
                         "node": "Door to Inner Temple West Hall"
                     },
                     "default_dock_weakness": "Open Transition",
@@ -4740,7 +4740,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Door to Bomb Chamber Access": {
+                        "Door to Bombs Chamber Access": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -4792,7 +4792,7 @@
                                 "items": []
                             }
                         },
-                        "Door to Bomb Chamber Access": {
+                        "Door to Bombs Chamber Access": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -4810,7 +4810,7 @@
                 }
             }
         },
-        "Bomb Chamber Access": {
+        "Bombs Chamber Access": {
             "default_node": null,
             "extra": {
                 "map_name": "rm_a1a03",
@@ -4854,7 +4854,7 @@
                     "default_connection": {
                         "region": "Golden Temple",
                         "area": "Inner Temple West Hall",
-                        "node": "Door to Bomb Chamber Access"
+                        "node": "Door to Bombs Chamber Access"
                     },
                     "default_dock_weakness": "Open Transition",
                     "exclude_from_dock_rando": false,
@@ -4863,7 +4863,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Door to Bomb Chamber": {
+                        "Door to Bombs Chamber": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -4872,7 +4872,7 @@
                         }
                     }
                 },
-                "Door to Bomb Chamber": {
+                "Door to Bombs Chamber": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -4891,8 +4891,8 @@
                     "dock_type": "door",
                     "default_connection": {
                         "region": "Golden Temple",
-                        "area": "Bomb Chamber",
-                        "node": "Door to Bomb Chamber Access"
+                        "area": "Bombs Chamber",
+                        "node": "Door to Bombs Chamber Access"
                     },
                     "default_dock_weakness": "Missile Door",
                     "exclude_from_dock_rando": false,
@@ -4912,7 +4912,7 @@
                 }
             }
         },
-        "Bomb Chamber": {
+        "Bombs Chamber": {
             "default_node": null,
             "extra": {
                 "map_name": "rm_a1a04",
@@ -4929,7 +4929,7 @@
                 }
             },
             "nodes": {
-                "Door to Bomb Chamber Access": {
+                "Door to Bombs Chamber Access": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -4948,8 +4948,8 @@
                     "dock_type": "door",
                     "default_connection": {
                         "region": "Golden Temple",
-                        "area": "Bomb Chamber Access",
-                        "node": "Door to Bomb Chamber"
+                        "area": "Bombs Chamber Access",
+                        "node": "Door to Bombs Chamber"
                     },
                     "default_dock_weakness": "Normal Door",
                     "exclude_from_dock_rando": false,
@@ -4998,7 +4998,7 @@
                     "pickup_index": 0,
                     "location_category": "major",
                     "connections": {
-                        "Door to Bomb Chamber Access": {
+                        "Door to Bombs Chamber Access": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -5026,7 +5026,7 @@
                     "pickup_index": 100,
                     "location_category": "minor",
                     "connections": {
-                        "Door to Bomb Chamber Access": {
+                        "Door to Bombs Chamber Access": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -7746,7 +7746,7 @@
                 }
             },
             "nodes": {
-                "Door to Breeding Grounds Alpha Nest South West": {
+                "Door to Breeding Grounds Alpha Den Southwest": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -7768,7 +7768,7 @@
                     "dock_type": "door",
                     "default_connection": {
                         "region": "Golden Temple",
-                        "area": "Breeding Grounds Alpha Nest South West",
+                        "area": "Breeding Grounds Alpha Den Southwest",
                         "node": "Door to Breeding Grounds Hub"
                     },
                     "default_dock_weakness": "Open Transition",
@@ -7778,14 +7778,14 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Door to Breeding Grounds Alpha Nest North East": {
+                        "Door to Breeding Grounds Alpha Den Northeast": {
                             "type": "and",
                             "data": {
                                 "comment": null,
                                 "items": []
                             }
                         },
-                        "Door to Breeding Grounds Alpha Nest South East": {
+                        "Door to Breeding Grounds Alpha Den Southeast": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -7821,7 +7821,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Door to Breeding Grounds Alpha Nest North East": {
+                        "Door to Breeding Grounds Alpha Den Northeast": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -7830,7 +7830,7 @@
                         }
                     }
                 },
-                "Door to Breeding Grounds Alpha Nest North East": {
+                "Door to Breeding Grounds Alpha Den Northeast": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -7852,7 +7852,7 @@
                     "dock_type": "door",
                     "default_connection": {
                         "region": "Golden Temple",
-                        "area": "Breeding Grounds Alpha Nest North East",
+                        "area": "Breeding Grounds Alpha Den Northeast",
                         "node": "Door to Breeding Grounds Hub"
                     },
                     "default_dock_weakness": "Open Transition",
@@ -7862,7 +7862,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Door to Breeding Grounds Alpha Nest South West": {
+                        "Door to Breeding Grounds Alpha Den Southwest": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -7878,7 +7878,7 @@
                         }
                     }
                 },
-                "Door to Breeding Grounds Alpha Nest South East": {
+                "Door to Breeding Grounds Alpha Den Southeast": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -7900,7 +7900,7 @@
                     "dock_type": "door",
                     "default_connection": {
                         "region": "Golden Temple",
-                        "area": "Breeding Grounds Alpha Nest South East",
+                        "area": "Breeding Grounds Alpha Den Southeast",
                         "node": "Door to Breeding Grounds Hub"
                     },
                     "default_dock_weakness": "Open Transition",
@@ -7910,7 +7910,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Door to Breeding Grounds Alpha Nest South West": {
+                        "Door to Breeding Grounds Alpha Den Southwest": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -7921,7 +7921,7 @@
                 }
             }
         },
-        "Breeding Grounds Alpha Nest North East": {
+        "Breeding Grounds Alpha Den Northeast": {
             "default_node": null,
             "extra": {
                 "map_name": "rm_a1b03",
@@ -7977,7 +7977,7 @@
                     "default_connection": {
                         "region": "Golden Temple",
                         "area": "Breeding Grounds Hub",
-                        "node": "Door to Breeding Grounds Alpha Nest North East"
+                        "node": "Door to Breeding Grounds Alpha Den Northeast"
                     },
                     "default_dock_weakness": "Open Transition",
                     "exclude_from_dock_rando": false,
@@ -8062,7 +8062,7 @@
                 }
             }
         },
-        "Breeding Grounds Alpha Nest South West": {
+        "Breeding Grounds Alpha Den Southwest": {
             "default_node": null,
             "extra": {
                 "map_name": "rm_a1b04",
@@ -8114,7 +8114,7 @@
                     "default_connection": {
                         "region": "Golden Temple",
                         "area": "Breeding Grounds Hub",
-                        "node": "Door to Breeding Grounds Alpha Nest South West"
+                        "node": "Door to Breeding Grounds Alpha Den Southwest"
                     },
                     "default_dock_weakness": "Open Transition",
                     "exclude_from_dock_rando": false,
@@ -8199,7 +8199,7 @@
                 }
             }
         },
-        "Breeding Grounds Alpha Nest South East": {
+        "Breeding Grounds Alpha Den Southeast": {
             "default_node": null,
             "extra": {
                 "map_name": "rm_a1b05",
@@ -8243,7 +8243,7 @@
                     "default_connection": {
                         "region": "Golden Temple",
                         "area": "Breeding Grounds Hub",
-                        "node": "Door to Breeding Grounds Alpha Nest South East"
+                        "node": "Door to Breeding Grounds Alpha Den Southeast"
                     },
                     "default_dock_weakness": "Open Transition",
                     "exclude_from_dock_rando": false,
