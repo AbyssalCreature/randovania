@@ -52,16 +52,16 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
   * Extra - facing: right
   * Extra - x: 0
   * Extra - y: 656
-  > Door to Breeding Grounds Access East
+  > Door to Pincherfly Speedway
       Trivial
   > Top
       Hijump Wall
   > Bottom Pit
       Super Missiles
 
-> Door to Industrial Complex Exterior Access; Heals? False
+> Door to Exterior Complex Entrance; Heals? False
   * Layers: default
-  * Open Transition to Industrial Complex Exterior Access/Door to Pincherfly Parlor
+  * Open Transition to Exterior Complex Entrance/Door to Pincherfly Parlor
   * Extra - instance_id: 113756
   * Extra - facing: left
   * Extra - x: 320
@@ -69,9 +69,9 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
   > Top
       Trivial
 
-> Door to Breeding Grounds Access East; Heals? False
+> Door to Pincherfly Speedway; Heals? False
   * Layers: default
-  * Open Transition to Breeding Grounds Access East/Door to Pincherfly Parlor
+  * Open Transition to Pincherfly Speedway/Door to Pincherfly Parlor
   * Extra - instance_id: 113757
   * Extra - facing: left
   * Extra - x: 320
@@ -79,9 +79,9 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
   > Door to Eastern Cave Save Station
       Trivial
 
-> Vertical Dock to Breeding Grounds Gamma Nest West; Heals? False
+> Vertical Dock to Breeding Grounds Gamma Den West; Heals? False
   * Layers: default
-  * 2-Tiles Wide Dock to Breeding Grounds Gamma Nest West/Vertical Dock to Pincherfly Parlor
+  * 2-Tiles Wide Dock to Breeding Grounds Gamma Den West/Vertical Dock to Pincherfly Parlor
   > Bottom Pit
       High Mid-Air Morph Tunnel Climb and Low Mid-Air Morph Tunnel Climb
 
@@ -105,7 +105,7 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
   * Layers: default
   > Door to Eastern Cave Save Station
       Trivial
-  > Door to Industrial Complex Exterior Access
+  > Door to Exterior Complex Entrance
       Hijump Wall
   > Door to EMP Sentry Cavern
       Super Missiles and Hijump Wall
@@ -116,18 +116,18 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
   * Layers: default
   > Door to Eastern Cave Save Station
       Super Missiles and Hijump With Power Grip Wall
-  > Vertical Dock to Breeding Grounds Gamma Nest West
+  > Vertical Dock to Breeding Grounds Gamma Den West
       Morph Ball
 
 ----------------
-Industrial Complex Exterior Access
+Exterior Complex Entrance
 Extra - map_name: rm_a3h03
 Extra - minimap_data: [{'x': 54, 'y': 22}, {'x': 55, 'y': 22}, {'x': 56, 'y': 22}, {'x': 57, 'y': 22}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 > Door to Pincherfly Parlor; Heals? False
   * Layers: default
-  * Open Transition to Pincherfly Parlor/Door to Industrial Complex Exterior Access
+  * Open Transition to Pincherfly Parlor/Door to Exterior Complex Entrance
   * Extra - instance_id: 113985
   * Extra - facing: right
   * Extra - x: 0
@@ -139,7 +139,7 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 
 > Door to Industrial Complex Exterior; Heals? False
   * Layers: default
-  * Open Transition to Industrial Complex Exterior/Door to Industrial Complex Exterior Access
+  * Open Transition to Industrial Complex Exterior/Door to Exterior Complex Entrance
   * Extra - instance_id: 113986
   * Extra - facing: left
   * Extra - x: 1280
@@ -180,9 +180,9 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
           # IBJ
           Infinite Bomb Jumping (Expert) and Can IBJ and Can Use Bombs
 
-> Door to Industrial Complex Exterior Access; Heals? False
+> Door to Exterior Complex Entrance; Heals? False
   * Layers: default
-  * Open Transition to Industrial Complex Exterior Access/Door to Industrial Complex Exterior
+  * Open Transition to Exterior Complex Entrance/Door to Industrial Complex Exterior
   * Extra - instance_id: 114100
   * Extra - facing: right
   * Extra - x: 0
@@ -258,7 +258,7 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 
 > Left Septogg; Heals? False
   * Layers: default
-  > Door to Industrial Complex Exterior Access
+  > Door to Exterior Complex Entrance
       Space Jump Wall
   > Above torizo
       Any of the following:
@@ -1665,14 +1665,14 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
       Morph Ball
 
 ----------------
-Breeding Grounds Access East
+Pincherfly Speedway
 Extra - map_name: rm_a3b01
 Extra - minimap_data: [{'x': 54, 'y': 24}, {'x': 55, 'y': 24}, {'x': 56, 'y': 24}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 > Door to Pincherfly Parlor; Heals? False
   * Layers: default
-  * Open Transition to Pincherfly Parlor/Door to Breeding Grounds Access East
+  * Open Transition to Pincherfly Parlor/Door to Pincherfly Speedway
   * Extra - instance_id: 120221
   * Extra - facing: right
   * Extra - x: 0
@@ -1682,7 +1682,7 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 
 > Vertical Dock to Breeding Grounds Crossroads; Heals? False
   * Layers: default
-  * 3-Tiles Wide Dock to Breeding Grounds Crossroads/Vertical Dock to Breeding Grounds Access East
+  * 3-Tiles Wide Dock to Breeding Grounds Crossroads/Vertical Dock to Pincherfly Speedway
   > Door to Pincherfly Parlor
       Morph Ball and Power Grip Wall
 
@@ -1692,22 +1692,22 @@ Extra - map_name: rm_a3b02
 Extra - minimap_data: [{'x': 56, 'y': 25}, {'x': 56, 'y': 26}, {'x': 56, 'y': 27}, {'x': 56, 'y': 28}, {'x': 56, 'y': 29}, {'x': 56, 'y': 30}]
 Extra - light_level: 1
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
-> Vertical Dock to Breeding Grounds Access East; Heals? False
+> Vertical Dock to Pincherfly Speedway; Heals? False
   * Layers: default
-  * 3-Tiles Wide Dock to Breeding Grounds Access East/Vertical Dock to Breeding Grounds Crossroads
-  > Horizontal Dock to Breeding Grounds Gamma Nest West
+  * 3-Tiles Wide Dock to Pincherfly Speedway/Vertical Dock to Breeding Grounds Crossroads
+  > Horizontal Dock to Breeding Grounds Gamma Den West
       Trivial
 
-> Horizontal Dock to Breeding Grounds Gamma Nest West; Heals? False
+> Horizontal Dock to Breeding Grounds Gamma Den West; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Breeding Grounds Gamma Nest West/Horizontal Dock to Breeding Grounds Crossroads
-  > Horizontal Dock to Breeding Grounds Gamma Nest Center
+  * 3-Tiles High Dock to Breeding Grounds Gamma Den West/Horizontal Dock to Breeding Grounds Crossroads
+  > Horizontal Dock to Breeding Grounds Gamma Den Centrum
       Trivial
 
-> Horizontal Dock to Breeding Grounds Gamma Nest Center; Heals? False
+> Horizontal Dock to Breeding Grounds Gamma Den Centrum; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Breeding Grounds Gamma Nest Center/Horizontal Dock to Breeding Grounds Crossroads
-  > Vertical Dock to Breeding Grounds Access East
+  * 3-Tiles High Dock to Breeding Grounds Gamma Den Centrum/Horizontal Dock to Breeding Grounds Crossroads
+  > Vertical Dock to Pincherfly Speedway
       Any of the following:
           Space Jump or Can Use Spider Ball
           All of the following:
@@ -1724,39 +1724,39 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
           Walljump (Expert) and Can Walljump
           # IBJ expert
           Infinite Bomb Jumping (Expert) and Mid-Air Morph (Expert) and Can IBJ and Can Use Bombs
-  > Horizontal Dock to Breeding Grounds Gamma Nest West
+  > Horizontal Dock to Breeding Grounds Gamma Den West
       Any of the following:
           Space Jump Wall
           # Septogg
           Enabled Septogg Helpers
-  > Door to Breeding Grounds Gamma Nest South
+  > Door to Breeding Grounds Gamma Den South
       Morph Ball and Can Use Any Bombs
 
-> Door to Breeding Grounds Gamma Nest South; Heals? False
+> Door to Breeding Grounds Gamma Den South; Heals? False
   * Layers: default
-  * Open Transition to Breeding Grounds Gamma Nest South/Door to Breeding Grounds Crossroads
+  * Open Transition to Breeding Grounds Gamma Den South/Door to Breeding Grounds Crossroads
   * Extra - instance_id: 120486
   * Extra - facing: left
   * Extra - x: 320
   * Extra - y: 1392
-  > Horizontal Dock to Breeding Grounds Gamma Nest Center
+  > Horizontal Dock to Breeding Grounds Gamma Den Centrum
       Can Use Any Bombs and Low Mid-Air Morph Tunnel Climb and Power Grip Wall
 
 ----------------
-Breeding Grounds Gamma Nest West
+Breeding Grounds Gamma Den West
 Extra - map_name: rm_a3b03
 Extra - minimap_data: [{'x': 53, 'y': 27}, {'x': 54, 'y': 27}, {'x': 55, 'y': 27}]
 Extra - light_level: 1
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 > Vertical Dock to Pincherfly Parlor; Heals? False
   * Layers: default
-  * 2-Tiles Wide Dock to Pincherfly Parlor/Vertical Dock to Breeding Grounds Gamma Nest West
+  * 2-Tiles Wide Dock to Pincherfly Parlor/Vertical Dock to Breeding Grounds Gamma Den West
   > Horizontal Dock to Breeding Grounds Crossroads
       Trivial
 
 > Horizontal Dock to Breeding Grounds Crossroads; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Breeding Grounds Crossroads/Horizontal Dock to Breeding Grounds Gamma Nest West
+  * 3-Tiles High Dock to Breeding Grounds Crossroads/Horizontal Dock to Breeding Grounds Gamma Den West
   > Vertical Dock to Pincherfly Parlor
       Any of the following:
           Space Jump
@@ -1781,22 +1781,22 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
       Trivial
 
 ----------------
-Breeding Grounds Gamma Nest Center
+Breeding Grounds Gamma Den Centrum
 Extra - map_name: rm_a3b04
 Extra - minimap_data: [{'x': 57, 'y': 28}, {'x': 58, 'y': 28}]
 Extra - light_level: 2
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 > Horizontal Dock to Breeding Grounds Crossroads; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Breeding Grounds Crossroads/Horizontal Dock to Breeding Grounds Gamma Nest Center
-  > Horizontal Dock to Breeding Grounds Alpha Nest Access
+  * 3-Tiles High Dock to Breeding Grounds Crossroads/Horizontal Dock to Breeding Grounds Gamma Den Centrum
+  > Horizontal Dock to Breeding Grounds Overgrown Shaft
       Can Use Any Bombs and Power Grip Wall
   > Event - Gamma
       Defeat dodging Gamma
 
-> Horizontal Dock to Breeding Grounds Alpha Nest Access; Heals? False
+> Horizontal Dock to Breeding Grounds Overgrown Shaft; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Breeding Grounds Alpha Nest Access/Horizontal Dock to Breeding Grounds Gamma Nest Center
+  * 3-Tiles High Dock to Breeding Grounds Overgrown Shaft/Horizontal Dock to Breeding Grounds Gamma Den Centrum
   > Horizontal Dock to Breeding Grounds Crossroads
       Can Use Any Bombs
 
@@ -1816,21 +1816,21 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
       Trivial
 
 ----------------
-Breeding Grounds Alpha Nest Access
+Breeding Grounds Overgrown Shaft
 Extra - map_name: rm_a3b05
 Extra - minimap_data: [{'x': 59, 'y': 26}, {'x': 59, 'y': 27}, {'x': 59, 'y': 28}, {'x': 59, 'y': 29}]
 Extra - light_level: 3
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
-> Vertical Dock to Breeding Grounds Alpha Nest; Heals? False
+> Vertical Dock to Breeding Grounds Alpha Den; Heals? False
   * Layers: default
-  * 3-Tiles Wide Dock to Breeding Grounds Alpha Nest/Vertical Dock to Breeding Grounds Alpha Nest Access
-  > Horizontal Dock to Breeding Grounds Gamma Nest Center
+  * 3-Tiles Wide Dock to Breeding Grounds Alpha Den/Vertical Dock to Breeding Grounds Overgrown Shaft
+  > Horizontal Dock to Breeding Grounds Gamma Den Centrum
       Trivial
 
-> Horizontal Dock to Breeding Grounds Gamma Nest Center; Heals? False
+> Horizontal Dock to Breeding Grounds Gamma Den Centrum; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Breeding Grounds Gamma Nest Center/Horizontal Dock to Breeding Grounds Alpha Nest Access
-  > Vertical Dock to Breeding Grounds Alpha Nest
+  * 3-Tiles High Dock to Breeding Grounds Gamma Den Centrum/Horizontal Dock to Breeding Grounds Overgrown Shaft
+  > Vertical Dock to Breeding Grounds Alpha Den
       Any of the following:
           Space Jump or Can Use Spider Ball
           All of the following:
@@ -1840,29 +1840,29 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
                   Hi-Jump Boots and Walljump (Beginner)
 
 ----------------
-Breeding Grounds Alpha Nest
+Breeding Grounds Alpha Den
 Extra - map_name: rm_a3b06
 Extra - minimap_data: [{'x': 58, 'y': 25}, {'x': 59, 'y': 25}]
 Extra - light_level: 1
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
-> Vertical Dock to Breeding Grounds Alpha Nest Access; Heals? False
+> Vertical Dock to Breeding Grounds Overgrown Shaft; Heals? False
   * Layers: default
-  * 3-Tiles Wide Dock to Breeding Grounds Alpha Nest Access/Vertical Dock to Breeding Grounds Alpha Nest
-  > Tunnel to Breeding Grounds Gamma Nest North
+  * 3-Tiles Wide Dock to Breeding Grounds Overgrown Shaft/Vertical Dock to Breeding Grounds Alpha Den
+  > Tunnel to Breeding Grounds Gamma Den North
       Hijump Tunnel Climb
   > Event - Alpha
       Defeat dodging Alpha
 
-> Tunnel to Breeding Grounds Gamma Nest North; Heals? False
+> Tunnel to Breeding Grounds Gamma Den North; Heals? False
   * Layers: default
-  * Morph Ball Tunnel to Breeding Grounds Gamma Nest North/Tunnel to Breeding Grounds Alpha Nest
-  > Vertical Dock to Breeding Grounds Alpha Nest Access
+  * Morph Ball Tunnel to Breeding Grounds Gamma Den North/Tunnel to Breeding Grounds Alpha Den
+  > Vertical Dock to Breeding Grounds Overgrown Shaft
       Morph Ball
 
 > Event - Alpha; Heals? False
   * Layers: default
   * Event Metroids Area 3 - Breeding Grounds Alpha
-  > Vertical Dock to Breeding Grounds Alpha Nest Access
+  > Vertical Dock to Breeding Grounds Overgrown Shaft
       Trivial
   > Pickup (Alpha)
       Trivial
@@ -1875,21 +1875,21 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
       Trivial
 
 ----------------
-Breeding Grounds Gamma Nest North
+Breeding Grounds Gamma Den North
 Extra - map_name: rm_a3b07
 Extra - minimap_data: [{'x': 60, 'y': 25}]
 Extra - light_level: 1
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
-> Tunnel to Breeding Grounds Alpha Nest; Heals? False
+> Tunnel to Breeding Grounds Alpha Den; Heals? False
   * Layers: default
-  * Morph Ball Tunnel to Breeding Grounds Alpha Nest/Tunnel to Breeding Grounds Gamma Nest North
+  * Morph Ball Tunnel to Breeding Grounds Alpha Den/Tunnel to Breeding Grounds Gamma Den North
   > Event - Gamma
       Can Use Any Bombs and Defeat dodging Gamma
 
 > Event - Gamma; Heals? False
   * Layers: default
   * Event Metroids Area 3 - Breeding Grounds Middle Top Gamma
-  > Tunnel to Breeding Grounds Alpha Nest
+  > Tunnel to Breeding Grounds Alpha Den
       Can Use Any Bombs and Hijump Tunnel Climb
   > Pickup (Gamma)
       Trivial
@@ -1902,14 +1902,14 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
       Trivial
 
 ----------------
-Breeding Grounds Gamma Nest South
+Breeding Grounds Gamma Den South
 Extra - map_name: rm_a3b08
 Extra - minimap_data: [{'x': 57, 'y': 30}, {'x': 57, 'y': 31}, {'x': 58, 'y': 30}, {'x': 58, 'y': 31}, {'x': 59, 'y': 30}, {'x': 59, 'y': 31}]
 Extra - light_level: 3
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 > Door to Breeding Grounds Crossroads; Heals? False
   * Layers: default
-  * Open Transition to Breeding Grounds Crossroads/Door to Breeding Grounds Gamma Nest South
+  * Open Transition to Breeding Grounds Crossroads/Door to Breeding Grounds Gamma Den South
   * Extra - instance_id: 121230
   * Extra - facing: right
   * Extra - x: 0
@@ -1919,7 +1919,7 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 
 > Door to Breeding Grounds Fly Stadium Access; Heals? False
   * Layers: default
-  * Open Transition to Breeding Grounds Fly Stadium Access/Door to Breeding Grounds Gamma Nest South
+  * Open Transition to Breeding Grounds Fly Stadium Access/Door to Breeding Grounds Gamma Den South
   * Extra - instance_id: 121232
   * Extra - facing: left
   * Extra - x: 960
@@ -1989,9 +1989,9 @@ Extra - map_name: rm_a3b09
 Extra - minimap_data: [{'x': 60, 'y': 28}, {'x': 60, 'y': 29}, {'x': 60, 'y': 30}]
 Extra - light_level: 9
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
-> Door to Breeding Grounds Gamma Nest South; Heals? False
+> Door to Breeding Grounds Gamma Den South; Heals? False
   * Layers: default
-  * Open Transition to Breeding Grounds Gamma Nest South/Door to Breeding Grounds Fly Stadium Access
+  * Open Transition to Breeding Grounds Gamma Den South/Door to Breeding Grounds Fly Stadium Access
   * Extra - instance_id: 121404
   * Extra - facing: right
   * Extra - x: 0
@@ -2002,7 +2002,7 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 > Horizontal Dock to Breeding Grounds Fly Stadium; Heals? False
   * Layers: default
   * 3-Tiles High Dock to Breeding Grounds Fly Stadium/Horizontal Dock to Breeding Grounds Fly Stadium Access
-  > Door to Breeding Grounds Gamma Nest South
+  > Door to Breeding Grounds Gamma Den South
       Trivial
 
 ----------------
@@ -2050,9 +2050,9 @@ Extra - map_name: rm_a3b11
 Extra - minimap_data: [{'x': 65, 'y': 27}, {'x': 65, 'y': 28}, {'x': 65, 'y': 29}, {'x': 65, 'y': 30}, {'x': 65, 'y': 31}]
 Extra - light_level: 4
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
-> Horizontal Dock to Breeding Grounds Gamma Nest South East; Heals? False
+> Horizontal Dock to Breeding Grounds Gamma Den Southeast; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Breeding Grounds Gamma Nest South East/Horizontal Dock to Breeding Grounds Maze
+  * 3-Tiles High Dock to Breeding Grounds Gamma Den Southeast/Horizontal Dock to Breeding Grounds Maze
   > Horizontal Dock to Breeding Grounds Fly Stadium
       Any of the following:
           # Right side
@@ -2065,21 +2065,21 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 > Horizontal Dock to Breeding Grounds Fly Stadium; Heals? False
   * Layers: default
   * 3-Tiles High Dock to Breeding Grounds Fly Stadium/Horizontal Dock to Breeding Grounds Maze
-  > Horizontal Dock to Breeding Grounds Gamma Nest South East
+  > Horizontal Dock to Breeding Grounds Gamma Den Southeast
       All of the following:
           Can Use Any Bombs and Low Mid-Air Morph Tunnel Climb
           # Go over pit
           Movement (Intermediate) or Can Use Spider Ball
 
 ----------------
-Breeding Grounds Gamma Nest South East
+Breeding Grounds Gamma Den Southeast
 Extra - map_name: rm_a3b12
 Extra - minimap_data: [{'x': 64, 'y': 31}, {'x': 64, 'y': 32}, {'x': 64, 'y': 33}]
 Extra - light_level: 4
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 > Horizontal Dock to Breeding Grounds Maze; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Breeding Grounds Maze/Horizontal Dock to Breeding Grounds Gamma Nest South East
+  * 3-Tiles High Dock to Breeding Grounds Maze/Horizontal Dock to Breeding Grounds Gamma Den Southeast
   > Event - Gamma
       Defeat dodging Gamma
 

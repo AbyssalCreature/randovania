@@ -239,7 +239,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Door to Breeding Grounds Access East": {
+                        "Door to Pincherfly Speedway": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -277,7 +277,7 @@
                         }
                     }
                 },
-                "Door to Industrial Complex Exterior Access": {
+                "Door to Exterior Complex Entrance": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -299,7 +299,7 @@
                     "dock_type": "door",
                     "default_connection": {
                         "region": "Industrial Complex",
-                        "area": "Industrial Complex Exterior Access",
+                        "area": "Exterior Complex Entrance",
                         "node": "Door to Pincherfly Parlor"
                     },
                     "default_dock_weakness": "Open Transition",
@@ -318,7 +318,7 @@
                         }
                     }
                 },
-                "Door to Breeding Grounds Access East": {
+                "Door to Pincherfly Speedway": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -340,7 +340,7 @@
                     "dock_type": "door",
                     "default_connection": {
                         "region": "Industrial Complex",
-                        "area": "Breeding Grounds Access East",
+                        "area": "Pincherfly Speedway",
                         "node": "Door to Pincherfly Parlor"
                     },
                     "default_dock_weakness": "Open Transition",
@@ -359,7 +359,7 @@
                         }
                     }
                 },
-                "Vertical Dock to Breeding Grounds Gamma Nest West": {
+                "Vertical Dock to Breeding Grounds Gamma Den West": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -376,7 +376,7 @@
                     "dock_type": "vertical_dock",
                     "default_connection": {
                         "region": "Industrial Complex",
-                        "area": "Breeding Grounds Gamma Nest West",
+                        "area": "Breeding Grounds Gamma Den West",
                         "node": "Vertical Dock to Pincherfly Parlor"
                     },
                     "default_dock_weakness": "2-Tiles Wide Dock",
@@ -513,7 +513,7 @@
                                 "items": []
                             }
                         },
-                        "Door to Industrial Complex Exterior Access": {
+                        "Door to Exterior Complex Entrance": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -591,7 +591,7 @@
                                 ]
                             }
                         },
-                        "Vertical Dock to Breeding Grounds Gamma Nest West": {
+                        "Vertical Dock to Breeding Grounds Gamma Den West": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -612,7 +612,7 @@
                 }
             }
         },
-        "Industrial Complex Exterior Access": {
+        "Exterior Complex Entrance": {
             "default_node": null,
             "extra": {
                 "map_name": "rm_a3h03",
@@ -664,7 +664,7 @@
                     "default_connection": {
                         "region": "Industrial Complex",
                         "area": "Pincherfly Parlor",
-                        "node": "Door to Industrial Complex Exterior Access"
+                        "node": "Door to Exterior Complex Entrance"
                     },
                     "default_dock_weakness": "Open Transition",
                     "exclude_from_dock_rando": false,
@@ -736,7 +736,7 @@
                     "default_connection": {
                         "region": "Industrial Complex",
                         "area": "Industrial Complex Exterior",
-                        "node": "Door to Industrial Complex Exterior Access"
+                        "node": "Door to Exterior Complex Entrance"
                     },
                     "default_dock_weakness": "Open Transition",
                     "exclude_from_dock_rando": false,
@@ -1226,7 +1226,7 @@
                         }
                     }
                 },
-                "Door to Industrial Complex Exterior Access": {
+                "Door to Exterior Complex Entrance": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -1248,7 +1248,7 @@
                     "dock_type": "door",
                     "default_connection": {
                         "region": "Industrial Complex",
-                        "area": "Industrial Complex Exterior Access",
+                        "area": "Exterior Complex Entrance",
                         "node": "Door to Industrial Complex Exterior"
                     },
                     "default_dock_weakness": "Open Transition",
@@ -1854,7 +1854,7 @@
                     "extra": {},
                     "valid_starting_location": false,
                     "connections": {
-                        "Door to Industrial Complex Exterior Access": {
+                        "Door to Exterior Complex Entrance": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -11219,7 +11219,7 @@
                 }
             }
         },
-        "Breeding Grounds Access East": {
+        "Pincherfly Speedway": {
             "default_node": null,
             "extra": {
                 "map_name": "rm_a3b01",
@@ -11267,7 +11267,7 @@
                     "default_connection": {
                         "region": "Industrial Complex",
                         "area": "Pincherfly Parlor",
-                        "node": "Door to Breeding Grounds Access East"
+                        "node": "Door to Pincherfly Speedway"
                     },
                     "default_dock_weakness": "Open Transition",
                     "exclude_from_dock_rando": false,
@@ -11317,7 +11317,7 @@
                     "default_connection": {
                         "region": "Industrial Complex",
                         "area": "Breeding Grounds Crossroads",
-                        "node": "Vertical Dock to Breeding Grounds Access East"
+                        "node": "Vertical Dock to Pincherfly Speedway"
                     },
                     "default_dock_weakness": "3-Tiles Wide Dock",
                     "exclude_from_dock_rando": false,
@@ -11388,7 +11388,7 @@
                 }
             },
             "nodes": {
-                "Vertical Dock to Breeding Grounds Access East": {
+                "Vertical Dock to Pincherfly Speedway": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -11405,7 +11405,7 @@
                     "dock_type": "vertical_dock",
                     "default_connection": {
                         "region": "Industrial Complex",
-                        "area": "Breeding Grounds Access East",
+                        "area": "Pincherfly Speedway",
                         "node": "Vertical Dock to Breeding Grounds Crossroads"
                     },
                     "default_dock_weakness": "3-Tiles Wide Dock",
@@ -11415,7 +11415,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Horizontal Dock to Breeding Grounds Gamma Nest West": {
+                        "Horizontal Dock to Breeding Grounds Gamma Den West": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -11424,7 +11424,7 @@
                         }
                     }
                 },
-                "Horizontal Dock to Breeding Grounds Gamma Nest West": {
+                "Horizontal Dock to Breeding Grounds Gamma Den West": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -11441,7 +11441,7 @@
                     "dock_type": "horizontal_dock",
                     "default_connection": {
                         "region": "Industrial Complex",
-                        "area": "Breeding Grounds Gamma Nest West",
+                        "area": "Breeding Grounds Gamma Den West",
                         "node": "Horizontal Dock to Breeding Grounds Crossroads"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
@@ -11451,7 +11451,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Horizontal Dock to Breeding Grounds Gamma Nest Center": {
+                        "Horizontal Dock to Breeding Grounds Gamma Den Centrum": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -11460,7 +11460,7 @@
                         }
                     }
                 },
-                "Horizontal Dock to Breeding Grounds Gamma Nest Center": {
+                "Horizontal Dock to Breeding Grounds Gamma Den Centrum": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -11477,7 +11477,7 @@
                     "dock_type": "horizontal_dock",
                     "default_connection": {
                         "region": "Industrial Complex",
-                        "area": "Breeding Grounds Gamma Nest Center",
+                        "area": "Breeding Grounds Gamma Den Centrum",
                         "node": "Horizontal Dock to Breeding Grounds Crossroads"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
@@ -11487,7 +11487,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Vertical Dock to Breeding Grounds Access East": {
+                        "Vertical Dock to Pincherfly Speedway": {
                             "type": "or",
                             "data": {
                                 "comment": null,
@@ -11737,7 +11737,7 @@
                                 ]
                             }
                         },
-                        "Horizontal Dock to Breeding Grounds Gamma Nest West": {
+                        "Horizontal Dock to Breeding Grounds Gamma Den West": {
                             "type": "or",
                             "data": {
                                 "comment": null,
@@ -11766,7 +11766,7 @@
                                 ]
                             }
                         },
-                        "Door to Breeding Grounds Gamma Nest South": {
+                        "Door to Breeding Grounds Gamma Den South": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -11789,7 +11789,7 @@
                         }
                     }
                 },
-                "Door to Breeding Grounds Gamma Nest South": {
+                "Door to Breeding Grounds Gamma Den South": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -11811,7 +11811,7 @@
                     "dock_type": "door",
                     "default_connection": {
                         "region": "Industrial Complex",
-                        "area": "Breeding Grounds Gamma Nest South",
+                        "area": "Breeding Grounds Gamma Den South",
                         "node": "Door to Breeding Grounds Crossroads"
                     },
                     "default_dock_weakness": "Open Transition",
@@ -11821,7 +11821,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Horizontal Dock to Breeding Grounds Gamma Nest Center": {
+                        "Horizontal Dock to Breeding Grounds Gamma Den Centrum": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -11845,7 +11845,7 @@
                 }
             }
         },
-        "Breeding Grounds Gamma Nest West": {
+        "Breeding Grounds Gamma Den West": {
             "default_node": null,
             "extra": {
                 "map_name": "rm_a3b03",
@@ -11888,7 +11888,7 @@
                     "default_connection": {
                         "region": "Industrial Complex",
                         "area": "Pincherfly Parlor",
-                        "node": "Vertical Dock to Breeding Grounds Gamma Nest West"
+                        "node": "Vertical Dock to Breeding Grounds Gamma Den West"
                     },
                     "default_dock_weakness": "2-Tiles Wide Dock",
                     "exclude_from_dock_rando": false,
@@ -11924,7 +11924,7 @@
                     "default_connection": {
                         "region": "Industrial Complex",
                         "area": "Breeding Grounds Crossroads",
-                        "node": "Horizontal Dock to Breeding Grounds Gamma Nest West"
+                        "node": "Horizontal Dock to Breeding Grounds Gamma Den West"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
                     "exclude_from_dock_rando": false,
@@ -12085,7 +12085,7 @@
                 }
             }
         },
-        "Breeding Grounds Gamma Nest Center": {
+        "Breeding Grounds Gamma Den Centrum": {
             "default_node": null,
             "extra": {
                 "map_name": "rm_a3b04",
@@ -12124,7 +12124,7 @@
                     "default_connection": {
                         "region": "Industrial Complex",
                         "area": "Breeding Grounds Crossroads",
-                        "node": "Horizontal Dock to Breeding Grounds Gamma Nest Center"
+                        "node": "Horizontal Dock to Breeding Grounds Gamma Den Centrum"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
                     "exclude_from_dock_rando": false,
@@ -12133,7 +12133,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Horizontal Dock to Breeding Grounds Alpha Nest Access": {
+                        "Horizontal Dock to Breeding Grounds Overgrown Shaft": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -12163,7 +12163,7 @@
                         }
                     }
                 },
-                "Horizontal Dock to Breeding Grounds Alpha Nest Access": {
+                "Horizontal Dock to Breeding Grounds Overgrown Shaft": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -12180,8 +12180,8 @@
                     "dock_type": "horizontal_dock",
                     "default_connection": {
                         "region": "Industrial Complex",
-                        "area": "Breeding Grounds Alpha Nest Access",
-                        "node": "Horizontal Dock to Breeding Grounds Gamma Nest Center"
+                        "area": "Breeding Grounds Overgrown Shaft",
+                        "node": "Horizontal Dock to Breeding Grounds Gamma Den Centrum"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
                     "exclude_from_dock_rando": false,
@@ -12266,7 +12266,7 @@
                 }
             }
         },
-        "Breeding Grounds Alpha Nest Access": {
+        "Breeding Grounds Overgrown Shaft": {
             "default_node": null,
             "extra": {
                 "map_name": "rm_a3b05",
@@ -12295,7 +12295,7 @@
                 }
             },
             "nodes": {
-                "Vertical Dock to Breeding Grounds Alpha Nest": {
+                "Vertical Dock to Breeding Grounds Alpha Den": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -12312,8 +12312,8 @@
                     "dock_type": "vertical_dock",
                     "default_connection": {
                         "region": "Industrial Complex",
-                        "area": "Breeding Grounds Alpha Nest",
-                        "node": "Vertical Dock to Breeding Grounds Alpha Nest Access"
+                        "area": "Breeding Grounds Alpha Den",
+                        "node": "Vertical Dock to Breeding Grounds Overgrown Shaft"
                     },
                     "default_dock_weakness": "3-Tiles Wide Dock",
                     "exclude_from_dock_rando": false,
@@ -12322,7 +12322,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Horizontal Dock to Breeding Grounds Gamma Nest Center": {
+                        "Horizontal Dock to Breeding Grounds Gamma Den Centrum": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -12331,7 +12331,7 @@
                         }
                     }
                 },
-                "Horizontal Dock to Breeding Grounds Gamma Nest Center": {
+                "Horizontal Dock to Breeding Grounds Gamma Den Centrum": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -12348,8 +12348,8 @@
                     "dock_type": "horizontal_dock",
                     "default_connection": {
                         "region": "Industrial Complex",
-                        "area": "Breeding Grounds Gamma Nest Center",
-                        "node": "Horizontal Dock to Breeding Grounds Alpha Nest Access"
+                        "area": "Breeding Grounds Gamma Den Centrum",
+                        "node": "Horizontal Dock to Breeding Grounds Overgrown Shaft"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
                     "exclude_from_dock_rando": false,
@@ -12358,7 +12358,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Vertical Dock to Breeding Grounds Alpha Nest": {
+                        "Vertical Dock to Breeding Grounds Alpha Den": {
                             "type": "or",
                             "data": {
                                 "comment": null,
@@ -12454,7 +12454,7 @@
                 }
             }
         },
-        "Breeding Grounds Alpha Nest": {
+        "Breeding Grounds Alpha Den": {
             "default_node": null,
             "extra": {
                 "map_name": "rm_a3b06",
@@ -12475,7 +12475,7 @@
                 }
             },
             "nodes": {
-                "Vertical Dock to Breeding Grounds Alpha Nest Access": {
+                "Vertical Dock to Breeding Grounds Overgrown Shaft": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -12492,8 +12492,8 @@
                     "dock_type": "vertical_dock",
                     "default_connection": {
                         "region": "Industrial Complex",
-                        "area": "Breeding Grounds Alpha Nest Access",
-                        "node": "Vertical Dock to Breeding Grounds Alpha Nest"
+                        "area": "Breeding Grounds Overgrown Shaft",
+                        "node": "Vertical Dock to Breeding Grounds Alpha Den"
                     },
                     "default_dock_weakness": "3-Tiles Wide Dock",
                     "exclude_from_dock_rando": false,
@@ -12502,7 +12502,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Tunnel to Breeding Grounds Gamma Nest North": {
+                        "Tunnel to Breeding Grounds Gamma Den North": {
                             "type": "or",
                             "data": {
                                 "comment": null,
@@ -12528,7 +12528,7 @@
                         }
                     }
                 },
-                "Tunnel to Breeding Grounds Gamma Nest North": {
+                "Tunnel to Breeding Grounds Gamma Den North": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -12545,8 +12545,8 @@
                     "dock_type": "tunnel",
                     "default_connection": {
                         "region": "Industrial Complex",
-                        "area": "Breeding Grounds Gamma Nest North",
-                        "node": "Tunnel to Breeding Grounds Alpha Nest"
+                        "area": "Breeding Grounds Gamma Den North",
+                        "node": "Tunnel to Breeding Grounds Alpha Den"
                     },
                     "default_dock_weakness": "Morph Ball Tunnel",
                     "exclude_from_dock_rando": false,
@@ -12555,7 +12555,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Vertical Dock to Breeding Grounds Alpha Nest Access": {
+                        "Vertical Dock to Breeding Grounds Overgrown Shaft": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -12590,7 +12590,7 @@
                     "valid_starting_location": false,
                     "event_name": "Alpha14",
                     "connections": {
-                        "Vertical Dock to Breeding Grounds Alpha Nest Access": {
+                        "Vertical Dock to Breeding Grounds Overgrown Shaft": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -12636,7 +12636,7 @@
                 }
             }
         },
-        "Breeding Grounds Gamma Nest North": {
+        "Breeding Grounds Gamma Den North": {
             "default_node": null,
             "extra": {
                 "map_name": "rm_a3b07",
@@ -12653,7 +12653,7 @@
                 }
             },
             "nodes": {
-                "Tunnel to Breeding Grounds Alpha Nest": {
+                "Tunnel to Breeding Grounds Alpha Den": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -12670,8 +12670,8 @@
                     "dock_type": "tunnel",
                     "default_connection": {
                         "region": "Industrial Complex",
-                        "area": "Breeding Grounds Alpha Nest",
-                        "node": "Tunnel to Breeding Grounds Gamma Nest North"
+                        "area": "Breeding Grounds Alpha Den",
+                        "node": "Tunnel to Breeding Grounds Gamma Den North"
                     },
                     "default_dock_weakness": "Morph Ball Tunnel",
                     "exclude_from_dock_rando": false,
@@ -12714,7 +12714,7 @@
                     "valid_starting_location": false,
                     "event_name": "Gamma8",
                     "connections": {
-                        "Tunnel to Breeding Grounds Alpha Nest": {
+                        "Tunnel to Breeding Grounds Alpha Den": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -12769,7 +12769,7 @@
                 }
             }
         },
-        "Breeding Grounds Gamma Nest South": {
+        "Breeding Grounds Gamma Den South": {
             "default_node": null,
             "extra": {
                 "map_name": "rm_a3b08",
@@ -12829,7 +12829,7 @@
                     "default_connection": {
                         "region": "Industrial Complex",
                         "area": "Breeding Grounds Crossroads",
-                        "node": "Door to Breeding Grounds Gamma Nest South"
+                        "node": "Door to Breeding Grounds Gamma Den South"
                     },
                     "default_dock_weakness": "Open Transition",
                     "exclude_from_dock_rando": false,
@@ -12875,7 +12875,7 @@
                     "default_connection": {
                         "region": "Industrial Complex",
                         "area": "Breeding Grounds Fly Stadium Access",
-                        "node": "Door to Breeding Grounds Gamma Nest South"
+                        "node": "Door to Breeding Grounds Gamma Den South"
                     },
                     "default_dock_weakness": "Open Transition",
                     "exclude_from_dock_rando": false,
@@ -13417,7 +13417,7 @@
                 }
             },
             "nodes": {
-                "Door to Breeding Grounds Gamma Nest South": {
+                "Door to Breeding Grounds Gamma Den South": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -13439,7 +13439,7 @@
                     "dock_type": "door",
                     "default_connection": {
                         "region": "Industrial Complex",
-                        "area": "Breeding Grounds Gamma Nest South",
+                        "area": "Breeding Grounds Gamma Den South",
                         "node": "Door to Breeding Grounds Fly Stadium Access"
                     },
                     "default_dock_weakness": "Open Transition",
@@ -13490,7 +13490,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Door to Breeding Grounds Gamma Nest South": {
+                        "Door to Breeding Grounds Gamma Den South": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -13834,7 +13834,7 @@
                 }
             },
             "nodes": {
-                "Horizontal Dock to Breeding Grounds Gamma Nest South East": {
+                "Horizontal Dock to Breeding Grounds Gamma Den Southeast": {
                     "node_type": "dock",
                     "heal": false,
                     "coordinates": {
@@ -13851,7 +13851,7 @@
                     "dock_type": "horizontal_dock",
                     "default_connection": {
                         "region": "Industrial Complex",
-                        "area": "Breeding Grounds Gamma Nest South East",
+                        "area": "Breeding Grounds Gamma Den Southeast",
                         "node": "Horizontal Dock to Breeding Grounds Maze"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
@@ -13963,7 +13963,7 @@
                     "override_default_lock_requirement": null,
                     "ui_custom_name": null,
                     "connections": {
-                        "Horizontal Dock to Breeding Grounds Gamma Nest South East": {
+                        "Horizontal Dock to Breeding Grounds Gamma Den Southeast": {
                             "type": "and",
                             "data": {
                                 "comment": null,
@@ -14004,7 +14004,7 @@
                 }
             }
         },
-        "Breeding Grounds Gamma Nest South East": {
+        "Breeding Grounds Gamma Den Southeast": {
             "default_node": null,
             "extra": {
                 "map_name": "rm_a3b12",
@@ -14047,7 +14047,7 @@
                     "default_connection": {
                         "region": "Industrial Complex",
                         "area": "Breeding Grounds Maze",
-                        "node": "Horizontal Dock to Breeding Grounds Gamma Nest South East"
+                        "node": "Horizontal Dock to Breeding Grounds Gamma Den Southeast"
                     },
                     "default_dock_weakness": "3-Tiles High Dock",
                     "exclude_from_dock_rando": false,
