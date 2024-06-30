@@ -1,16 +1,16 @@
 ----------------
-Tower Exterior South East
+Tower Exterior Southeast
 Extra - map_name: rm_a4h01
 Extra - minimap_data: [{'x': 36, 'y': 35}, {'x': 36, 'y': 36}, {'x': 36, 'y': 37}, {'x': 36, 'y': 38}, {'x': 36, 'y': 39}, {'x': 36, 'y': 40}, {'x': 36, 'y': 41}, {'x': 36, 'y': 42}, {'x': 37, 'y': 35}, {'x': 37, 'y': 36}, {'x': 37, 'y': 37}, {'x': 37, 'y': 38}, {'x': 37, 'y': 39}, {'x': 37, 'y': 40}, {'x': 37, 'y': 41}, {'x': 37, 'y': 42}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 > Door to Inner Save Station East Access; Heals? False
   * Layers: default
-  * Normal Door to Inner Save Station East Access/Door to Tower Exterior South East
+  * Normal Door to Inner Save Station East Access/Door to Tower Exterior Southeast
   * Extra - instance_id: 125465
   > Door to Main Caves
       Trivial
-  > Dock to Tower Exterior North East
+  > Dock to Tower Exterior Northeast
       Any of the following:
           Space Jump or Can Use Spider Ball
           # Shinespark
@@ -30,23 +30,23 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 
 > Door to Main Caves; Heals? False
   * Layers: default
-  * Open Transition to Tower East Exterior Access/Door to The Tower
+  * Open Transition to Tower Exterior Southeast Access/Door to The Tower
   * Extra - instance_id: 125458
   * Extra - facing: left
   * Extra - x: 640
   * Extra - y: 1568
   > Door to Inner Save Station East Access
       Trivial
-  > Horizontal Dock to Exterior Zeta Nest East Access
+  > Horizontal Dock to Exterior Spike Hallway
       Any of the following:
           Space Jump or Can Use Spider Ball
           Hi-Jump Boots and Walljump (Advanced) and Can Walljump
           # IBJ
           Infinite Bomb Jumping (Expert) and Can IBJ and Can Use Bombs
 
-> Horizontal Dock to Exterior Zeta Nest East Access; Heals? False
+> Horizontal Dock to Exterior Spike Hallway; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Exterior Zeta Nest East Access/Horizontal Dock to Tower Exterior South East
+  * 3-Tiles High Dock to Exterior Spike Hallway/Horizontal Dock to Tower Exterior Southeast
   > Door to Main Caves
       Trivial
   > Top Right Cliff
@@ -56,22 +56,22 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
           Infinite Bomb Jumping (Expert) and Can IBJ and Can Use Bombs
           Hi-Jump Boots and Walljump (Intermediate) and Can Walljump
 
-> Vertical Dock to Gamma Nest South East; Heals? False
+> Vertical Dock to Gamma Den Southeast; Heals? False
   * Layers: default
-  * 4-Tiles Wide Dock to Gamma Nest South East/Vertical Dock to Tower Exterior South East
+  * 4-Tiles Wide Dock to Gamma Den Southeast/Vertical Dock to Tower Exterior Southeast
   > Top Right Cliff
       Trivial
 
-> Dock to Tower Exterior North East; Heals? False
+> Dock to Tower Exterior Northeast; Heals? False
   * Layers: default
-  * Open Passage to Tower Exterior North East/Dock to Tower Exterior South East
+  * Open Passage to Tower Exterior Northeast/Dock to Tower Exterior Southeast
   * TODO: Vertical Dock info
   > Door to Inner Save Station East Access
       Trivial
 
 > Door to Southern Cave Pipe Access; Heals? False
   * Layers: default
-  * Open Transition to Southern Cave Pipe Access/Door to Tower Exterior South East
+  * Open Transition to Southern Cave Pipe Access/Door to Tower Exterior Southeast
   * Extra - instance_id: 125485
   * Extra - facing: left
   * Extra - x: 640
@@ -88,20 +88,20 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 
 > Top Right Cliff; Heals? False
   * Layers: default
-  > Horizontal Dock to Exterior Zeta Nest East Access
+  > Horizontal Dock to Exterior Spike Hallway
       Trivial
-  > Vertical Dock to Gamma Nest South East
+  > Vertical Dock to Gamma Den Southeast
       Hijump Wall
 
 ----------------
-Tower Exterior North East
+Tower Exterior Northeast
 Extra - map_name: rm_a4h02
 Extra - minimap_data: [{'x': 36, 'y': 30}, {'x': 36, 'y': 31}, {'x': 36, 'y': 32}, {'x': 36, 'y': 33}, {'x': 36, 'y': 34}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
-> Dock to Tower Exterior South East; Heals? False
+> Dock to Tower Exterior Southeast; Heals? False
   * Layers: default
-  * Open Passage to Tower Exterior South East/Dock to Tower Exterior North East
+  * Open Passage to Tower Exterior Southeast/Dock to Tower Exterior Northeast
   * TODO: Vertical Dock info
   > Dock to Tower Exterior North
       Speed Booster and Shinesparking Tricks (Beginner) and Disabled Entrance Rando
@@ -117,16 +117,16 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 
 > Dock to Tower Exterior North; Heals? False
   * Layers: default
-  * Open Passage to Tower Exterior North/Dock to Tower Exterior North East
+  * Open Passage to Tower Exterior North/Dock to Tower Exterior Northeast
   * TODO: Vertical Dock info
-  > Tunnel to Inner Zeta Nest Access
+  > Tunnel to Inner Shielder Stockpile
       Trivial
   > Door to Exterior Save Station
       Trivial
 
-> Tunnel to Inner Zeta Nest Access; Heals? False
+> Tunnel to Inner Shielder Stockpile; Heals? False
   * Layers: default
-  * Morph Ball Tunnel to Inner Zeta Nest Access/Tunnel to Tower Exterior North East
+  * Morph Ball Tunnel to Inner Shielder Stockpile/Tunnel to Tower Exterior Northeast
   > Dock to Tower Exterior North
       Any of the following:
           Space Jump or Can Use Spider Ball
@@ -144,7 +144,7 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 
 > Door to Exterior Save Station; Heals? False
   * Layers: default
-  * Open Transition to Exterior Save Station/Door to Tower Exterior North East
+  * Open Transition to Exterior Save Station/Door to Tower Exterior Northeast
   * Extra - instance_id: 125503
   * Extra - facing: left
   * Extra - x: 320
@@ -152,7 +152,7 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
   > Dock to Tower Exterior North
       # (TODO: Revisit later for climb from rock wall)
       Hi-Jump Boots and Power Grip and Walljump (Advanced) and Can Walljump
-  > Tunnel to Inner Zeta Nest Access
+  > Tunnel to Inner Shielder Stockpile
       All of the following:
           Hi-Jump Boots
           Any of the following:
@@ -164,11 +164,11 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 
 > Door to Plasma Beam Chamber Access; Heals? False
   * Layers: default
-  * Tower Energy Restored Door to Plasma Beam Chamber Access/Door to Tower Exterior North East
+  * Tower Energy Restored Door to Plasma Beam Chamber Access/Door to Tower Exterior Northeast
   * Extra - instance_id: 125529
-  > Dock to Tower Exterior South East
+  > Dock to Tower Exterior Southeast
       Trivial
-  > Tunnel to Inner Zeta Nest Access
+  > Tunnel to Inner Shielder Stockpile
       Space Jump Wall
 
 ----------------
@@ -177,9 +177,9 @@ Extra - map_name: rm_a4h03
 Extra - minimap_data: [{'x': 32, 'y': 27}, {'x': 32, 'y': 28}, {'x': 32, 'y': 29}, {'x': 33, 'y': 27}, {'x': 33, 'y': 28}, {'x': 33, 'y': 29}, {'x': 34, 'y': 27}, {'x': 34, 'y': 28}, {'x': 34, 'y': 29}, {'x': 35, 'y': 27}, {'x': 35, 'y': 28}, {'x': 35, 'y': 29}, {'x': 36, 'y': 27}, {'x': 36, 'y': 28}, {'x': 36, 'y': 29}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
-> Dock to Tower Exterior North East; Heals? False
+> Dock to Tower Exterior Northeast; Heals? False
   * Layers: default
-  * Open Passage to Tower Exterior North East/Dock to Tower Exterior North
+  * Open Passage to Tower Exterior Northeast/Dock to Tower Exterior North
   * TODO: Vertical Dock info
   > Top
       Any of the following:
@@ -214,9 +214,9 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
   > Pickup (Energy Tank)
       Trivial
 
-> Door to Gamma Nest North East Access; Heals? False
+> Door to Exterior Spikeway; Heals? False
   * Layers: default
-  * Open Transition to Gamma Nest North East Access/Door to Tower Exterior North
+  * Open Transition to Exterior Spikeway/Door to Tower Exterior North
   * Extra - instance_id: 125842
   * Extra - facing: left
   * Extra - x: 1600
@@ -240,13 +240,13 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 
 > Top; Heals? False
   * Layers: default
-  > Dock to Tower Exterior North East
+  > Dock to Tower Exterior Northeast
       Trivial
   > Dock to Tower Exterior West
       Trivial
   > Vertical Dock to Dark Maze (Left)
       Can Use Any Bombs
-  > Door to Gamma Nest North East Access
+  > Door to Exterior Spikeway
       Any of the following:
           Space Jump or Can Use Spider Ball
           # IBJ
@@ -293,10 +293,10 @@ Extra - map_name: rm_a4h04
 Extra - minimap_data: [{'x': 31, 'y': 32}, {'x': 31, 'y': 33}, {'x': 31, 'y': 34}, {'x': 31, 'y': 35}, {'x': 31, 'y': 36}, {'x': 31, 'y': 37}, {'x': 31, 'y': 38}, {'x': 31, 'y': 39}, {'x': 31, 'y': 40}, {'x': 31, 'y': 41}, {'x': 31, 'y': 42}, {'x': 32, 'y': 30}, {'x': 32, 'y': 31}, {'x': 32, 'y': 32}, {'x': 32, 'y': 33}, {'x': 32, 'y': 34}, {'x': 32, 'y': 35}, {'x': 32, 'y': 36}, {'x': 32, 'y': 37}, {'x': 32, 'y': 38}, {'x': 32, 'y': 39}, {'x': 32, 'y': 40}, {'x': 32, 'y': 41}, {'x': 32, 'y': 42}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
-> Horizontal Dock to Exterior Zeta Nest West Access; Heals? False
+> Horizontal Dock to Exterior Spiky Trial; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Exterior Zeta Nest West Access/Horizontal Dock to Tower Exterior West
-  > Door to Gamma Nest West Access
+  * 3-Tiles High Dock to Exterior Spiky Trial/Horizontal Dock to Tower Exterior West
+  > Door to Exterior Spiky Speedway
       Any of the following:
           Space Jump or Can Use Spider Ball
           # IBJ
@@ -305,14 +305,14 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
   > Door to Power Plant Entrance
       Trivial
 
-> Door to Gamma Nest West Access; Heals? False
+> Door to Exterior Spiky Speedway; Heals? False
   * Layers: default
-  * Open Transition to Gamma Nest West Access/Door to Tower Exterior West
+  * Open Transition to Exterior Spiky Speedway/Door to Tower Exterior West
   * Extra - instance_id: 125905
   * Extra - facing: right
   * Extra - x: 0
   * Extra - y: 1600
-  > Horizontal Dock to Exterior Zeta Nest West Access
+  > Horizontal Dock to Exterior Spiky Trial
       Trivial
   > Door to Tower Activation Station
       Any of the following:
@@ -329,7 +329,7 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
   * Layers: default
   * Open Passage to Tower Exterior North/Dock to Tower Exterior West
   * TODO: Vertical Dock info
-  > Door to Gamma Nest West Access
+  > Door to Exterior Spiky Speedway
       Trivial
   > Tunnel to Plasma Beam Chamber
       Trivial
@@ -337,7 +337,7 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 > Tunnel to Plasma Beam Chamber; Heals? False
   * Layers: default
   * Morph Ball Tunnel to Plasma Beam Chamber/Tunnel to Tower Exterior West
-  > Door to Gamma Nest West Access
+  > Door to Exterior Spiky Speedway
       Any of the following:
           # Spin Cancels
           Movement (Intermediate)
@@ -354,7 +354,7 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
   * Layers: default
   * Normal Door to Power Plant Entrance/Door to Tower Exterior West
   * Extra - instance_id: 126190
-  > Horizontal Dock to Exterior Zeta Nest West Access
+  > Horizontal Dock to Exterior Spiky Trial
       Power Grip Wall
   > Dock to Tower Exterior North
       Speed Booster and Shinesparking Tricks (Beginner)
@@ -367,7 +367,7 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
   * Layers: default
   * Power Bomb Door to Tower Activation Station/Door to Tower Exterior West
   * Extra - instance_id: 125934
-  > Horizontal Dock to Exterior Zeta Nest West Access
+  > Horizontal Dock to Exterior Spiky Trial
       Movement (Beginner)
   > Tunnel to Plasma Beam Chamber
       Space Jump Wall
@@ -378,7 +378,7 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
   * Layers: default
   * Normal Door to Inner Save Station West Access/Door to Tower Exterior West
   * Extra - instance_id: 125935
-  > Horizontal Dock to Exterior Zeta Nest West Access
+  > Horizontal Dock to Exterior Spiky Trial
       Movement (Intermediate)
   > Door to Power Plant Entrance
       Trivial
@@ -393,15 +393,15 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
       Trivial
 
 ----------------
-Exterior Zeta Nest East Access
+Exterior Spike Hallway
 Extra - map_name: rm_a4h05
 Extra - minimap_data: [{'x': 38, 'y': 37}, {'x': 39, 'y': 37}, {'x': 40, 'y': 37}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
-> Horizontal Dock to Exterior Zeta Nest East; Heals? False
+> Horizontal Dock to Exterior Zeta Den East; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Exterior Zeta Nest East/Horizontal Dock to Exterior Zeta Nest East Access
-  > Horizontal Dock to Tower Exterior South East
+  * 3-Tiles High Dock to Exterior Zeta Den East/Horizontal Dock to Exterior Spike Hallway
+  > Horizontal Dock to Tower Exterior Southeast
       Any of the following:
           Space Jump
           Hi-Jump Boots and Morph Glide (Intermediate)
@@ -409,10 +409,10 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
           Diagonal Infinite Bomb Jumping (Intermediate) and Can IBJ and Can Use Bombs
           Speed Booster and Shinesparking Tricks (Intermediate)
 
-> Horizontal Dock to Tower Exterior South East; Heals? False
+> Horizontal Dock to Tower Exterior Southeast; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Tower Exterior South East/Horizontal Dock to Exterior Zeta Nest East Access
-  > Horizontal Dock to Exterior Zeta Nest East
+  * 3-Tiles High Dock to Tower Exterior Southeast/Horizontal Dock to Exterior Spike Hallway
+  > Horizontal Dock to Exterior Zeta Den East
       Any of the following:
           Space Jump or Can Use Spider Ball
           Damage Boost (Beginner) and Normal Damage ≥ 50
@@ -420,14 +420,14 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
           Diagonal Infinite Bomb Jumping (Intermediate) and Can IBJ and Can Use Bombs
 
 ----------------
-Exterior Zeta Nest East
+Exterior Zeta Den East
 Extra - map_name: rm_a4h06
 Extra - minimap_data: [{'x': 41, 'y': 37}, {'x': 42, 'y': 37}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
-> Horizontal Dock to Exterior Zeta Nest East Access; Heals? False
+> Horizontal Dock to Exterior Spike Hallway; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Exterior Zeta Nest East Access/Horizontal Dock to Exterior Zeta Nest East
+  * 3-Tiles High Dock to Exterior Spike Hallway/Horizontal Dock to Exterior Zeta Den East
   > Event - Zeta
       All of the following:
           Defeat Zeta
@@ -439,7 +439,7 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 > Event - Zeta; Heals? False
   * Layers: default
   * Event Metroids Area 4 - Right Zeta
-  > Horizontal Dock to Exterior Zeta Nest East Access
+  > Horizontal Dock to Exterior Spike Hallway
       Speed Booster or High Mid-Air Morph Tunnel Climb
   > Pickup (Zeta)
       Trivial
@@ -452,21 +452,21 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
       Trivial
 
 ----------------
-Gamma Nest South East
+Gamma Den Southeast
 Extra - map_name: rm_a4h07
 Extra - minimap_data: [{'x': 37, 'y': 33}, {'x': 37, 'y': 34}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
-> Vertical Dock to Tower Exterior South East; Heals? False
+> Vertical Dock to Tower Exterior Southeast; Heals? False
   * Layers: default
-  * 4-Tiles Wide Dock to Tower Exterior South East/Vertical Dock to Gamma Nest South East
+  * 4-Tiles Wide Dock to Tower Exterior Southeast/Vertical Dock to Gamma Den Southeast
   > Event - Gamma
       Defeat dodging Gamma
 
 > Event - Gamma; Heals? False
   * Layers: default
   * Event Metroids Area 4 - Right Bottom Gamma
-  > Vertical Dock to Tower Exterior South East
+  > Vertical Dock to Tower Exterior Southeast
       Trivial
   > Pickup (Gamma)
       Trivial
@@ -479,14 +479,14 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
       Trivial
 
 ----------------
-Gamma Nest North East Access
+Exterior Spikeway
 Extra - map_name: rm_a4h08
 Extra - minimap_data: [{'x': 37, 'y': 28}, {'x': 38, 'y': 28}, {'x': 39, 'y': 28}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
-> Horizontal Dock to Gamma Nest North East; Heals? False
+> Horizontal Dock to Gamma Den Northeast; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Gamma Nest North East/Horizontal Dock to Gamma Nest North East Access
+  * 3-Tiles High Dock to Gamma Den Northeast/Horizontal Dock to Exterior Spikeway
   > Middle
       Any of the following:
           Space Jump
@@ -498,7 +498,7 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 
 > Door to Tower Exterior North; Heals? False
   * Layers: default
-  * Open Transition to Tower Exterior North/Door to Gamma Nest North East Access
+  * Open Transition to Tower Exterior North/Door to Exterior Spikeway
   * Extra - instance_id: 126520
   * Extra - facing: right
   * Extra - x: 0
@@ -511,7 +511,7 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 
 > Middle; Heals? False
   * Layers: default
-  > Horizontal Dock to Gamma Nest North East
+  > Horizontal Dock to Gamma Den Northeast
       Any of the following:
           Space Jump
           Damage Boost (Beginner) and Normal Damage ≥ 100
@@ -521,21 +521,21 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
           Damage Boost (Beginner) and Normal Damage ≥ 50
 
 ----------------
-Gamma Nest North East
+Gamma Den Northeast
 Extra - map_name: rm_a4h09
 Extra - minimap_data: [{'x': 40, 'y': 28}, {'x': 41, 'y': 28}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
-> Horizontal Dock to Gamma Nest North East Access; Heals? False
+> Horizontal Dock to Exterior Spikeway; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Gamma Nest North East Access/Horizontal Dock to Gamma Nest North East
+  * 3-Tiles High Dock to Exterior Spikeway/Horizontal Dock to Gamma Den Northeast
   > Event - Gamma
       Defeat dodging Gamma
 
 > Event - Gamma; Heals? False
   * Layers: default
   * Event Metroids Area 4 - Right Top Gamma
-  > Horizontal Dock to Gamma Nest North East Access
+  > Horizontal Dock to Exterior Spikeway
       Trivial
   > Pickup (Gamma)
       Trivial
@@ -548,14 +548,14 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
       Trivial
 
 ----------------
-Gamma Nest West Access
+Exterior Spiky Speedway
 Extra - map_name: rm_a4h10
 Extra - minimap_data: [{'x': 27, 'y': 36}, {'x': 28, 'y': 36}, {'x': 29, 'y': 36}, {'x': 30, 'y': 36}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 > Door to Tower Exterior West; Heals? False
   * Layers: default
-  * Open Transition to Tower Exterior West/Door to Gamma Nest West Access
+  * Open Transition to Tower Exterior West/Door to Exterior Spiky Speedway
   * Extra - instance_id: 127042
   * Extra - facing: left
   * Extra - x: 1280
@@ -571,9 +571,9 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
                   Walljump (Intermediate) and Can Walljump
           Hi-Jump Boots and Mid-Air Morph (Intermediate)
 
-> Horizontal Dock to Gamma Nest West; Heals? False
+> Horizontal Dock to Gamma Den West; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Gamma Nest West/Horizontal Dock to Gamma Nest West Access
+  * 3-Tiles High Dock to Gamma Den West/Horizontal Dock to Exterior Spiky Speedway
   > Left Spike Tunnel
       Any of the following:
           Space Jump
@@ -586,7 +586,7 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 
 > Left Spike Tunnel; Heals? False
   * Layers: default
-  > Horizontal Dock to Gamma Nest West
+  > Horizontal Dock to Gamma Den West
       Any of the following:
           Space Jump
           All of the following:
@@ -618,21 +618,21 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
           Damage Boost (Beginner) and Normal Damage ≥ 25
 
 ----------------
-Gamma Nest West
+Gamma Den West
 Extra - map_name: rm_a4h11
 Extra - minimap_data: [{'x': 25, 'y': 36}, {'x': 26, 'y': 36}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
-> Horizontal Dock to Gamma Nest West Access; Heals? False
+> Horizontal Dock to Exterior Spiky Speedway; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Gamma Nest West Access/Horizontal Dock to Gamma Nest West
+  * 3-Tiles High Dock to Exterior Spiky Speedway/Horizontal Dock to Gamma Den West
   > Event - Gamma
       Defeat dodging Gamma
 
 > Event - Gamma; Heals? False
   * Layers: default
   * Event Metroids Area 4 - Left Gamma
-  > Horizontal Dock to Gamma Nest West Access
+  > Horizontal Dock to Exterior Spiky Speedway
       Trivial
   > Pickup (Gamma)
       Trivial
@@ -645,14 +645,14 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
       Trivial
 
 ----------------
-Exterior Zeta Nest West Access
+Exterior Spiky Trial
 Extra - map_name: rm_a4h12
 Extra - minimap_data: [{'x': 28, 'y': 41}, {'x': 28, 'y': 42}, {'x': 29, 'y': 41}, {'x': 29, 'y': 42}, {'x': 30, 'y': 41}, {'x': 30, 'y': 42}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 > Horizontal Dock to Tower Exterior West; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Tower Exterior West/Horizontal Dock to Exterior Zeta Nest West Access
+  * 3-Tiles High Dock to Tower Exterior West/Horizontal Dock to Exterior Spiky Trial
   > Middle Platform
       Any of the following:
           Space Jump or Movement (Intermediate)
@@ -663,9 +663,9 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
           Space Jump or Movement (Intermediate)
           Damage Boost (Beginner) and Normal Damage ≥ 25
 
-> Door to Exterior Zeta Nest West; Heals? False
+> Door to Exterior Zeta Den West; Heals? False
   * Layers: default
-  * Open Transition to Exterior Zeta Nest West/Door to Exterior Zeta Nest West Access
+  * Open Transition to Exterior Zeta Den West/Door to Exterior Spiky Trial
   * Extra - instance_id: 127419
   * Extra - facing: right
   * Extra - x: 0
@@ -682,7 +682,7 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 
 > Middle Left Platform; Heals? False
   * Layers: default
-  > Door to Exterior Zeta Nest West
+  > Door to Exterior Zeta Den West
       Any of the following:
           Space Jump
           # IBJ + DIBJ at top
@@ -728,14 +728,14 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
           Hi-Jump Boots and Morph Ball and Mid-Air Morph (Advanced)
 
 ----------------
-Exterior Zeta Nest West
+Exterior Zeta Den West
 Extra - map_name: rm_a4h13
 Extra - minimap_data: [{'x': 25, 'y': 42}, {'x': 26, 'y': 42}, {'x': 27, 'y': 42}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
-> Door to Exterior Zeta Nest West Access; Heals? False
+> Door to Exterior Spiky Trial; Heals? False
   * Layers: default
-  * Open Transition to Exterior Zeta Nest West Access/Door to Exterior Zeta Nest West
+  * Open Transition to Exterior Spiky Trial/Door to Exterior Zeta Den West
   * Extra - instance_id: 127472
   * Extra - facing: left
   * Extra - x: 960
@@ -746,7 +746,7 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 > Event - Zeta; Heals? False
   * Layers: default
   * Event Metroids Area 4 - Left Zeta
-  > Door to Exterior Zeta Nest West Access
+  > Door to Exterior Spiky Trial
       Trivial
   > Pickup (Zeta)
       Trivial
@@ -768,12 +768,12 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 > Save Station; Heals? True; Spawn Point; Default Node
   * Layers: default
   * Extra - save_room: 15
-  > Door to Tower Exterior North East
+  > Door to Tower Exterior Northeast
       Trivial
 
-> Door to Tower Exterior North East; Heals? False
+> Door to Tower Exterior Northeast; Heals? False
   * Layers: default
-  * Open Transition to Tower Exterior North East/Door to Exterior Save Station
+  * Open Transition to Tower Exterior Northeast/Door to Exterior Save Station
   * Extra - instance_id: 127504
   * Extra - facing: right
   * Extra - x: 0
@@ -787,9 +787,9 @@ Extra - map_name: rm_a4h15
 Extra - minimap_data: [{'x': 38, 'y': 42}, {'x': 38, 'y': 43}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
-> Door to Tower Exterior South East; Heals? False
+> Door to Tower Exterior Southeast; Heals? False
   * Layers: default
-  * Open Transition to Tower Exterior South East/Door to Southern Cave Pipe Access
+  * Open Transition to Tower Exterior Southeast/Door to Southern Cave Pipe Access
   * Extra - instance_id: 127511
   * Extra - facing: right
   * Extra - x: 0
@@ -804,7 +804,7 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
   * Extra - facing: right
   * Extra - x: 0
   * Extra - y: 416
-  > Door to Tower Exterior South East
+  > Door to Tower Exterior Southeast
       Space Jump Wall
   > Pickup (Missile Tank)
       Trivial
@@ -834,7 +834,7 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 
 > Pipe to Hydro Station; Heals? False
   * Layers: default
-  * Teleporter to Inner Hydro Station Pipe/Pipe to The Tower
+  * Teleporter to Inner Station Pipe/Pipe to The Tower
   * Extra - instance_id: 127561
   * Extra - dest_x: 200
   * Extra - dest_y: 128
@@ -847,9 +847,9 @@ Extra - map_name: rm_a4a01
 Extra - minimap_data: [{'x': 35, 'y': 39}, {'x': 35, 'y': 40}, {'x': 35, 'y': 41}]
 Extra - light_level: tower
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
-> Door to Tower Exterior South East; Heals? False
+> Door to Tower Exterior Southeast; Heals? False
   * Layers: default
-  * Normal Door to Tower Exterior South East/Door to Inner Save Station East Access
+  * Normal Door to Tower Exterior Southeast/Door to Inner Save Station East Access
   * Extra - instance_id: 127649
   > Door to Inner Save Station
       Space Jump Wall
@@ -862,13 +862,13 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
   * Layers: default
   * Normal Door to Inner Save Station/Door to Inner Save Station East Access
   * Extra - instance_id: 127650
-  > Door to Tower Exterior South East
+  > Door to Tower Exterior Southeast
       Trivial
 
 > Horizontal Dock to Inner Tower Pipe; Heals? False
   * Layers: default
   * 3-Tiles High Dock to Inner Tower Pipe/Horizontal Dock to Inner Save Station East Access
-  > Door to Tower Exterior South East
+  > Door to Tower Exterior Southeast
       Screw Attack or Disabled Screw Attack Pipe Blocks
 
 ----------------
@@ -1179,9 +1179,9 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
   > Middle in Tunnel
       Can Use Any Bombs
 
-> Door to Tower Exterior North East; Heals? False
+> Door to Tower Exterior Northeast; Heals? False
   * Layers: default
-  * Tower Energy Restored Door to Tower Exterior North East/Door to Plasma Beam Chamber Access
+  * Tower Energy Restored Door to Tower Exterior Northeast/Door to Plasma Beam Chamber Access
   * Extra - instance_id: 128625
   > Door to Plasma Beam Chamber
       Trivial
@@ -1199,7 +1199,7 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
   * Layers: default
   * Tower Energy Restored Door to Plasma Beam Chamber/Door to Plasma Beam Chamber Access
   * Extra - instance_id: 128607
-  > Door to Tower Exterior North East
+  > Door to Tower Exterior Northeast
       Trivial
   > Middle in Tunnel
       Can Use Any Bombs
@@ -1239,45 +1239,45 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
       Trivial
 
 ----------------
-Inner Zeta Nest Access
+Inner Shielder Stockpile
 Extra - map_name: rm_a4a11
 Extra - minimap_data: [{'x': 33, 'y': 32}, {'x': 34, 'y': 32}, {'x': 35, 'y': 32}]
 Extra - light_level: tower
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
-> Vertical Dock to Inner Zeta Nest; Heals? False
+> Vertical Dock to Inner Zeta Den; Heals? False
   * Layers: default
-  * 2-Tiles Wide Dock to Inner Zeta Nest/Vertical Dock to Inner Zeta Nest Access
+  * 2-Tiles Wide Dock to Inner Zeta Den/Vertical Dock to Inner Shielder Stockpile
   > Middle
       Trivial
 
-> Tunnel to Tower Exterior North East; Heals? False
+> Tunnel to Tower Exterior Northeast; Heals? False
   * Layers: default
-  * Morph Ball Tunnel to Tower Exterior North East/Tunnel to Inner Zeta Nest Access
+  * Morph Ball Tunnel to Tower Exterior Northeast/Tunnel to Inner Shielder Stockpile
   > Middle
       Can Use Any Bombs
 
 > Middle; Heals? False
   * Layers: default
-  > Vertical Dock to Inner Zeta Nest
+  > Vertical Dock to Inner Zeta Den
       Any of the following:
           Space Jump or Can Use Spider Ball
           Hi-Jump Boots and Walljump (Beginner) and Can Walljump
           Speed Booster and Shinesparking Tricks (Beginner)
           Walljump (Intermediate) and Can Walljump
-  > Tunnel to Tower Exterior North East
+  > Tunnel to Tower Exterior Northeast
       Any of the following:
           Morph Ball and Power Grip Wall
           Can Use Any Bombs and High Mid-Air Morph Tunnel Climb
 
 ----------------
-Inner Zeta Nest
+Inner Zeta Den
 Extra - map_name: rm_a4a12
 Extra - minimap_data: [{'x': 33, 'y': 31}, {'x': 34, 'y': 31}, {'x': 35, 'y': 31}]
 Extra - light_level: tower
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
-> Vertical Dock to Inner Zeta Nest Access; Heals? False
+> Vertical Dock to Inner Shielder Stockpile; Heals? False
   * Layers: default
-  * 2-Tiles Wide Dock to Inner Zeta Nest Access/Vertical Dock to Inner Zeta Nest
+  * 2-Tiles Wide Dock to Inner Shielder Stockpile/Vertical Dock to Inner Zeta Den
   > Event - Zeta
       All of the following:
           Can Use Any Bombs and Defeat Zeta
@@ -1300,7 +1300,7 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 > Event - Zeta; Heals? False
   * Layers: default
   * Event Metroids Area 4 - Interior Zeta
-  > Vertical Dock to Inner Zeta Nest Access
+  > Vertical Dock to Inner Shielder Stockpile
       Can Use Any Bombs and High Mid-Air Morph Tunnel Climb
   > Pickup (Zeta)
       Trivial
