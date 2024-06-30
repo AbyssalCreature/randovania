@@ -1,12 +1,12 @@
 ----------------
-Hydro Station Entrance
+Station Entrance Alpha Den
 Extra - map_name: rm_a2h01
 Extra - minimap_data: [{'x': 41, 'y': 21}, {'x': 42, 'y': 21}, {'x': 43, 'y': 21}, {'x': 44, 'y': 21}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 > Horizontal Dock to Hydro Station Exterior; Heals? False
   * Layers: default
-  * 2-Tiles High Dock to Hydro Station Exterior/Horizontal Dock to Hydro Station Entrance
+  * 2-Tiles High Dock to Hydro Station Exterior/Horizontal Dock to Station Entrance Alpha Den
   > Door to Main Caves
       Tunnel Climb
 
@@ -43,9 +43,9 @@ Extra - map_name: rm_a2h02
 Extra - minimap_data: [{'x': 29, 'y': 18}, {'x': 29, 'y': 19}, {'x': 29, 'y': 20}, {'x': 29, 'y': 21}, {'x': 29, 'y': 22}, {'x': 30, 'y': 18}, {'x': 30, 'y': 19}, {'x': 30, 'y': 20}, {'x': 30, 'y': 21}, {'x': 30, 'y': 22}, {'x': 31, 'y': 18}, {'x': 31, 'y': 19}, {'x': 31, 'y': 20}, {'x': 31, 'y': 21}, {'x': 31, 'y': 22}, {'x': 32, 'y': 16}, {'x': 32, 'y': 17}, {'x': 32, 'y': 18}, {'x': 32, 'y': 19}, {'x': 33, 'y': 16}, {'x': 33, 'y': 17}, {'x': 33, 'y': 18}, {'x': 33, 'y': 19}, {'x': 34, 'y': 16}, {'x': 34, 'y': 17}, {'x': 35, 'y': 16}, {'x': 35, 'y': 17}, {'x': 36, 'y': 16}, {'x': 36, 'y': 17}, {'x': 37, 'y': 16}, {'x': 37, 'y': 17}, {'x': 37, 'y': 18}, {'x': 37, 'y': 19}, {'x': 37, 'y': 20}, {'x': 38, 'y': 16}, {'x': 38, 'y': 17}, {'x': 38, 'y': 18}, {'x': 38, 'y': 19}, {'x': 38, 'y': 20}, {'x': 39, 'y': 19}, {'x': 39, 'y': 20}, {'x': 39, 'y': 21}, {'x': 40, 'y': 19}, {'x': 40, 'y': 20}, {'x': 40, 'y': 21}]
 Extra - light_level: 0
 Extra - comment: liquid info intentionally left blank, due to room having multiple states.
-> Horizontal Dock to Hydro Station Entrance; Heals? False
+> Horizontal Dock to Station Entrance Alpha Den; Heals? False
   * Layers: default
-  * 2-Tiles High Dock to Hydro Station Entrance/Horizontal Dock to Hydro Station Exterior
+  * 2-Tiles High Dock to Station Entrance Alpha Den/Horizontal Dock to Hydro Station Exterior
   > Door to Broken Save Station
       Trivial
   > Vertical Dock to Arachnus Save Station
@@ -62,7 +62,7 @@ Extra - comment: liquid info intentionally left blank, due to room having multip
   * Extra - facing: right
   * Extra - x: 3200
   * Extra - y: 1360
-  > Horizontal Dock to Hydro Station Entrance
+  > Horizontal Dock to Station Entrance Alpha Den
       Trivial
 
 > Door to Inner Save Station; Heals? False
@@ -79,9 +79,9 @@ Extra - comment: liquid info intentionally left blank, due to room having multip
   > Middle Left
       Power Grip or Hijump Wall
 
-> Door to Inner Alpha Nest North; Heals? False
+> Door to Inner Alpha Den North; Heals? False
   * Layers: default
-  * Open Transition to Inner Alpha Nest North/Door to Hydro Station Exterior
+  * Open Transition to Inner Alpha Den North/Door to Hydro Station Exterior
   * Extra - instance_id: 110051
   * Extra - facing: left
   * Extra - x: 1600
@@ -89,18 +89,18 @@ Extra - comment: liquid info intentionally left blank, due to room having multip
   > Middle Left
       Morph Ball
 
-> Tunnel to Inner Alpha Nest North; Heals? False
+> Tunnel to Inner Alpha Den North; Heals? False
   * Layers: default
-  * Morph Ball Tunnel to Inner Alpha Nest North/Tunnel to Hydro Station Exterior
+  * Morph Ball Tunnel to Inner Alpha Den North/Tunnel to Hydro Station Exterior
   > Door to Broken Save Station
       Trivial
 
 > Vertical Dock to Arachnus Save Station; Heals? False
   * Layers: default
   * 2-Tiles Wide Dock to Arachnus Save Station/Vertical Dock to Hydro Station Exterior
-  > Tunnel to Inner Alpha Nest North
+  > Tunnel to Inner Alpha Den North
       Trivial
-  > Horizontal Dock to Exterior Alpha Nest
+  > Horizontal Dock to Station Exterior Alpha Den
       Any of the following:
           Space Jump
           # IBJ
@@ -143,9 +143,9 @@ Extra - comment: liquid info intentionally left blank, due to room having multip
   > Door to Inner Save Station
       Trivial
 
-> Horizontal Dock to Exterior Alpha Nest; Heals? False
+> Horizontal Dock to Station Exterior Alpha Den; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Exterior Alpha Nest/Horizontal Dock to Hydro Station Exterior
+  * 3-Tiles High Dock to Station Exterior Alpha Den/Horizontal Dock to Hydro Station Exterior
   > Horizontal Dock to Breeding Grounds Entrance (Top)
       Can Use Spider Ball
   > Middle Left
@@ -174,7 +174,7 @@ Extra - comment: liquid info intentionally left blank, due to room having multip
   * Layers: default
   > Door to Inner Save Station
       Trivial
-  > Door to Inner Alpha Nest North
+  > Door to Inner Alpha Den North
       Morph Ball
   > Vertical Dock to Arachnus Save Station
       Any of the following:
@@ -209,18 +209,18 @@ Extra - comment: liquid info intentionally left blank, due to room having multip
       Trivial
   > Vertical Dock to Arachnus Save Station
       Can Use Spider Ball
-  > Horizontal Dock to Exterior Alpha Nest
+  > Horizontal Dock to Station Exterior Alpha Den
       Can Use Spider Ball
 
 ----------------
-Exterior Alpha Nest
+Station Exterior Alpha Den
 Extra - map_name: rm_a2h03
 Extra - minimap_data: [{'x': 30, 'y': 17}, {'x': 31, 'y': 17}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 > Horizontal Dock to Hydro Station Exterior; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Hydro Station Exterior/Horizontal Dock to Exterior Alpha Nest
+  * 3-Tiles High Dock to Hydro Station Exterior/Horizontal Dock to Station Exterior Alpha Den
   > Event - Alpha
       Defeat dodging Alpha
 
@@ -327,21 +327,21 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
       Morph Ball
 
 ----------------
-Autrack Corridor Right Water Pipe
+Autrack Corridor East Duct
 Extra - map_name: rm_a2a02A
 Extra - minimap_data: []
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
-> Vertical Dock to Varia Chamber Access Water Pipe; Heals? False
+> Vertical Dock to Water Pressure Duct; Heals? False
   * Layers: default
-  * 1-Tiles Wide Dock to Varia Chamber Access Water Pipe/Vertical Dock to Autrack Corridor Right Water Pipe
-  > Vertical Dock to Wave Beam Chamber Access
+  * 1-Tiles Wide Dock to Water Pressure Duct/Vertical Dock to Autrack Corridor East Duct
+  > Vertical Dock to Hydromotor Intersection
       Trivial
 
-> Vertical Dock to Wave Beam Chamber Access; Heals? False
+> Vertical Dock to Hydromotor Intersection; Heals? False
   * Layers: default
-  * 1-Tiles Wide Dock to Wave Beam Chamber Access/Vertical Dock to Autrack Corridor Right Water Pipe
-  > Vertical Dock to Varia Chamber Access Water Pipe
+  * 1-Tiles Wide Dock to Hydromotor Intersection/Vertical Dock to Autrack Corridor East Duct
+  > Vertical Dock to Water Pressure Duct
       Any of the following:
           Space Jump or Can Use Spider Ball
           Morph Ball and Disabled Entrance Rando
@@ -349,25 +349,25 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
           Walljump (Advanced) and Can Walljump
 
 ----------------
-Autrack Corridor Left Water Pipe
+Autrack Corridor West Duct
 Extra - map_name: rm_a2a02B
 Extra - minimap_data: []
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
-> Vertical Dock to Wave Beam Chamber Access Water Pipe; Heals? False
+> Vertical Dock to Hydromotor Duct; Heals? False
   * Layers: default
-  * 1-Tiles Wide Dock to Wave Beam Chamber Access Water Pipe/Vertical Dock to Autrack Corridor Left Water Pipe
-  > Vertical Dock to Varia Chamber Access
+  * 1-Tiles Wide Dock to Hydromotor Duct/Vertical Dock to Autrack Corridor West Duct
+  > Vertical Dock to Water Pressure Puzzle
       Any of the following:
           Space Jump or Can Use Spider Ball
           Morph Ball and After Metroids Area 2 - Interior Lower Alpha and Disabled Entrance Rando
           Hi-Jump Boots and Walljump (Intermediate) and Can Walljump
           Walljump (Advanced) and Can Walljump
 
-> Vertical Dock to Varia Chamber Access; Heals? False
+> Vertical Dock to Water Pressure Puzzle; Heals? False
   * Layers: default
-  * 1-Tiles Wide Dock to Varia Chamber Access/Vertical Dock to Autrack Corridor Left Water Pipe
-  > Vertical Dock to Wave Beam Chamber Access Water Pipe
+  * 1-Tiles Wide Dock to Water Pressure Puzzle/Vertical Dock to Autrack Corridor West Duct
+  > Vertical Dock to Hydromotor Duct
       Trivial
 
 ----------------
@@ -455,32 +455,32 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
       Trivial
 
 ----------------
-Inner Alpha Nest North
+Inner Alpha Den North
 Extra - map_name: rm_a2a05
 Extra - minimap_data: [{'x': 34, 'y': 19}, {'x': 35, 'y': 19}, {'x': 36, 'y': 19}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 > Door to Hydro Station Exterior; Heals? False
   * Layers: default
-  * Open Transition to Hydro Station Exterior/Door to Inner Alpha Nest North
+  * Open Transition to Hydro Station Exterior/Door to Inner Alpha Den North
   * Extra - instance_id: 110489
   * Extra - facing: right
   * Extra - x: 0
   * Extra - y: 192
-  > Vertical Dock to Varia Chamber Access Water Pipe
+  > Vertical Dock to Water Pressure Duct
       Can Use Any Bombs and High Mid-Air Morph Tunnel Climb
   > Event - Alpha
       Defeat dodging Alpha
 
 > Tunnel to Hydro Station Exterior; Heals? False
   * Layers: default
-  * Morph Ball Tunnel to Hydro Station Exterior/Tunnel to Inner Alpha Nest North
+  * Morph Ball Tunnel to Hydro Station Exterior/Tunnel to Inner Alpha Den North
   > Pickup (Missile Tank)
       Morph Ball
 
-> Vertical Dock to Varia Chamber Access Water Pipe; Heals? False
+> Vertical Dock to Water Pressure Duct; Heals? False
   * Layers: default
-  * 1-Tiles Wide Dock to Varia Chamber Access Water Pipe/Vertical Dock to Inner Alpha Nest North
+  * 1-Tiles Wide Dock to Water Pressure Duct/Vertical Dock to Inner Alpha Den North
   > Door to Hydro Station Exterior
       All of the following:
           Can Use Any Bombs
@@ -512,16 +512,16 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
       Trivial
 
 ----------------
-Varia Chamber Access
+Water Pressure Puzzle
 Extra - map_name: rm_a2a06
 Extra - minimap_data: [{'x': 34, 'y': 20}, {'x': 35, 'y': 20}, {'x': 36, 'y': 20}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
-> Door to Varia Chamber; Heals? False
+> Door to Varia Suit Chamber; Heals? False
   * Layers: default
-  * Missile Door to Varia Chamber/Door to Varia Chamber Access
+  * Missile Door to Varia Suit Chamber/Door to Water Pressure Puzzle
   * Extra - instance_id: 110608
-  > Vertical Dock to Autrack Corridor Left Water Pipe
+  > Vertical Dock to Autrack Corridor West Duct
       Tunnel Climb
   > Top tunnel
       All of the following:
@@ -538,10 +538,10 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
                       Walljump (Intermediate) and Can Walljump
                   Power Grip or Mid-Air Morph (Intermediate)
 
-> Vertical Dock to Autrack Corridor Left Water Pipe; Heals? False
+> Vertical Dock to Autrack Corridor West Duct; Heals? False
   * Layers: default
-  * 1-Tiles Wide Dock to Autrack Corridor Left Water Pipe/Vertical Dock to Varia Chamber Access
-  > Door to Varia Chamber
+  * 1-Tiles Wide Dock to Autrack Corridor West Duct/Vertical Dock to Water Pressure Puzzle
+  > Door to Varia Suit Chamber
       Any of the following:
           High Mid-Air Morph Tunnel Climb
           # Movement directly from pipe to tunnel
@@ -558,27 +558,27 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 
 > Top tunnel; Heals? False
   * Layers: default
-  > Door to Varia Chamber
+  > Door to Varia Suit Chamber
       Can Use Any Bombs
   > Pickup (Missile Tank)
       Can Use Any Bombs
 
 ----------------
-Varia Chamber Access Water Pipe
+Water Pressure Duct
 Extra - map_name: rm_a2a06A
 Extra - minimap_data: []
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
-> Vertical Dock to Inner Alpha Nest North; Heals? False
+> Vertical Dock to Inner Alpha Den North; Heals? False
   * Layers: default
-  * 1-Tiles Wide Dock to Inner Alpha Nest North/Vertical Dock to Varia Chamber Access Water Pipe
-  > Vertical Dock to Autrack Corridor Right Water Pipe
+  * 1-Tiles Wide Dock to Inner Alpha Den North/Vertical Dock to Water Pressure Duct
+  > Vertical Dock to Autrack Corridor East Duct
       Morph Ball
 
-> Vertical Dock to Autrack Corridor Right Water Pipe; Heals? False
+> Vertical Dock to Autrack Corridor East Duct; Heals? False
   * Layers: default
-  * 1-Tiles Wide Dock to Autrack Corridor Right Water Pipe/Vertical Dock to Varia Chamber Access Water Pipe
-  > Vertical Dock to Inner Alpha Nest North
+  * 1-Tiles Wide Dock to Autrack Corridor East Duct/Vertical Dock to Water Pressure Duct
+  > Vertical Dock to Inner Alpha Den North
       All of the following:
           Morph Ball
           Any of the following:
@@ -592,14 +592,14 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
                   Power Grip or Mid-Air Morph (Intermediate)
 
 ----------------
-Varia Chamber
+Varia Suit Chamber
 Extra - map_name: rm_a2a07
 Extra - minimap_data: [{'x': 32, 'y': 20}, {'x': 33, 'y': 20}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
-> Door to Varia Chamber Access; Heals? False
+> Door to Water Pressure Puzzle; Heals? False
   * Layers: default
-  * Normal Door to Varia Chamber Access/Door to Varia Chamber
+  * Normal Door to Water Pressure Puzzle/Door to Varia Suit Chamber
   * Extra - instance_id: 110748
   > Pickup (Varia Suit)
       Can Use Any Bombs
@@ -608,7 +608,7 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
   * Layers: default
   * Pickup 5; Category? Major
   * Extra - object_name: oItemVaria
-  > Door to Varia Chamber Access
+  > Door to Water Pressure Puzzle
       Can Use Any Bombs and Low Mid-Air Morph Tunnel Climb
 
 ----------------
@@ -626,9 +626,9 @@ an open transition!
   > Event - Water Lowered
       Trivial
 
-> Door to Inner Alpha Nest South; Heals? False
+> Door to Inner Alpha Den South; Heals? False
   * Layers: default
-  * Open Transition to Inner Alpha Nest South/Door to Water Turbine Station
+  * Open Transition to Inner Alpha Den South/Door to Water Turbine Station
   * Extra - instance_id: 110796
   * Extra - facing: left
   * Extra - x: 320
@@ -636,9 +636,9 @@ an open transition!
   > Event - Bottom Water Turbine
       Trivial
 
-> Horizontal Dock to Water Turbine Station Pipe; Heals? False
+> Horizontal Dock to Water Turbine Pipe; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Water Turbine Station Pipe/Horizontal Dock to Water Turbine Station
+  * 3-Tiles High Dock to Water Turbine Pipe/Horizontal Dock to Water Turbine Station
   > Event - Bottom Water Turbine
       Screw Attack or Disabled Screw Attack Pipe Blocks
 
@@ -671,9 +671,9 @@ an open transition!
 > Event - Bottom Water Turbine; Heals? False
   * Layers: default
   * Event Area 2 - Hydro Station Bottom Water Turbine Destroyed
-  > Door to Inner Alpha Nest South
+  > Door to Inner Alpha Den South
       Trivial
-  > Horizontal Dock to Water Turbine Station Pipe
+  > Horizontal Dock to Water Turbine Pipe
       Screw Attack or Disabled Screw Attack Pipe Blocks
   > Event - Middle Water Turbine
       Power Grip Wall
@@ -686,19 +686,19 @@ an open transition!
       Can Use Any Bombs
 
 ----------------
-Inner Alpha Nest South
+Inner Alpha Den South
 Extra - map_name: rm_a2a09
 Extra - minimap_data: [{'x': 33, 'y': 23}, {'x': 34, 'y': 23}, {'x': 35, 'y': 23}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 192, 'should_wave': True, 'wave_speed': 0.01, 'wave_height': 0.1}
 > Door to Water Turbine Station; Heals? False
   * Layers: default
-  * Open Transition to Water Turbine Station/Door to Inner Alpha Nest South
+  * Open Transition to Water Turbine Station/Door to Inner Alpha Den South
   * Extra - instance_id: 110869
   * Extra - facing: right
   * Extra - x: 0
   * Extra - y: 208
-  > Vertical Dock to Wave Beam Chamber Access Water Pipe
+  > Vertical Dock to Hydromotor Duct
       Any of the following:
           Hi-Jump Boots or Space Jump or Can Use Spider Ball
           # Use water pipe
@@ -706,7 +706,7 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 192, 'should_wave': True
           # Shinespark up
           Gravity Suit and Speed Booster and Shinesparking Tricks (Intermediate)
           Walljump (Intermediate) and Can Walljump
-  > Door to Inner Hydro Station Pipe
+  > Door to Inner Station Pipe
       Screw Attack or Disabled Screw Attack Pipe Blocks
   > Event - Alpha
       Defeat dodging Alpha
@@ -744,15 +744,15 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 192, 'should_wave': True
           # IBJ https://www.youtube.com/watch?v=-dcePWj-7jI
           Infinite Bomb Jumping (Intermediate) and Can IBJ and Can Use Bombs
 
-> Vertical Dock to Wave Beam Chamber Access Water Pipe; Heals? False
+> Vertical Dock to Hydromotor Duct; Heals? False
   * Layers: default
-  * 1-Tiles Wide Dock to Wave Beam Chamber Access Water Pipe/Vertical Dock to Inner Alpha Nest South
+  * 1-Tiles Wide Dock to Hydromotor Duct/Vertical Dock to Inner Alpha Den South
   > Door to Water Turbine Station
       Trivial
 
-> Door to Inner Hydro Station Pipe; Heals? False
+> Door to Inner Station Pipe; Heals? False
   * Layers: default
-  * Open Transition to Inner Hydro Station Pipe/Door to Inner Alpha Nest South
+  * Open Transition to Inner Station Pipe/Door to Inner Alpha Den South
   * Extra - instance_id: 110877
   * Extra - facing: left
   * Extra - x: 960
@@ -788,9 +788,9 @@ Extra - map_name: rm_a2a10
 Extra - minimap_data: [{'x': 33, 'y': 22}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
-> Door to Wave Beam Chamber Access; Heals? False
+> Door to Hydromotor Intersection; Heals? False
   * Layers: default
-  * Normal Door to Wave Beam Chamber Access/Door to Wave Beam Chamber
+  * Normal Door to Hydromotor Intersection/Door to Wave Beam Chamber
   * Extra - instance_id: 110894
   > Pickup (Wave Beam)
       Trivial
@@ -799,31 +799,31 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
   * Layers: default
   * Pickup 12; Category? Major
   * Extra - object_name: oItemWBeam
-  > Door to Wave Beam Chamber Access
+  > Door to Hydromotor Intersection
       Trivial
 
 ----------------
-Wave Beam Chamber Access
+Hydromotor Intersection
 Extra - map_name: rm_a2a11
 Extra - minimap_data: [{'x': 34, 'y': 22}, {'x': 35, 'y': 22}, {'x': 36, 'y': 22}, {'x': 37, 'y': 22}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 > Door to Wave Beam Chamber; Heals? False
   * Layers: default
-  * Missile Door to Wave Beam Chamber/Door to Wave Beam Chamber Access
+  * Missile Door to Wave Beam Chamber/Door to Hydromotor Intersection
   * Extra - instance_id: 111055
   > Left Wallfire
       Can Use Any Bombs
 
-> Vertical Dock to Autrack Corridor Right Water Pipe; Heals? False
+> Vertical Dock to Autrack Corridor East Duct; Heals? False
   * Layers: default
-  * 1-Tiles Wide Dock to Autrack Corridor Right Water Pipe/Vertical Dock to Wave Beam Chamber Access
+  * 1-Tiles Wide Dock to Autrack Corridor East Duct/Vertical Dock to Hydromotor Intersection
   > Waterpipe
       Trivial
 
 > Door to Shootblock Stairway; Heals? False
   * Layers: default
-  * Open Transition to Shootblock Stairway/Door to Wave Beam Chamber Access
+  * Open Transition to Shootblock Stairway/Door to Hydromotor Intersection
   * Extra - instance_id: 111054
   * Extra - facing: left
   * Extra - x: 1280
@@ -833,7 +833,7 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 
 > Waterpipe; Heals? False
   * Layers: default
-  > Vertical Dock to Autrack Corridor Right Water Pipe
+  > Vertical Dock to Autrack Corridor East Duct
       Any of the following:
           Hi-Jump Boots or Morph Ball or Space Jump
           Walljump (Intermediate) and Can Walljump
@@ -853,21 +853,21 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
       Can Use Any Bombs
 
 ----------------
-Wave Beam Chamber Access Water Pipe
+Hydromotor Duct
 Extra - map_name: rm_a2a11A
 Extra - minimap_data: []
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
-> Vertical Dock to Autrack Corridor Left Water Pipe; Heals? False
+> Vertical Dock to Autrack Corridor West Duct; Heals? False
   * Layers: default
-  * 1-Tiles Wide Dock to Autrack Corridor Left Water Pipe/Vertical Dock to Wave Beam Chamber Access Water Pipe
-  > Vertical Dock to Inner Alpha Nest South
+  * 1-Tiles Wide Dock to Autrack Corridor West Duct/Vertical Dock to Hydromotor Duct
+  > Vertical Dock to Inner Alpha Den South
       Trivial
 
-> Vertical Dock to Inner Alpha Nest South; Heals? False
+> Vertical Dock to Inner Alpha Den South; Heals? False
   * Layers: default
-  * 1-Tiles Wide Dock to Inner Alpha Nest South/Vertical Dock to Wave Beam Chamber Access Water Pipe
-  > Vertical Dock to Autrack Corridor Left Water Pipe
+  * 1-Tiles Wide Dock to Inner Alpha Den South/Vertical Dock to Hydromotor Duct
+  > Vertical Dock to Autrack Corridor West Duct
       Any of the following:
           Space Jump or Can Use Spider Ball
           Morph Ball and After Metroids Area 2 - Interior Lower Alpha and Disabled Entrance Rando
@@ -880,9 +880,9 @@ Extra - map_name: rm_a2a12
 Extra - minimap_data: [{'x': 38, 'y': 22}, {'x': 38, 'y': 23}, {'x': 38, 'y': 24}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
-> Door to Wave Beam Chamber Access; Heals? False
+> Door to Hydromotor Intersection; Heals? False
   * Layers: default
-  * Open Transition to Wave Beam Chamber Access/Door to Shootblock Stairway
+  * Open Transition to Hydromotor Intersection/Door to Shootblock Stairway
   * Extra - instance_id: 111183
   * Extra - facing: right
   * Extra - x: 0
@@ -910,9 +910,9 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
   > Middle
       Trivial
 
-> Door to Inner Hydro Station Pipe; Heals? False
+> Door to Inner Station Pipe; Heals? False
   * Layers: default
-  * Open Transition to Inner Hydro Station Pipe/Door to Shootblock Stairway
+  * Open Transition to Inner Station Pipe/Door to Shootblock Stairway
   * Extra - instance_id: 111194
   * Extra - facing: right
   * Extra - x: 0
@@ -922,13 +922,13 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 
 > Middle; Heals? False
   * Layers: default
-  > Door to Wave Beam Chamber Access
+  > Door to Hydromotor Intersection
       Trivial
   > Door to Hi-Jump Chamber Access
       Trivial
   > Horizontal Dock to Autoad Playground
       Trivial
-  > Door to Inner Hydro Station Pipe
+  > Door to Inner Station Pipe
       Screw Attack or Disabled Screw Attack Pipe Blocks
 
 ----------------
@@ -976,14 +976,14 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
   * Layers: default
   * Normal Door to Hi-Jump Chamber Access/Door to Hi-Jump Chamber
   * Extra - instance_id: 111277
-  > Tunnel to Hydro Station Basement
+  > Tunnel to Inner Station Basement
       Can Use Any Bombs and Tunnel Climb
   > Pickup (Hi-Jump Boots)
       Trivial
 
-> Tunnel to Hydro Station Basement; Heals? False
+> Tunnel to Inner Station Basement; Heals? False
   * Layers: default
-  * Morph Ball Tunnel to Hydro Station Basement/Tunnel to Hi-Jump Chamber
+  * Morph Ball Tunnel to Inner Station Basement/Tunnel to Hi-Jump Chamber
   > Door to Hi-Jump Chamber Access
       Can Use Any Bombs
 
@@ -1059,12 +1059,12 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
   * Extra - facing: left
   * Extra - x: 320
   * Extra - y: 160
-  > Door to Hydro Station Basement
+  > Door to Inner Station Basement
       Trivial
 
-> Door to Hydro Station Basement; Heals? False
+> Door to Inner Station Basement; Heals? False
   * Layers: default
-  * Open Transition to Hydro Station Basement/Door to Wallfire Venue
+  * Open Transition to Inner Station Basement/Door to Wallfire Venue
   * Extra - instance_id: 111581
   * Extra - facing: left
   * Extra - x: 320
@@ -1073,14 +1073,14 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
       Power Grip Wall
 
 ----------------
-Hydro Station Basement
+Inner Station Basement
 Extra - map_name: rm_a2a17
 Extra - minimap_data: [{'x': 35, 'y': 25}, {'x': 36, 'y': 25}, {'x': 37, 'y': 25}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 > Door to Wallfire Venue; Heals? False
   * Layers: default
-  * Open Transition to Wallfire Venue/Door to Hydro Station Basement
+  * Open Transition to Wallfire Venue/Door to Inner Station Basement
   * Extra - instance_id: 111649
   * Extra - facing: right
   * Extra - x: 0
@@ -1090,7 +1090,7 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 
 > Tunnel to Hi-Jump Chamber; Heals? False
   * Layers: default
-  * Morph Ball Tunnel to Hi-Jump Chamber/Tunnel to Hydro Station Basement
+  * Morph Ball Tunnel to Hi-Jump Chamber/Tunnel to Inner Station Basement
   > Pickup (Energy Tank)
       Morph Ball
   > Pickup (Right Missile Tank)
@@ -1133,14 +1133,14 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
       Can Use Any Bombs
 
 ----------------
-Inner Hydro Station Pipe
+Inner Station Pipe
 Extra - map_name: rm_a2a18
 Extra - minimap_data: [{'x': 36, 'y': 23}, {'x': 37, 'y': 23}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
-> Door to Inner Alpha Nest South; Heals? False; Default Node
+> Door to Inner Alpha Den South; Heals? False; Default Node
   * Layers: default
-  * Open Transition to Inner Alpha Nest South/Door to Inner Hydro Station Pipe
+  * Open Transition to Inner Alpha Den South/Door to Inner Station Pipe
   * Extra - instance_id: 111667
   * Extra - facing: right
   * Extra - x: 0
@@ -1150,12 +1150,12 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 
 > Door to Shootblock Stairway; Heals? False
   * Layers: default
-  * Open Transition to Shootblock Stairway/Door to Inner Hydro Station Pipe
+  * Open Transition to Shootblock Stairway/Door to Inner Station Pipe
   * Extra - instance_id: 111668
   * Extra - facing: left
   * Extra - x: 640
   * Extra - y: 144
-  > Door to Inner Alpha Nest South
+  > Door to Inner Alpha Den South
       Trivial
   > Pipe to The Tower
       Any of the following:
@@ -1177,14 +1177,14 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
       Morph Ball
 
 ----------------
-Water Turbine Station Pipe
+Water Turbine Pipe
 Extra - map_name: rm_a2a19
 Extra - minimap_data: [{'x': 30, 'y': 23}, {'x': 31, 'y': 23}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 192, 'should_wave': True, 'wave_speed': 0.01, 'wave_height': 0.1}
 > Horizontal Dock to Water Turbine Station; Heals? False; Default Node
   * Layers: default
-  * 3-Tiles High Dock to Water Turbine Station/Horizontal Dock to Water Turbine Station Pipe
+  * 3-Tiles High Dock to Water Turbine Station/Horizontal Dock to Water Turbine Pipe
   > Pipe to Genetics Laboratory
       Morph Ball
 
