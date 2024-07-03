@@ -578,12 +578,12 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 > Vertical Dock to Upper Factory Save Station; Heals? False
   * Layers: default
   * 2-Tiles Wide Dock to Upper Factory Save Station/Vertical Dock to Upper Factory Intersection
-  > Door to Upper Factory Gamma Nest
+  > Door to Upper Factory Gamma Den
       Trivial
 
-> Door to Upper Factory Gamma Nest; Heals? False
+> Door to Upper Factory Gamma Den; Heals? False
   * Layers: default
-  * Open Transition to Upper Factory Gamma Nest/Door to Upper Factory Intersection
+  * Open Transition to Upper Factory Gamma Den/Door to Upper Factory Intersection
   * Extra - instance_id: 115736
   * Extra - facing: left
   * Extra - x: 320
@@ -617,7 +617,7 @@ down to the gamma room
           Any of the following:
               Hi-Jump Boots or Power Grip
               Walljump (Beginner) and Can Walljump
-  > Door to Upper Factory Gamma Nest
+  > Door to Upper Factory Gamma Den
       Any of the following:
           Space Jump or Can Use Spider Ball
           # Get up using sand
@@ -727,14 +727,14 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
       Can Use Any Bombs and Power Grip Climb
 
 ----------------
-Upper Factory Gamma Nest
+Upper Factory Gamma Den
 Extra - map_name: rm_a3a07
 Extra - minimap_data: [{'x': 65, 'y': 23}, {'x': 65, 'y': 24}, {'x': 65, 'y': 25}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 > Door to Upper Factory Intersection; Heals? False
   * Layers: default
-  * Open Transition to Upper Factory Intersection/Door to Upper Factory Gamma Nest
+  * Open Transition to Upper Factory Intersection/Door to Upper Factory Gamma Den
   * Extra - instance_id: 116374
   * Extra - facing: right
   * Extra - x: 0
@@ -768,7 +768,7 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 
 > Vertical Dock to Upper Factory Autoad Fork; Heals? False
   * Layers: default
-  * 2-Tiles Wide Dock to Upper Factory Autoad Fork/Vertical Dock to Upper Factory Gamma Nest
+  * 2-Tiles Wide Dock to Upper Factory Autoad Fork/Vertical Dock to Upper Factory Gamma Den
   > Door to Upper Factory Intersection
       Any of the following:
           After Metroids Area 3 - Interior Shaft Gamma and Walljump (Intermediate) and Enabled Septogg Helpers and Can Walljump
@@ -828,9 +828,9 @@ Extra - map_name: rm_a3a08
 Extra - minimap_data: [{'x': 65, 'y': 26}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
-> Vertical Dock to Upper Factory Gamma Nest; Heals? False
+> Vertical Dock to Upper Factory Gamma Den; Heals? False
   * Layers: default
-  * 2-Tiles Wide Dock to Upper Factory Gamma Nest/Vertical Dock to Upper Factory Autoad Fork
+  * 2-Tiles Wide Dock to Upper Factory Gamma Den/Vertical Dock to Upper Factory Autoad Fork
   > Door to Speed Booster Chamber Access
       Trivial
 
@@ -841,7 +841,7 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
   * Extra - facing: right
   * Extra - x: 0
   * Extra - y: 208
-  > Vertical Dock to Upper Factory Gamma Nest
+  > Vertical Dock to Upper Factory Gamma Den
       Power Grip Wall
   > Door to Shirk Prisons
       Trivial
@@ -1080,24 +1080,24 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
   * Extra - facing: left
   * Extra - x: 1280
   * Extra - y: 96
-  > Tunnel to Upper Factory Alpha Nest
+  > Tunnel to Upper Factory Alpha Den
       Can Use Any Bombs and Power Grip Climb
 
-> Tunnel to Upper Factory Alpha Nest; Heals? False
+> Tunnel to Upper Factory Alpha Den; Heals? False
   * Layers: default
-  * Morph Ball Tunnel to Upper Factory Alpha Nest/Tunnel to Autom Alleyway
+  * Morph Ball Tunnel to Upper Factory Alpha Den/Tunnel to Autom Alleyway
   > Door to Spiky Shaft
       Power Grip Wall
 
 ----------------
-Upper Factory Alpha Nest
+Upper Factory Alpha Den
 Extra - map_name: rm_a3a15
 Extra - minimap_data: [{'x': 66, 'y': 25}, {'x': 67, 'y': 25}, {'x': 68, 'y': 25}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 > Tunnel to Autom Alleyway; Heals? False
   * Layers: default
-  * Morph Ball Tunnel to Autom Alleyway/Tunnel to Upper Factory Alpha Nest
+  * Morph Ball Tunnel to Autom Alleyway/Tunnel to Upper Factory Alpha Den
   > Outside Of Tunnel
       Morph Ball
 
@@ -1580,9 +1580,9 @@ Extra - map_name: rm_a3a25
 Extra - minimap_data: [{'x': 67, 'y': 31}, {'x': 67, 'y': 32}, {'x': 68, 'y': 31}, {'x': 68, 'y': 32}, {'x': 69, 'y': 31}, {'x': 69, 'y': 32}, {'x': 70, 'y': 31}, {'x': 70, 'y': 32}, {'x': 71, 'y': 31}, {'x': 71, 'y': 32}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 1, 'liquid_level': 224}
-> Door to Lower Factory Gamma Nest; Heals? False
+> Door to Lower Factory Gamma Den; Heals? False
   * Layers: default
-  * Open Transition to Lower Factory Gamma Nest/Door to Lower Factory Lava Lake
+  * Open Transition to Lower Factory Gamma Den/Door to Lower Factory Lava Lake
   * Extra - instance_id: 119846
   * Extra - facing: left
   * Extra - x: 1600
@@ -1602,7 +1602,7 @@ Extra - liquid_info: {'liquid_type': 1, 'liquid_level': 224}
   * Extra - facing: right
   * Extra - x: 0
   * Extra - y: 176
-  > Door to Lower Factory Gamma Nest
+  > Door to Lower Factory Gamma Den
       Any of the following:
           Space Jump
           All of the following:
@@ -1613,14 +1613,14 @@ Extra - liquid_info: {'liquid_type': 1, 'liquid_level': 224}
                   Damage Boost (Intermediate) and Lava Damage ≥ 130
 
 ----------------
-Lower Factory Gamma Nest
+Lower Factory Gamma Den
 Extra - map_name: rm_a3a26
 Extra - minimap_data: [{'x': 72, 'y': 31}, {'x': 73, 'y': 31}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 1, 'liquid_level': 192}
 > Door to Lower Factory Lava Lake; Heals? False
   * Layers: default
-  * Open Transition to Lower Factory Lava Lake/Door to Lower Factory Gamma Nest
+  * Open Transition to Lower Factory Lava Lake/Door to Lower Factory Gamma Den
   * Extra - instance_id: 119956
   * Extra - facing: right
   * Extra - x: 0

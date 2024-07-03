@@ -1346,9 +1346,9 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
   > Middle
       Trivial
 
-> Door to Breeding Grounds Alpha Nest East; Heals? False
+> Door to Breeding Grounds Alpha Den East; Heals? False
   * Layers: default
-  * Open Transition to Breeding Grounds Alpha Nest East/Door to Breeding Grounds Shaft
+  * Open Transition to Breeding Grounds Alpha Den East/Door to Breeding Grounds Shaft
   * Extra - instance_id: 112032
   * Extra - facing: left
   * Extra - x: 320
@@ -1373,7 +1373,7 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
   * Extra - facing: right
   * Extra - x: 0
   * Extra - y: 864
-  > Door to Breeding Grounds Alpha Nest East
+  > Door to Breeding Grounds Alpha Den East
       Hijump Wall
 
 > Horizontal Dock to Breeding Grounds Overgrown Alley; Heals? False
@@ -1395,7 +1395,7 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
   * Layers: default
   > Door to Breeding Grounds Save Station
       Power Grip Wall
-  > Door to Breeding Grounds Alpha Nest East
+  > Door to Breeding Grounds Alpha Den East
       Trivial
   > Horizontal Dock to Breeding Grounds Overgrown Alley
       All of the following:
@@ -1406,14 +1406,14 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
               Damage Boost (Beginner) and Lava Damage ≥ 5
 
 ----------------
-Breeding Grounds Alpha Nest East
+Breeding Grounds Alpha Den East
 Extra - map_name: rm_a2c04
 Extra - minimap_data: [{'x': 27, 'y': 24}, {'x': 28, 'y': 24}, {'x': 28, 'y': 25}, {'x': 29, 'y': 24}, {'x': 29, 'y': 25}, {'x': 30, 'y': 24}, {'x': 30, 'y': 25}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 > Door to Breeding Grounds Shaft; Heals? False
   * Layers: default
-  * Open Transition to Breeding Grounds Shaft/Door to Breeding Grounds Alpha Nest East
+  * Open Transition to Breeding Grounds Shaft/Door to Breeding Grounds Alpha Den East
   * Extra - instance_id: 112388
   * Extra - facing: right
   * Extra - x: 0
@@ -1459,15 +1459,15 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
   > Top
       Trivial
 
-> Horizontal Dock to Breeding Grounds Gamma Nest; Heals? False
+> Horizontal Dock to Breeding Grounds Gamma Den; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Breeding Grounds Gamma Nest/Horizontal Dock to Breeding Grounds Lobby
+  * 3-Tiles High Dock to Breeding Grounds Gamma Den/Horizontal Dock to Breeding Grounds Lobby
   > Top
       Power Grip Wall
 
-> Door to Breeding Grounds Alpha Nest West; Heals? False
+> Door to Breeding Grounds Alpha Den West; Heals? False
   * Layers: default
-  * Open Transition to Breeding Grounds Alpha Nest West/Door to Breeding Grounds Lobby
+  * Open Transition to Breeding Grounds Alpha Den West/Door to Breeding Grounds Lobby
   * Extra - instance_id: 112631
   * Extra - facing: right
   * Extra - x: 0
@@ -1486,9 +1486,9 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
   * Layers: default
   > Door to Breeding Grounds Shaft
       Trivial
-  > Horizontal Dock to Breeding Grounds Gamma Nest
+  > Horizontal Dock to Breeding Grounds Gamma Den
       Trivial
-  > Door to Breeding Grounds Alpha Nest West
+  > Door to Breeding Grounds Alpha Den West
       Trivial
   > Pickup (Energy Tank)
       All of the following:
@@ -1500,14 +1500,14 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
                   Mid-Air Morph (Intermediate) or Tunnel Climb
 
 ----------------
-Breeding Grounds Alpha Nest West
+Breeding Grounds Alpha Den West
 Extra - map_name: rm_a2c06
 Extra - minimap_data: [{'x': 19, 'y': 23}, {'x': 19, 'y': 24}, {'x': 20, 'y': 23}, {'x': 20, 'y': 24}, {'x': 21, 'y': 23}, {'x': 21, 'y': 24}, {'x': 21, 'y': 25}, {'x': 22, 'y': 23}, {'x': 22, 'y': 24}, {'x': 22, 'y': 25}, {'x': 23, 'y': 23}, {'x': 23, 'y': 24}, {'x': 23, 'y': 25}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 > Door to Breeding Grounds Lobby; Heals? False
   * Layers: default
-  * Open Transition to Breeding Grounds Lobby/Door to Breeding Grounds Alpha Nest West
+  * Open Transition to Breeding Grounds Lobby/Door to Breeding Grounds Alpha Den West
   * Extra - instance_id: 113031
   * Extra - facing: left
   * Extra - x: 1600
@@ -1551,7 +1551,7 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 
 > Dock to Breeding Grounds Overgrown Alley; Heals? False
   * Layers: default
-  * Open Passage to Breeding Grounds Overgrown Alley/Dock from Breeding Grounds Alpha Nest West
+  * Open Passage to Breeding Grounds Overgrown Alley/Dock from Breeding Grounds Alpha Den West
   * TODO: Vertical Dock info
 
 > Event - Alpha; Heals? False
@@ -1570,20 +1570,20 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
       Trivial
 
 ----------------
-Breeding Grounds Gamma Nest
+Breeding Grounds Gamma Den
 Extra - map_name: rm_a2c07
 Extra - minimap_data: [{'x': 25, 'y': 27}, {'x': 26, 'y': 27}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 > Horizontal Dock to Breeding Grounds Lobby; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Breeding Grounds Lobby/Horizontal Dock to Breeding Grounds Gamma Nest
-  > Horizontal Dock to Breeding Grounds Alpha Nest South
+  * 3-Tiles High Dock to Breeding Grounds Lobby/Horizontal Dock to Breeding Grounds Gamma Den
+  > Horizontal Dock to Breeding Grounds Alpha Den South
       Trivial
 
-> Horizontal Dock to Breeding Grounds Alpha Nest South; Heals? False
+> Horizontal Dock to Breeding Grounds Alpha Den South; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Breeding Grounds Alpha Nest South/Horizontal Dock to Breeding Grounds Gamma Nest
+  * 3-Tiles High Dock to Breeding Grounds Alpha Den South/Horizontal Dock to Breeding Grounds Gamma Den
   > Horizontal Dock to Breeding Grounds Lobby
       Trivial
   > Event - Gamma
@@ -1592,7 +1592,7 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 > Event - Gamma; Heals? False
   * Layers: default
   * Event Metroids Area 2 - Breeding Grounds Gamma
-  > Horizontal Dock to Breeding Grounds Alpha Nest South
+  > Horizontal Dock to Breeding Grounds Alpha Den South
       Trivial
   > Pickup (Gamma)
       Trivial
@@ -1605,14 +1605,14 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
       Trivial
 
 ----------------
-Breeding Grounds Alpha Nest South
+Breeding Grounds Alpha Den South
 Extra - map_name: rm_a2c08
 Extra - minimap_data: [{'x': 27, 'y': 26}, {'x': 27, 'y': 27}, {'x': 27, 'y': 28}, {'x': 28, 'y': 26}, {'x': 28, 'y': 27}, {'x': 28, 'y': 28}, {'x': 29, 'y': 26}, {'x': 29, 'y': 27}, {'x': 29, 'y': 28}, {'x': 30, 'y': 26}, {'x': 30, 'y': 27}]
 Extra - light_level: 0
 Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
-> Horizontal Dock to Breeding Grounds Gamma Nest; Heals? False
+> Horizontal Dock to Breeding Grounds Gamma Den; Heals? False
   * Layers: default
-  * 3-Tiles High Dock to Breeding Grounds Gamma Nest/Horizontal Dock to Breeding Grounds Alpha Nest South
+  * 3-Tiles High Dock to Breeding Grounds Gamma Den/Horizontal Dock to Breeding Grounds Alpha Den South
   > Event - Alpha
       All of the following:
           Defeat dodging Alpha
@@ -1643,7 +1643,7 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
 > Event - Alpha; Heals? False
   * Layers: default
   * Event Metroids Area 2 - Breeding Grounds Lower Right Alpha
-  > Horizontal Dock to Breeding Grounds Gamma Nest
+  > Horizontal Dock to Breeding Grounds Gamma Den
       Any of the following:
           Space Jump Wall
           Go Through Vines and Hijump Wall
@@ -1690,9 +1690,9 @@ Extra - liquid_info: {'liquid_type': 0, 'liquid_level': 0}
           Gravity Suit
           Damage Boost (Beginner) and Lava Damage ≥ 10
 
-> Dock from Breeding Grounds Alpha Nest West; Heals? False
+> Dock from Breeding Grounds Alpha Den West; Heals? False
   * Layers: default
-  * Back Only to Breeding Grounds Alpha Nest West/Dock to Breeding Grounds Overgrown Alley
+  * Back Only to Breeding Grounds Alpha Den West/Dock to Breeding Grounds Overgrown Alley
   * TODO: Vertical Dock info
   > Pickup (Missile Tank)
       Tunnel Climb
